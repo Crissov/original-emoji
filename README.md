@@ -13,3 +13,5 @@ Until circa mid-2015, Japanese carriers added emojis in their traditional design
 [KDDI](kddi-au/) uses _au_ as a brand name. It previously used labels like [_EZweb_](ez-web/).
 
 [E-Mobile](emobile/) had a service known as [eAccess](e-access/).
+
+Also see [this Google Spreadsheet](https://docs.google.com/spreadsheets/d/1X-jx6rYCqEjkp3Z4_qhBW0etIVbk4gqslaWWbYvNROY/edit) for codes etc.

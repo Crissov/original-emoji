@@ -2,6 +2,12 @@
 
 ![SoftBank logo](../img/softbank_logo.png)
 
+- <http://broadband.mb.softbank.jp/mb/service/3G/mail/pictogram/convert.pdf>
+- <https://www.softbank.jp/mobile/service/mail/smartphone/pictgram/>
+- <http://creation.mb.softbank.jp/mc/tech/tech_pic/pic_material_1.html>
+- still image: `http://creation.mb.softbank.jp/mc/tech/tech_pic/img/E{3 uppercase hexadecimal digits}_20.gif`, 
+  animated: `http://creation.mb.softbank.jp/mc/tech/tech_pic/img/E{3 uppercase hexadecimal digits}_20_ani.gif`
+
 ## [gif](gif/) ##
 
 - Source: J-Phone epad archive

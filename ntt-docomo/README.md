@@ -5,6 +5,9 @@
 
 ![overview of original i-mode emojis](i-emoji.gif)
 
+- [original i-mode emojis](https://www.nttdocomo.co.jp/service/developer/make/content/pictograph/basic/index.html): `https://www.nttdocomo.co.jp/service/developer/make/content/pictograph/basic/images/{3 decimal digits < 207 or 177}.gif`
+- [later extensions](https://www.nttdocomo.co.jp/service/developer/make/content/pictograph/extention/index.html): `https://www.nttdocomo.co.jp/service/developer/make/content/pictograph/extention/images/{3 decimal digits < 77}.gif`
+
 ## [AI](ai/) ##
 
 - Adobe Illustrator glyphs (vector files)

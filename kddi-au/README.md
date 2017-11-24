@@ -2,6 +2,9 @@
 
 ![au by KDDI logo](../img/kddi-au_logo.png)
 
+- <https://www.au.com/ezfactory/tec/spec/3.html>: types C, D, E, F
+- `http://www001.upp.so-net.ne.jp/hdml/emoji/e/{3 decimal digits}.gif`
+
 ## [ai](ai/) ##
 
 - Adobe Illustrator glyphs (vector files)
