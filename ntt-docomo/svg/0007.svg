@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+    <defs>
+        <clipPath id="a">
+            <path d="M0 24h24V0H0z"/>
+        </clipPath>
+        <clipPath id="b">
+            <path d="M1 23h22V1H1z"/>
+        </clipPath>
+    </defs>
+    <g clip-path="url(#a)" transform="matrix(1.33333 0 0 -1.33333 0 32)">
+        <g fill="#00f" clip-path="url(#b)">
+            <path d="M23 1h-3.67v1.3H23zM23 7.9h-3.67v1.3H23zM23 14.8h-3.67v1.3H23zM23 21.7h-3.67V23H23zM19.93 4.45h-3.64v1.3h3.64zM19.93 11.35h-3.64v1.3h3.64zM19.93 18.25h-3.64v1.3h3.64zM16.89 1h-3.67v1.3h3.67zM16.89 7.9h-3.67v1.3h3.67zM16.89 14.8h-3.67v1.3h3.67zM16.89 21.7h-3.67V23h3.67zM13.82 4.45h-3.64v1.3h3.64zM13.82 11.35h-3.64v1.3h3.64zM13.82 18.25h-3.64v1.3h3.64zM10.78 1H7.11v1.3h3.67zM10.78 7.9H7.11v1.3h3.67zM10.78 14.8H7.11v1.3h3.67zM10.78 21.7H7.11V23h3.67zM7.73 4.45H4.05v1.3h3.68zM7.73 11.35H4.05v1.3h3.68zM7.73 18.25H4.05v1.3h3.68zM4.67 1H1v1.3h3.67zM4.67 7.9H1v1.3h3.67zM4.67 14.8H1v1.3h3.67zM4.67 21.7H1V23h3.67z"/>
+        </g>
+    </g>
+</svg>
