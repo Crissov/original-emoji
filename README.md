@@ -15,3 +15,11 @@ Until circa mid-2015, Japanese carriers added emojis in their traditional design
 [E-Mobile](emobile/) had a service known as [eAccess](e-access/).
 
 Also see [this Google Spreadsheet](https://docs.google.com/spreadsheets/d/1X-jx6rYCqEjkp3Z4_qhBW0etIVbk4gqslaWWbYvNROY/edit) for codes etc.
+
+The original Unicode mapping tables etc. were hosted at <http://code.google.com/p/emoji4unicode> 
+but were moved to <https://github.com/googlei18n/emoji4unicode> (E4U) when Google Code was closed down. 
+The documentation is still found at <http://sites.google.com/site/unicodesymbols/Home/emoji-symbols>. 
+Official Unicode documentation is now at <http://unicode.org/emoji/> 
+with <http://unicode.org/emoji/charts/full-emoji-list.html> (huge document) and <http://unicode.org/emoji/charts/emoji-versions-sources.html> of particular interest for this project. 
+Raw data is found in <http://www.unicode.org/Public/emoji/latest/> and <http://www.unicode.org/Public/UCD/latest/ucd/EmojiSources.txt>.
+This last file is basically the condensed result of the E4U work.
