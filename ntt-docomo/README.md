@@ -8,6 +8,14 @@
 - [original i-mode emojis](https://www.nttdocomo.co.jp/service/developer/make/content/pictograph/basic/index.html): `https://www.nttdocomo.co.jp/service/developer/make/content/pictograph/basic/images/{3 decimal digits < 207 or 177}.gif`
 - [later extensions](https://www.nttdocomo.co.jp/service/developer/make/content/pictograph/extention/index.html): `https://www.nttdocomo.co.jp/service/developer/make/content/pictograph/extention/images/{3 decimal digits < 77}.gif`
 
+- https://www.nttdocomo.co.jp/binary/pdf/service/imode_mail/function/emoji_convert/pictogram.pdf 2012-04 Correspondence to KDDI au, E-Mobile, SoftBank, Disney Mobile, iPhone
+
+Shift-JIS codes: hexadecimal F890..F9FF (with empty spaces).
+Basic (#1..176) F89F..F8FC, F940..F9B0 with interruptions (U+E63E..E6BA), 
+hidden (#177..206) F94A..F94F, F953..F954, F958..F95A, F95F..F971 (U+E6A6..E6CD), 
+extended (#x1..x76) F9B1..F9FC (U+E70C..E757).
+
+
 ## [AI](ai/) ##
 
 - Adobe Illustrator glyphs (vector files)

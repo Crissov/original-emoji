@@ -1,9 +1,12 @@
-# KDDI au #
+# KDDI au, TU-KA #
 
 ![au by KDDI logo](../img/kddi-au_logo.png)
 
 - <https://www.au.com/ezfactory/tec/spec/3.html>: types C, D, E, F
 - `http://www001.upp.so-net.ne.jp/hdml/emoji/e/{3 decimal digits}.gif`
+
+- https://www.au.com/content/dam/au-com/static/designs/extlib/pdf/mobile/service/featurephone/communication/emoji/taiohyo_iphone_01.pdf
+- [http://www.au.kddi.com/emoji/service/sample.html](https://web.archive.org/web/20120407041341/http://www.au.kddi.com:80/emoji/service/sample.html)
 
 ## [ai](ai/) ##
 
