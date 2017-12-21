@@ -1,14 +1,13 @@
 # EZweb, EZmail #
 
+![Overview EZweb Set D](color_renew.gif)
+
 also see [KDDI au](../kddi-au/)
 
-WAP 2.0
+## Evolution
 
-- <http://cgi.wap2.jp/emoji/ezweb/color_ico2.html> before 2002: 1..330, 331..334, 500..518, some without 305..334 and 500..518
-	![1..330](color_ico2.gif)
-	![331..334, 500..518](color_ico_wap2_plus.gif)
-- <http://cgi.wap2.jp/emoji/ezweb/color_ico_renew.html> 2002: 1..518, 700..828
-	![1..518, 700..828](color_renew.gif)
+- <http://cgi.wap2.jp/emoji/ezweb/color_ico2.html> before 2002: [1..330](color_ico2.gif), [331..334, 500..518](color_ico_wap2_plus.gif), some without 305..334 and 500..518
+- <http://cgi.wap2.jp/emoji/ezweb/color_ico_renew.html> 2002: [1..518, 700..828](color_renew.gif)
 - <http://cgi.wap2.jp/emoji/ezweb/?act=new_pict> after 2002: [Openwave](../openwave/) 519..567 and 568..589
 
 ## Device support ##
@@ -43,3 +42,32 @@ WAP 2.0
 	SH001, SH002, SH003, SH004, SH006, SH007, SH009, SH010, SH011, 
 	T001, T002, T003, T004, T008, 
 	U1, G9
+
+## Overview images ##
+
+### A, 175 monochrome emojis
+
+![Set A: monochrome: 001 through 175](A_mono_ico.gif)
+
+### B, 175 colorful emojis
+
+![Set B with keywords: 001 through 175](color_ico1.gif)
+
+![Set B with names: 001 through 175](p_icon_color_image_01.gif)
+
+### C, 330 standard emojis plus WAP extension
+
+![Set C default: 001 through 330](color_ico2.gif)
+![Set C WAP 2.0 additions: 331 through 828](color_ico_wap2_plus.gif)
+
+### D, 500ish emojis
+
+![Set D: 001 through 828](color_ico_renew_e1-828.gif)
+
+## All four sets in parallel columns: A, B, C, D
+
+![001&ndash;175](parallel_001-175.gif)
+![176&ndash;334](parallel_176-334.gif)
+![335&ndash;499](parallel_335-499.gif)
+![500&ndash;518](parallel_500-518.gif)
+![700&ndash;828](parallel_700-828.gif)
