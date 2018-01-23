@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" height="24" width="24">
+	<g transform="matrix(1,0,0,-1,-264,408)" id="KDDI_D_086">
+        <path d="M287.5 395.8c0-2.8-2.3-5-5-5h-12.9c-2.8 0-5 2.2-5 5v6.6c0 2.8 2.2 5 5 5h12.9c2.7 0 5-2.2 5-5z" fill="#ff0"/>
+        <path d="M287.5 395.8c0-2.8-2.3-5-5-5h-12.9c-1.1 0-2.3.7-3.2 1.3-.6.4 6.5 1.3 11.4 4.5 5.3 3.4 8.3 8.8 8.8 8.1.4-.8.9-1.3.9-2.3z" fill="#c60"/>
+        <path d="M286.3 396.9c0-2.7-1.1-4.9-4.8-4.9h-12.2c-1.1 0-1.9.5-2.3 1.1-.4.6 7.3 1 12.2 4.2 4.9 3.1 6.2 7.5 6.2 7.5s.9-1 .9-2zM279 391.2l-4.8-6.7v6.6" fill="#f90"/>
+        <path d="M274.5 391l1.5 2.8v-3.6l-1.5-4.6z" fill="#ff0"/>
+        <path d="M277.9 393.9l.7-3.1-2.2.1z" fill="#f90"/>
+        <path d="M275.5 393.4v-4.5l3 4.5" fill="#fc0"/>
+        <path d="M285.4 396.3c0-1.9-1.4-3.3-3.1-3.3h-12.5c-1.8 0-3.2 1.4-3.2 3.3v5.8c0 1.8 1.4 3.3 3.2 3.3h12.5c1.7 0 3.1-1.5 3.1-3.3z" fill="#fc0"/>
+        <path d="M283.7 404.7l1.5 1.3s.5-.1.9-.5.6-1.2.6-1.2l-2.1-.7z" fill="#fc3"/>
+        <path d="M266.4 392.7c-.3.7-.6 1.4-.6 2.2v7.3c0 2.2 1.9 4.1 4.1 4.1h13.9c.5 0 1.1-.1 1.5-.3.6-.3.8 0 .2.4-.8.6-1.9 1-3 1h-12.9c-2.8 0-5-2.2-5-5v-6.6c0-1.3.5-2.5 1.3-3.4.9-1 1.2-.8.5.3z" fill="#ff9"/>
+        <path d="M267.4 394.5l-1.7-1.3s.1-.3.5-.8c.4-.6 1-.8 1-.8l.9 2.2z" fill="#fc3"/>
+        <path d="M282.5 407.4h-12.9c-2.8 0-5-2.2-5-5v-6.6c0-2.8 2.2-5 5-5h4.6v-6.3l4.5 6.3h3.8c2.7 0 5 2.2 5 5v6.6c0 2.8-2.3 5-5 5z" fill="none" stroke="#000" stroke-width="1.004" stroke-linejoin="round"/>
+        <path d="M280.7 402.8h1.9" fill="none" stroke="#000" stroke-width="1.305" stroke-linejoin="round"/>
+        <path d="M278.2 402.8h2.5" fill="none" stroke="#666" stroke-width="1.305" stroke-linejoin="round"/>
+        <path d="M274.6 402.8h3.6" fill="none" stroke="#000" stroke-width="1.305" stroke-linejoin="round"/>
+        <path d="M271.9 402.8h2.7" fill="none" stroke="#666" stroke-width="1.305" stroke-linejoin="round"/>
+        <path d="M269.6 402.8h2.3M280.1 399.3h2.5" fill="none" stroke="#000" stroke-width="1.305" stroke-linejoin="round"/>
+        <path d="M277.3 399.3h2.8" fill="none" stroke="#666" stroke-width="1.305" stroke-linejoin="round"/>
+        <path d="M275 399.3h2.3" fill="none" stroke="#000" stroke-width="1.305" stroke-linejoin="round"/>
+        <path d="M272.2 399.3h2.8" fill="none" stroke="#666" stroke-width="1.305" stroke-linejoin="round"/>
+        <path d="M269.6 399.3h2.6M275.7 395.9h4.1" fill="none" stroke="#000" stroke-width="1.305" stroke-linejoin="round"/>
+        <path d="M272.6 395.9h3.1" fill="none" stroke="#666" stroke-width="1.305" stroke-linejoin="round"/>
+        <path d="M269.6 395.9h3" fill="none" stroke="#000" stroke-width="1.305" stroke-linejoin="round"/>
+    </g>
+</svg>

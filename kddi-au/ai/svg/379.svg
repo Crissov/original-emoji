@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" height="24" width="24">
+    <g transform="matrix(1,0,0,-1,-264,408)" id="KDDI_D_">        <path d="M288 384h-24v5.4h24z" fill="#9cf"/>
+        <path d="M264 386.8h2M267 386.8h2M270 386.8h2M273 386.8h2M276 386.8h2M279 386.8h2M282 386.8h2M285 386.8h2" fill="none" stroke="#39f" stroke-linejoin="round"/>
+        <path d="M265 385h2M268 385h2M271 385h2M274 385h2M277 385h2M280 385h2M283 385h2M286 385h2" fill="none" stroke="#39f" stroke-width="1.2" stroke-linejoin="round"/>
+        <path d="M265 388.6h2M268 388.6h2M271 388.6h2M274 388.6h2M277 388.6h2M280 388.6h2M283 388.6h2M286 388.6h2" fill="none" stroke="#39f" stroke-width=".75" stroke-linejoin="round"/>
+        <path d="M269.2 388.2H288" fill="none" stroke="#06c" stroke-width="1.3" stroke-linejoin="round"/>
+        <path d="M278.1 399.9h-3.2v5.9h3.2z" fill="#cc9"/>
+        <path d="M278.1 399.9h-.8v5.9h.8z" fill="#666"/>
+        <path d="M278.1 401.5h-3.2v3.2h3.2z" fill="red"/>
+        <path d="M275.9 401.5h-1v3.2h1z" fill="#f63"/>
+        <path d="M278.1 401.5h-.9v3.2h.9z" fill="#900"/>
+        <path d="M283.6 399.9h-3.2v5.9h3.2z" fill="#cc9"/>
+        <path d="M283.6 399.9h-.8v5.9h.8z" fill="#666"/>
+        <path d="M283.6 401.5h-3.2v3.2h3.2z" fill="red"/>
+        <path d="M281.4 401.5h-1v3.2h1z" fill="#f63"/>
+        <path d="M283.6 401.5h-.9v3.2h.9z" fill="#900"/>
+        <path d="M286.3 394.1v5.7h-14l-5.6-5.7z" fill="#cc9"/>
+        <path d="M268.5 396h17.8v3.8h-14z" fill="#999"/>
+        <path d="M276 396h-2.2v3.7h2.2zM272.2 399.7l-3.7-3.7h4.2v3.7zM279.3 396h-2.2v3.7h2.2zM282.5 396h-2.2v3.7h2.2zM285.8 396h-2.2v3.7h2.2z" fill="#666"/>
+        <path d="M286.3 399.8h-14" fill="none" stroke="#cc9" stroke-linecap="round" stroke-linejoin="round"/>
+        <path d="M272.3 399.8l-5.6-5.7" fill="none" stroke="#999" stroke-linecap="round" stroke-linejoin="round"/>
+        <path d="M266.7 394.1h19.6v5.7" fill="none" stroke="#333" stroke-linecap="round" stroke-linejoin="round"/>
+        <path d="M264.4 394.5l5.6-5.5h16.3l1.3 2v3.5z" fill="#fff"/>
+        <path d="M267.5 391.4l1.1-1h18.6l.4.6v.4z" fill="#f63"/>
+        <path d="M287.3 390.6h-18.9l1.2-1.3h16.9z" fill="#c00"/>
+        <path d="M287.6 394.5h-23.2" fill="none" stroke="#666" stroke-linecap="round" stroke-linejoin="round"/>
+        <path d="M264.4 394.5l5.6-5.5h16.3l1.3 2v3.5" fill="none" stroke="#336" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" height="24" width="24">
+    <g transform="matrix(1,0,0,-1,-264,408)" id="KDDI_D_">        <path d="M264.9 388.9h2.1c2.2 0 3.2 2 5.5 2s3.8-2 5.7-2h9.3v16.6h-9.3c-1.9 0-3.4 1.9-5.7 1.9-2.3 0-3.3-2-5.5-2h-2.1" fill="#fff"/>
+        <path d="M273.3 390.8c1.3-.2 2.4-1 3.5-1.5v16.6c-1.1.4-2.2 1.2-3.5 1.5zM267.5 405.5c-.2 0-.3-.1-.5-.1h-2.1v-16.5h2.6z" fill="#ccc"/>
+        <path d="M267.5 405.5c-.2 0-.3-.1-.5-.1h-2.3" fill="none" stroke="#666" stroke-linecap="round"/>
+        <path d="M273.3 407.4h-.8c-2.1 0-3.2-1.6-5-1.9" fill="none" stroke="#999" stroke-linecap="round"/>
+        <path d="M287.5 405.5h-9.3c-1.7 0-3 1.5-4.9 1.9" fill="none" stroke="#666" stroke-linecap="round"/>
+        <path d="M287.5 388.9v16.6" fill="none" stroke="#333" stroke-linecap="round"/>
+        <path d="M264.7 388.9h2.3c2.2 0 3.2 2 5.5 2s3.8-2 5.7-2h9.3" fill="none" stroke="#000" stroke-linecap="round"/>
+        <path d="M265.1 408v-24" fill="none" stroke="#000"/>
+        <path d="M264.6 408v-24" fill="none" stroke="#666"/>
+        <path d="M280.4 398c0-2.4-1.9-4.4-4.4-4.4-2.4 0-4.3 2.5-4.3 4.9 0 2.4 1.9 3.9 4.3 3.9 2.5 0 4.4-2 4.4-4.4z" fill="#c00"/>
+        <path d="M276.8 402.3c-.3.1-.5.1-.8.1-1 0-2-.3-2.7-.8v-6.7c.7-.8 1.7-1.3 2.7-1.3.3 0 .5.1.8.1z" fill="#900"/>
+    </g>
+</svg>

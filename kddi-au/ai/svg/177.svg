@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" height="24" width="24">
+    <g transform="matrix(1,0,0,-1,-264,408)" id="KDDI_D_">        <path d="M280.2 399.4h7.3v-5.7h-7.3z" fill="#c90"/>
+        <path d="M280.2 397.8h7.3v-4.1h-7.3z" fill="#c60"/>
+        <path d="M267.3 399.4h13.2v-5.7h-13.2z" fill="#fff"/>
+        <path d="M267.3 397.8h13.2v-4.1h-13.2z" fill="#cc9"/>
+        <path d="M264.1 399.4h3.4v-5.7h-3.4z" fill="#c00"/>
+        <path d="M267.5 399.4h20v-5.7h-20" fill="none" stroke="#000"/>
+        <path d="M267.5 393.7h-3.4" fill="none" stroke="#600"/>
+        <path d="M264.1 399.4h3.4" fill="none" stroke="#f30"/>
+        <path d="M265.6 384.6l21.8 21.7" fill="none" stroke="#900" stroke-linecap="round"/>
+        <path d="M264.6 385.6l21.8 21.8" fill="none" stroke="#f30" stroke-linecap="round"/>
+        <path d="M264.6 384.6l22.8 22.8" fill="none" stroke="red" stroke-linecap="round"/>
+    </g>
+</svg>

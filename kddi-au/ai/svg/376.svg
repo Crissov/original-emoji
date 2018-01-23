@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" height="24" width="24">
+    <g transform="matrix(1,0,0,-1,-264,408)" id="KDDI_D_">        <path d="M283.2 399.7v7.8h-14.3v-7.8h-4.4v-15.3h23.1v15.3z" fill="#cc9"/>
+        <path d="M287.6 399.7h-4.4v7.8h-14.3v-1.4h12.9v-7.8h4.4v-13.9h1.4z" fill="#996"/>
+        <path d="M287.6 399.7h-4.4l-1.4-1.4h4.4zM270.3 398.3v7.8h11.5l1.4 1.4h-14.3v-7.8h-4.4v-15.3h1.4v13.9z" fill="#fff"/>
+        <path d="M268.4 394.8h-2.2v2.2h2.2z" fill="#36f"/>
+        <path d="M268.4 396.1v.9h-2.2v-2.2h.9v1.3z" fill="#00c"/>
+        <path d="M272.8 394.8h-2.3v2.2h2.3z" fill="#36f"/>
+        <path d="M272.8 396.1v.9h-2.3v-2.2h.9v1.3z" fill="#00c"/>
+        <path d="M281.4 394.8h-2.2v2.2h2.2z" fill="#36f"/>
+        <path d="M281.4 396.1v.9h-2.2v-2.2h.9v1.3z" fill="#00c"/>
+        <path d="M285.8 394.8h-2.3v2.2h2.3z" fill="#36f"/>
+        <path d="M285.8 396.1v.9h-2.3v-2.2h.9v1.3z" fill="#00c"/>
+        <path d="M268.4 390.5h-2.2v2.3h2.2z" fill="#36f"/>
+        <path d="M268.4 391.8v1h-2.2v-2.3h.9v1.3z" fill="#00c"/>
+        <path d="M272.8 390.5h-2.3v2.3h2.3z" fill="#36f"/>
+        <path d="M272.8 391.8v1h-2.3v-2.3h.9v1.3z" fill="#00c"/>
+        <path d="M277.1 390.5h-2.3v2.3h2.3z" fill="#36f"/>
+        <path d="M277.1 391.8v1h-2.3v-2.3h1v1.3z" fill="#00c"/>
+        <path d="M281.4 390.5h-2.2v2.3h2.2z" fill="#36f"/>
+        <path d="M281.4 391.8v1h-2.2v-2.3h.9v1.3z" fill="#00c"/>
+        <path d="M285.8 390.5h-2.3v2.3h2.3z" fill="#36f"/>
+        <path d="M285.8 391.8v1h-2.3v-2.3h.9v1.3z" fill="#00c"/>
+        <path d="M268.4 386.3h-2.2v2.2h2.2z" fill="#36f"/>
+        <path d="M268.4 387.6v.9h-2.2v-2.2h.9v1.3z" fill="#00c"/>
+        <path d="M285.8 386.3h-2.3v2.2h2.3z" fill="#36f"/>
+        <path d="M285.8 387.6v.9h-2.3v-2.2h.9v1.3z" fill="#00c"/>
+        <path d="M287.6 384.4v15.3h-4.4v7.8" fill="none" stroke="#333" stroke-linecap="square"/>
+        <path d="M264.5 384.4h23.1" fill="none" stroke="#000" stroke-linecap="square"/>
+        <path d="M283.2 407.5h-14.3v-7.8h-4.4v-15.3" fill="none" stroke="#666" stroke-linecap="square"/>
+        <path d="M278.1 383.9h-4.3v5.2h4.3z" fill="#36f"/>
+        <path d="M278.1 388.2v.9h-4.3v-5.2h1v4.3z" fill="#00c"/>
+        <path d="M271.7 401.4h8.6M276 397.1v8.6" fill="none" stroke="#c00" stroke-width="2"/>
+    </g>
+</svg>

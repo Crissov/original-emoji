@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" height="24" width="24">
+	<g transform="matrix(1,0,0,-1,-264,408)" id="KDDI_D_112">
+        <path d="M266.2 386.8h11.6v12.5l-5.1 5.1-6.5-6.6z" fill="#fc9"/>
+        <path d="M277.8 399.8l8.3-1.7V387h-8.3z" fill="#c60"/>
+        <path d="M273.2 386.9h-3.3v5h3.3z" fill="#600"/>
+        <path d="M274.3 386.9H271v5h3.3z" fill="#c60"/>
+        <path d="M266.2 386.8h19.9v10.9" fill="none" stroke="#000" stroke-linecap="square"/>
+        <path d="M266.2 397.6v-10.8" fill="none" stroke="#666" stroke-linecap="square"/>
+        <path d="M266 397.5h-1.3l7.6 7.9h7.2l7.9-7.9h-8.5l-6.6 6.6z" fill="#c00"/>
+        <path d="M265.8 405.8v-8l3.8 4.3v3.7z" fill="#c30"/>
+        <path d="M268.5 405.8v-4.6l1.1.9v3.7z" fill="#600"/>
+        <path d="M265.8 405.8v-8l1 1.4v6.6z" fill="#c60"/>
+        <path d="M284.7 390.6h-5v5h5z" fill="#69c"/>
+        <path d="M284.7 395.6h-5v-1h4v-4h1z" fill="#006"/>
+        <path d="M279.7 394.6v-4h4v4h-4m0-1h.9v-.9h-.9v.9m.9-2.8h-.9v.9h.9v-.9m1 1h-.9v.9h.9v-.9m0 1.8h-.9v.9h.9v-.9m.9-.9h-.9v.9h.9v-.9m.9.9h-.9v.9h.9z" fill="#669"/>
+        <path d="M271.5 393.7h-2.9v3.8h2.9z" fill="#69f"/>
+        <path d="M271.5 396.7v.8h-2.9v-3.8h.8v3z" fill="#33c"/>
+        <path d="M271.5 395.7h-1v1h1zM270.5 394.7h-1v1h1z" fill="#6cf"/>
+        <path d="M275.6 393.7h-2.9v3.8h2.9z" fill="#69f"/>
+        <path d="M275.6 396.7v.8h-2.9v-3.8h.9v3z" fill="#33c"/>
+        <path d="M275.6 395.7h-1v1h1zM274.6 394.7h-1v1h1z" fill="#6cf"/>
+        <path d="M265.9 397.5h-1.4l7.6 7.9h7.5l8-7.9h-8.9l-6.6 6.6z" fill="none" stroke="#c00" stroke-linejoin="round"/>
+        <path d="M279.5 405.4l7.9-7.9" fill="none" stroke="#900" stroke-linecap="round" stroke-linejoin="round"/>
+        <path d="M272.7 403.8l-6-6.3h-1.3" fill="none" stroke="#c60" stroke-linejoin="round"/>
+        <path d="M272.3 404.1l-6.3-6.6h-1.3" fill="none" stroke="#c00" stroke-linejoin="round"/>
+        <path d="M287.4 397.5h-8.7l-6.6 6.6" fill="none" stroke="#600" stroke-linecap="round" stroke-linejoin="round"/>
+        <path d="M264.7 397.5l7.6 7.9h7.2" fill="none" stroke="#f66" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+</svg>

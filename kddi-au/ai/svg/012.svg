@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" height="24" width="24">
+	<g transform="matrix(1,0,0,-1,-262,400)" id="KDDI_D_012">
+		<path id="path16" style="fill:white;fill-opacity:1;fill-rule:nonzero;stroke:none" d="m 277.8,399.3 c 0,0 2.9,-6.1 2.9,-9.1 0,-2.9 -3,-6.1 -7.5,-6.1 -4.6,0 -7.6,3.1 -7.6,6.1 0,3.1 3,9.1 3,9.1" />
+		<path id="path18" style="fill:#900;fill-opacity:1;fill-rule:nonzero;stroke:none" d="m 267,395.1 c -0.8,-1.7 -1.4,-3.5 -1.4,-4.9 0,-3 3,-6.1 7.6,-6.1 4.5,0 7.5,3.2 7.5,6.1 0,1.3 -0.6,3.2 -1.3,4.9 z" />
+		<path id="path20" style="fill:#603;fill-opacity:1;fill-rule:nonzero;stroke:none" d="m 277.1,395.1 c 0,0 1,-2.5 0.7,-4.7 -0.2,-2.1 -2.4,-3.1 -3.3,-3.7 -0.9,-0.7 -0.1,-2.6 1.7,-2 1.1,0.4 4.5,1.7 4.5,5.1 0,1.7 -1.3,5.3 -1.3,5.3 z" />
+		<path id="path22" style="fill:#c66;fill-opacity:1;fill-rule:nonzero;stroke:none" d="m 269,395.1 c 0,0 -1.3,-2.6 -1.3,-4.4 0,-1.4 1.1,-3.4 1.8,-3.9 0.7,-0.4 1.5,-0.3 1.4,0.5 -0.1,0.8 -1.4,2.2 -1.4,3.5 0,1.2 1.6,4.3 1.6,4.3 z" />
+		<path id="path24" style="fill:#fcc;fill-opacity:1;fill-rule:nonzero;stroke:none" d="m 268.3,393.1 c -0.8,-0.8 -0.6,-1.7 0,-2 0.5,-0.3 1.2,0 1.5,0.4 0.3,0.5 0.6,1.3 0.3,1.8 -0.2,0.3 -1.1,0.6 -1.8,-0.2 z" />
+		<path id="path26" style="fill:none;stroke:#666;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 268.8,399.6 h 8.9" />
+		<path id="path28" style="fill:none;stroke:#999;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 270.5,399.6 h 2.7" />
+		<path id="path30" style="fill:none;stroke:black;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 277.8,399.5 c 0,0 2.9,-6.3 2.9,-9.3 0,-2.9 -3,-6.1 -7.5,-6.1 -4.6,0 -7.6,3.1 -7.6,6.1 0,3.1 2.9,9.3 2.9,9.3" />
+		<path id="path32" style="fill:#ccc;fill-opacity:1;fill-rule:nonzero;stroke:black;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 277.8,377.2 c 0,-0.4 -2.1,-0.5 -4.6,-0.5 -2.5,0 -4.6,0.1 -4.6,0.5 0,0.3 2.1,1.2 4.6,1.2 2.5,0 4.6,-0.9 4.6,-1.2 z" />
+		<path id="path34" style="fill:none;stroke:black;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 273.2,383.9 v -6.2" />
+	</g>
+</svg>

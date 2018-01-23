@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" height="24" width="24" version="1.1">
+	<g transform="matrix(1,0,0,-1,-262,400)" id="KDDI_D_002">
+		<path id="path16" style="fill:red;fill-opacity:1;fill-rule:nonzero;stroke:none" d="m 273.2,383.8 c -0.3,0 -3.2,9.6 -3.2,9.6 -0.2,1.2 -0.7,2.2 -0.7,3.3 0,1.7 1.5,3.4 3.9,3.4 2.3,0 3.7,-1.8 3.7,-3.4 0,-1.1 -0.4,-2.2 -0.6,-3.3 0,0 -2.9,-9.6 -3.1,-9.6 z" />
+		<path id="path18" style="fill:red;fill-opacity:1;fill-rule:nonzero;stroke:none" d="m 276.6,379.4 c 0,-1.7 -1.6,-3.1 -3.5,-3.1 -1.9,0 -3.4,1.3 -3.4,3.1 0,1.8 1.5,3.1 3.4,3.1 1.9,0 3.5,-1.3 3.5,-3.1 z" />
+		<path id="path20" style="fill:#f60;fill-opacity:1;fill-rule:nonzero;stroke:none" d="m 271.2,395.7 c 0,2 1.3,2.3 1.3,3.1 0,0.7 -0.4,1 -0.9,1.1 -1.4,-0.6 -2.3,-1.9 -2.3,-3.2 0,-1.1 0.5,-2.1 0.7,-3.3 0,0 2.5,-8.1 3,-9.4 -0.5,2.1 -1.9,9.9 -1.8,11.7 z" />
+		<path id="path22" style="fill:#f60;fill-opacity:1;fill-rule:nonzero;stroke:none" d="m 271.6,382.2 c -1.1,-0.5 -1.9,-1.5 -1.9,-2.8 0,-1.2 0.7,-2.1 1.7,-2.6 0.2,0 0.4,0.2 0.4,0.3 0.2,0.4 -0.2,0.5 -0.4,0.8 -0.2,0.3 -0.5,1.1 -0.5,1.8 0.1,1.5 1.5,1.4 1.6,2.1 0,0.3 -0.1,0.5 -0.4,0.6 0,0 0,0 0,0 -0.2,-0.1 -0.3,-0.1 -0.5,-0.2 z" />
+		<path id="path24" style="fill:#c00;fill-opacity:1;fill-rule:nonzero;stroke:none" d="m 272.2,376.5 c 0.3,-0.1 0.6,-0.2 0.9,-0.2 1.9,0 3.5,1.4 3.5,3.1 0,1.5 -1.1,2.7 -2.6,3 0.5,-0.5 1.4,-1.7 1.1,-2.9 -0.5,-2.3 -2.1,-2.9 -2.9,-3 z" />
+		<path id="path26" style="fill:#c00;fill-opacity:1;fill-rule:nonzero;stroke:none" d="m 275.5,399.4 c -0.6,0 -1.1,-0.3 -1.2,-0.8 -0.2,-0.8 1,-1.9 0.6,-4.4 -0.3,-2 -1.2,-8 -1.6,-10.1 0.7,1.6 3,9.3 3,9.3 0.2,1.1 0.6,2.2 0.6,3.3 0,1 -0.5,2 -1.4,2.7 z" />
+		<path id="path28" style="fill:#fc3;fill-opacity:1;fill-rule:nonzero;stroke:none" d="m 272.2,397.6 c 0,-0.5 -0.4,-1 -0.9,-1 -0.5,0 -0.9,0.5 -0.9,1 0,0.6 0.4,1 0.9,1 0.5,0 0.9,-0.4 0.9,-1 z" />
+		<path id="path30" style="fill:#fc3;fill-opacity:1;fill-rule:nonzero;stroke:none" d="m 272.1,380.4 c 0,-0.4 -0.3,-0.8 -0.6,-0.8 -0.4,0 -0.7,0.4 -0.7,0.8 0,0.4 0.3,0.8 0.7,0.8 0.3,0 0.6,-0.4 0.6,-0.8 z" />
+	</g>
+</svg>

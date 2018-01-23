@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" height="24" width="24">
+	<g transform="matrix(1,0,0,-1,-264,408)" id="KDDI_D_091">
+        <path d="M286.6 384.5h-18.4l-2.3 2.3 2.3 18.3 16.1 2.3 2.3-2.3z" fill="#cc9"/>
+        <path d="M268.2 384.5l-1.9 2.6h17.9l2.1-2.4-18.1-.2" fill="#996"/>
+        <path d="M286.6 384.5h-18.4l-2.3 1.7 2.3 18.9 16.5 2.3 1.9-2.3z" fill="none" stroke="#000" stroke-linejoin="round"/>
+        <path d="M284.7 386.2h-18.8v21.2h18.8z" fill="#ff9"/>
+        <path d="M268.5 386.5h-2.2v20.6h2.2z" fill="#6cf"/>
+        <path d="M268.6 398.2h-2.3v4.8h2.3z" fill="#06f"/>
+        <path d="M273 386.5h-4.5v20.6h4.5z" fill="#00c"/>
+        <path d="M274.3 390.1h1" fill="none" stroke="#666" stroke-width="1.3"/>
+        <path d="M275.3 390.1h1" fill="none" stroke="#999" stroke-width="1.3"/>
+        <path d="M276.3 390.1h1" fill="none" stroke="#666" stroke-width="1.3"/>
+        <path d="M277.3 390.1h1" fill="none" stroke="#999" stroke-width="1.3"/>
+        <path d="M278.3 390.1h1" fill="none" stroke="#666" stroke-width="1.3"/>
+        <path d="M279.3 390.1h1" fill="none" stroke="#999" stroke-width="1.3"/>
+        <path d="M274.3 401h1" fill="none" stroke="#666" stroke-width="1.3"/>
+        <path d="M275.3 401h1" fill="none" stroke="#999" stroke-width="1.3"/>
+        <path d="M276.3 401h1" fill="none" stroke="#666" stroke-width="1.3"/>
+        <path d="M277.3 401h1" fill="none" stroke="#999" stroke-width="1.3"/>
+        <path d="M278.3 401h1" fill="none" stroke="#666" stroke-width="1.3"/>
+        <path d="M279.3 401h1" fill="none" stroke="#999" stroke-width="1.3"/>
+        <path d="M280.3 401h1" fill="none" stroke="#666" stroke-width="1.3"/>
+        <path d="M281.3 401h1" fill="none" stroke="#999" stroke-width="1.3"/>
+        <path d="M274.3 404.3h1" fill="none" stroke="#666" stroke-width="1.3"/>
+        <path d="M275.3 404.3h1" fill="none" stroke="#999" stroke-width="1.3"/>
+        <path d="M276.3 404.3h1" fill="none" stroke="#666" stroke-width="1.3"/>
+        <path d="M277.3 404.3h1" fill="none" stroke="#999" stroke-width="1.3"/>
+        <path d="M278.3 404.3h1" fill="none" stroke="#666" stroke-width="1.3"/>
+        <path d="M279.3 404.3h1" fill="none" stroke="#999" stroke-width="1.3"/>
+        <path d="M280.3 404.3h1" fill="none" stroke="#666" stroke-width="1.3"/>
+        <path d="M281.3 404.3h1" fill="none" stroke="#999" stroke-width="1.3"/>
+        <path d="M284.7 386.2h-18.8v21.2h18.8z" fill="none" stroke="#000" stroke-linejoin="round"/>
+    </g>
+</svg>

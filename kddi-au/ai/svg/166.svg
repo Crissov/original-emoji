@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" height="24" width="24">
+    <g transform="matrix(1,0,0,-1,-264,408)" id="KDDI_D_">        <path d="M285.4 407.5s2.1-.5 2.1-2.1v-2.5h-7v4.6z" fill="#cc9" stroke="#333" stroke-linejoin="round"/>
+        <path d="M283.2 403.4c0 3.6 2.2 4.1 2.2 4.1h-14.3s-2.2-.8-2.2-4.1v-3.7h14.3v3.7z" fill="#fff" stroke="#000" stroke-linejoin="round"/>
+        <path d="M280.1 405.1h1.1" fill="none" stroke="#336" stroke-linejoin="round"/>
+        <path d="M279.2 405.1h.9" fill="none" stroke="#999" stroke-linejoin="round"/>
+        <path d="M278.2 405.1h1" fill="none" stroke="#336" stroke-linejoin="round"/>
+        <path d="M277.2 405.1h1" fill="none" stroke="#999" stroke-linejoin="round"/>
+        <path d="M276.1 405.1h1.1" fill="none" stroke="#336" stroke-linejoin="round"/>
+        <path d="M275.1 405.1h1" fill="none" stroke="#999" stroke-linejoin="round"/>
+        <path d="M274.1 405.1h1" fill="none" stroke="#336" stroke-linejoin="round"/>
+        <path d="M273.1 405.1h1" fill="none" stroke="#999" stroke-linejoin="round"/>
+        <path d="M272 405.1h1.1M279.2 402.5h1.2" fill="none" stroke="#336" stroke-linejoin="round"/>
+        <path d="M278.3 402.5h.9" fill="none" stroke="#999" stroke-linejoin="round"/>
+        <path d="M277.3 402.5h1" fill="none" stroke="#336" stroke-linejoin="round"/>
+        <path d="M276.3 402.5h1" fill="none" stroke="#999" stroke-linejoin="round"/>
+        <path d="M275.2 402.5h1.1" fill="none" stroke="#336" stroke-linejoin="round"/>
+        <path d="M274.2 402.5h1" fill="none" stroke="#999" stroke-linejoin="round"/>
+        <path d="M273.2 402.5h1" fill="none" stroke="#336" stroke-linejoin="round"/>
+        <path d="M272.2 402.5h1" fill="none" stroke="#999" stroke-linejoin="round"/>
+        <path d="M271.2 402.5h1" fill="none" stroke="#336" stroke-linejoin="round"/>
+        <path d="M287.5 398.8c0 .6-.4 1-1 1h-20.9c-.6 0-1-.4-1-1v-12.1c0-.6.4-1 1-1h20.9c.6 0 1 .4 1 1z" fill="#cc9"/>
+        <path d="M264.8 386.6l.4-.7h21.6l.4.6v2.9h-22.4z" fill="#666"/>
+        <path d="M286 386.6v-.7h1.2v3.5H286z" fill="#336"/>
+        <path d="M264.6 398.8c0 .6.4 1 1 1h2.2c.6 0 1-.4 1-1v-9c0-.5-.4-1-1-1h-2.2c-.6 0-1 .5-1 1z" fill="#fff"/>
+        <path d="M265.8 398.5h2c.6 0 1-.4 1-.9v-7.9c0-.5-.4-.9-1-.9h-2z" fill="#cc9"/>
+        <path d="M270 388.3h-1.4v11.3h1.4z" fill="#666"/>
+        <path d="M286 399.6h1.2v-10.2H286z" fill="#99c"/>
+        <path d="M272.6 396.3h-1v1h1z" fill="#336"/>
+        <path d="M273.6 396.3h-1v1h1z" fill="#999"/>
+        <path d="M275.9 396.3h-1v1h1z" fill="#336"/>
+        <path d="M276.9 396.3h-1v1h1z" fill="#999"/>
+        <path d="M279.3 396.3h-1v1h1z" fill="#336"/>
+        <path d="M280.3 396.3h-1v1h1z" fill="#999"/>
+        <path d="M272.6 393.9h-1v1h1z" fill="#336"/>
+        <path d="M273.6 393.9h-1v1h1z" fill="#999"/>
+        <path d="M275.9 393.9h-1v1h1z" fill="#336"/>
+        <path d="M276.9 393.9h-1v1h1z" fill="#999"/>
+        <path d="M279.3 393.9h-1v1h1z" fill="#336"/>
+        <path d="M280.3 393.9h-1v1h1z" fill="#999"/>
+        <path d="M272.6 391.5h-1v1h1z" fill="#336"/>
+        <path d="M273.6 391.5h-1v1h1z" fill="#999"/>
+        <path d="M275.9 391.5h-1v1h1z" fill="#336"/>
+        <path d="M276.9 391.5h-1v1h1z" fill="#999"/>
+        <path d="M279.3 391.5h-1v1h1z" fill="#336"/>
+        <path d="M280.3 391.5h-1v1h1z" fill="#999"/>
+        <path d="M281.6 397.3h3.4v-2.1h-3.4z" fill="#390"/>
+        <path d="M281.6 397.3h2.2V396h-2.2z" fill="#6f0"/>
+        <path d="M287.5 398.8c0 .6-.4 1-1 1h-20.9c-.6 0-1-.4-1-1v-12.1c0-.6.4-1 1-1h20.9c.6 0 1 .4 1 1z" fill="none" stroke="#000"/>
+        <path d="M264.6 398.8c0 .6.4 1 1 1h2.2c.6 0 1-.4 1-1v-9c0-.5-.4-1-1-1h-2.2c-.6 0-1 .5-1 1z" fill="none" stroke="#000"/>
+        <path d="M282.2 386.3c-.3-1-1-1.8-1-1.8h-12.4s.8 1 1 1.9c.2.9.2 1.9.2 1.9h12.4s.1-1-.2-2z" fill="#fff" stroke="#000" stroke-linejoin="round"/>
+    </g>
+</svg>

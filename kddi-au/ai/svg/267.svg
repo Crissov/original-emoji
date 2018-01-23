@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" height="24" width="24">
+    <g transform="matrix(1,0,0,-1,-264,408)" id="KDDI_D_">        <path d="M284.3 404.3l1.7 1.7" fill="none" stroke="#f90" stroke-width="1.2"/>
+        <path d="M282.7 402.7l1.6 1.6" fill="none" stroke="#fc0" stroke-width="1.2"/>
+        <path d="M280.2 400.2l2.5 2.5M271.8 391.8l8.4 8.4M269.3 389.3l2.5 2.5" fill="none" stroke="#ff0" stroke-width="1.2"/>
+        <path d="M267.7 387.7l1.6 1.6" fill="none" stroke="#fc0" stroke-width="1.2"/>
+        <path d="M266 386l1.7 1.7M267.7 404.3L266 406" fill="none" stroke="#f90" stroke-width="1.2"/>
+        <path d="M269.3 402.7l-1.6 1.6" fill="none" stroke="#fc0" stroke-width="1.2"/>
+        <path d="M271.8 400.2l-2.5 2.5M280.2 391.8l-8.4 8.4M282.7 389.3l-2.5 2.5" fill="none" stroke="#ff0" stroke-width="1.2"/>
+        <path d="M284.3 387.7l-1.6 1.6" fill="none" stroke="#fc0" stroke-width="1.2"/>
+        <path d="M286 386l-1.7 1.7" fill="none" stroke="#f90" stroke-width="1.2"/>
+        <path d="M276 408v-12h-12s6.3 1.7 8.3 3.7c2 2 3.7 8.3 3.7 8.3z" fill="#ff0"/>
+        <path d="M276 404.2V396h-8s3.4.6 5.4 2.6c2 2 2.6 5.6 2.6 5.6z" fill="#fc0"/>
+        <path d="M276 401v-5h-5s2.3.2 3.5 1.5c1.3 1.2 1.5 3.5 1.5 3.5z" fill="#f60"/>
+        <path d="M264 396h12v-12s-1.7 6.3-3.7 8.3c-2 2-8.3 3.7-8.3 3.7z" fill="#ff0"/>
+        <path d="M267.8 396h8.2v-8s-.6 3.4-2.6 5.4c-2 2-5.6 2.6-5.6 2.6z" fill="#fc0"/>
+        <path d="M271 396h5v-5s-.2 2.3-1.5 3.5c-1.2 1.3-3.5 1.5-3.5 1.5z" fill="#f60"/>
+        <path d="M276 384v12h12s-6.3-1.7-8.3-3.7c-2-2-3.7-8.3-3.7-8.3z" fill="#ff0"/>
+        <path d="M276 387.8v8.2h8s-3.4-.6-5.4-2.6c-2-2-2.6-5.6-2.6-5.6z" fill="#fc0"/>
+        <path d="M276 391v5h5s-2.3-.2-3.5-1.5c-1.3-1.2-1.5-3.5-1.5-3.5z" fill="#f60"/>
+        <path d="M288 396h-12v12s1.7-6.3 3.7-8.3c2-2 8.3-3.7 8.3-3.7z" fill="#ff0"/>
+        <path d="M284.2 396H276v8s.6-3.4 2.6-5.4c2-2 5.6-2.6 5.6-2.6z" fill="#fc0"/>
+        <path d="M281 396h-5v5s.2-2.3 1.5-3.5c1.2-1.3 3.5-1.5 3.5-1.5z" fill="#f60"/>
+        <path d="M286 396h2" fill="none" stroke="#f90" stroke-width="1.2"/>
+        <path d="M284 396h2" fill="none" stroke="#fc0" stroke-width="1.2"/>
+        <path d="M281 396h3" fill="none" stroke="#f90" stroke-width="1.2"/>
+        <path d="M271 396h10" fill="none" stroke="#f60" stroke-width="1.2"/>
+        <path d="M268 396h3" fill="none" stroke="#f90" stroke-width="1.2"/>
+        <path d="M266 396h2" fill="none" stroke="#fc0" stroke-width="1.2"/>
+        <path d="M264 396h2M276 406v2" fill="none" stroke="#f90" stroke-width="1.2"/>
+        <path d="M276 404v2" fill="none" stroke="#fc0" stroke-width="1.2"/>
+        <path d="M276 401v3" fill="none" stroke="#f90" stroke-width="1.2"/>
+        <path d="M276 391v10" fill="none" stroke="#f60" stroke-width="1.2"/>
+        <path d="M276 388v3" fill="none" stroke="#f90" stroke-width="1.2"/>
+        <path d="M276 386v2" fill="none" stroke="#fc0" stroke-width="1.2"/>
+        <path d="M276 384v2" fill="none" stroke="#f90" stroke-width="1.2"/>
+    </g>
+</svg>
