@@ -6,34 +6,41 @@ KDDI is the company, _au_ the telecom provider and EZweb was the mobile web serv
 
 ## Overview images ##
 
-![Overview EZweb Set D](color_renew.gif)
+![Overview EZweb Set D](color_renew.png)
 
 ### A, 175 monochrome emojis
 
-![Set A: monochrome: 001 through 175](A_mono_ico.gif)
+![Set A: monochrome: 001 through 175](A_mono_ico.png)
 
 ### B, 175 colorful emojis
 
-![Set B with keywords: 001 through 175](color_ico1.gif)
+![Set B with keywords: 001 through 175](color_ico1.png)
 
-![Set B with names: 001 through 175](p_icon_color_image_01.gif)
+![Set B with names: 001 through 175](p_icon_color_image_01.png)
 
 ### C, 330 standard emojis plus WAP extension
 
-![Set C default: 001 through 330](color_ico2.gif)
-![Set C WAP 2.0 additions: 331 through 828](color_ico_wap2_plus.gif)
+![Set C default: 001 through 330](color_ico2.png)
+![Set C WAP 2.0 additions: 331 through 828](color_ico_wap2_plus.png)
 
 ### D, 500ish emojis
 
-![Set D: 001 through 828](color_ico_renew_e1-828.gif)
+![Set D: 001 through 828](color_ico_renew_e1-828.png)
 
 ### All four sets in parallel columns: A, B, C, D
 
-![001&ndash;175](parallel_001-175.gif)
-![176&ndash;334](parallel_176-334.gif)
-![335&ndash;499](parallel_335-499.gif)
-![500&ndash;518](parallel_500-518.gif)
-![700&ndash;828](parallel_700-828.gif)
+![001&ndash;175](parallel_001-175.png)
+![176&ndash;334](parallel_176-334.png)
+![335&ndash;499](parallel_335-499.png)
+![500&ndash;518](parallel_500-518.png)
+![700&ndash;828](parallel_700-828.png)
+
+Sources:
+- [http://cgi.wap2.jp/emoji/ezweb/icoimg/parallel001_175.gif](http://web.archive.org/web/20170412095609/http://cgi.wap2.jp/emoji/ezweb/icoimg/parallel001_175.gif)
+- [http://cgi.wap2.jp/emoji/ezweb/icoimg/parallel176_334.gif](http://web.archive.org/web/20170412095619/http://cgi.wap2.jp/emoji/ezweb/icoimg/parallel176_334.gif)
+- [http://cgi.wap2.jp/emoji/ezweb/icoimg/parallel335_499.gif](http://web.archive.org/web/20170412095657/http://cgi.wap2.jp/emoji/ezweb/icoimg/parallel335_499.gif)
+- [http://cgi.wap2.jp/emoji/ezweb/icoimg/parallel500_518.gif](http://web.archive.org/web/20170412095620/http://cgi.wap2.jp/emoji/ezweb/icoimg/parallel500_518.gif)
+- [http://cgi.wap2.jp/emoji/ezweb/icoimg/parallel700_828.gif](http://web.archive.org/web/20170412095657/http://cgi.wap2.jp/emoji/ezweb/icoimg/parallel700_828.gif)
 
 ## Documentation ##
 
@@ -47,6 +54,7 @@ KDDI is the company, _au_ the telecom provider and EZweb was the mobile web serv
 
 - https://www.au.com/content/dam/au-com/static/designs/extlib/pdf/mobile/service/featurephone/communication/emoji/taiohyo_iphone_01.pdf
 - [http://www.au.kddi.com/emoji/service/sample.html](https://web.archive.org/web/20120407041341/http://www.au.kddi.com:80/emoji/service/sample.html)
+- [http://wap2.jp/emoji/ezweb/](http://web.archive.org/web/20130707082317/http://wap2.jp:80/emoji/ezweb/index.html)
 
 ## [ai](ai/) ##
 

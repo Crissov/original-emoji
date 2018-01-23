@@ -4,9 +4,11 @@
 
 also see [Y! Mobile](../y-mobile/) and also [SoftBank](../softbank/)
 
+- <http://developer.emnet.ne.jp/browser.html>
 - [http://emobile.jp/service/emnetmail.html](https://web.archive.org/web/20140721185221/http://emobile.jp:80/service/emnetmail.html)
 - [http://emobile.jp/service/pdf/mail_change_201206.pdf](https://web.archive.org/web/20140629003202/http://emobile.jp/service/pdf/mail_change_201206.pdf)
 - [http://emobile.jp/service/pdf/mail_change_201109.pdf](https://web.archive.org/web/20140629065651/http://emobile.jp/service/pdf/mail_change_201109.pdf)
+
 
 ![overview of E-Mobile original emojis](emobile.jpg)
 

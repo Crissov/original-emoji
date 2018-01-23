@@ -3,7 +3,7 @@
 ![NTT Docomo logo](../img/ntt-docomo_logo.svg)
 ![i-mode logo](../img/i-mode.svg)
 
-![overview of original i-mode emojis](i-emoji.gif)
+![overview of original i-mode emojis](i-emoji.png)
 
 - [original i-mode emojis](https://www.nttdocomo.co.jp/service/developer/make/content/pictograph/basic/index.html): `https://www.nttdocomo.co.jp/service/developer/make/content/pictograph/basic/images/{3 decimal digits < 207 or 177}.gif`
 - [later extensions](https://www.nttdocomo.co.jp/service/developer/make/content/pictograph/extention/index.html): `https://www.nttdocomo.co.jp/service/developer/make/content/pictograph/extention/images/{3 decimal digits < 77}.gif`
@@ -58,4 +58,4 @@ extended (#x1..x76) F9B1..F9FC (U+E70C..E757).
 
 # Decomail #
 
-![ovierview of NTT Decomail emojis](decomail.gif)
+![ovierview of NTT Decomail emojis](decomail.png)

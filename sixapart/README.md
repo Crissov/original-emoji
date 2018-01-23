@@ -1,6 +1,6 @@
 # Six Apart Typepad #
 
-![overview](sixapart.gif)
+![Typepad/Typecast overview](sixapart.png)
 
 Six Apart still offers a free ([CC-BY-2.1-JP](https://creativecommons.org/licenses/by/2.1/jp/)) set of GIFs for the original emojis to be used to display emails from Japanese mobile phones in webmail applications etc.
 
