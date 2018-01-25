@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24">
+	<g transform="translate(-288,-386)" id="KDDI_D_502">
+		<path style="stroke:none; fill:#ffcc00" d="M 312 409.89L 288 409.89L 288 385.89L 312 385.89L 312 409.89z"/>
+		<path style="stroke:#cc00ff; stroke-width:1.8; stroke-linejoin:round; stroke-linecap:round; fill:none" d="M 308 408.89C 309.65 408.89 311 407.54 311 405.89L 311 401.89C 311 400.24 309.65 398.89 308 398.89L 302 398.89L 302 408.89L 308 408.89z"/>
+		<path style="stroke:#3300ff; stroke-width:1.8; stroke-linejoin:round; stroke-linecap:round; fill:none" d="M 302 391.89"/>
+		<path style="stroke:#3300ff; stroke-width:1.8; stroke-linejoin:round; stroke-linecap:round; fill:none" d="M 308 391.89C 309.65 391.89 310.833 390.765 310.833 389.39C 310.833 388.015 309.65 386.89 308 386.89L 302 386.89L 302 396.89L 308 396.89C 309.65 396.89 310.833 395.765 310.833 394.39C 310.833 393.015 309.65 391.89 308 391.89L 302.5 391.89"/>
+		<path style="stroke:#006600; stroke-width:1.8; stroke-linejoin:round; stroke-linecap:round; fill:none" d="M 298.828 400.889C 298.413 399.728 297.299 398.89 296 398.89L 292.062 398.89C 290.413 398.89 289.062 400.24 289.062 401.89L 289.062 405.89C 289.062 407.54 290.413 408.89 292.062 408.89L 296 408.89C 297.3 408.89 298.413 408.052 298.827 406.89"/>
+		<path style="stroke:#ff0000; stroke-width:1.8; stroke-linejoin:round; stroke-linecap:round; fill:none" d="M 289 396.89L 294 386.89L 299 396.89"/>
+		<path style="stroke:#ff0000; stroke-width:1.8; stroke-linejoin:round; stroke-linecap:round; fill:none" d="M 290.5 394.403L 297.5 394.403"/>
+	</g>
+</svg>

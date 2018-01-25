@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24">
+	<g transform="translate(-264,-386)" id="KDDI_D_135">
+		<g>
+			<path style="stroke:none; fill:none" d="M 288 409.89L 264 409.89L 264 385.89L 288 385.89L 288 409.89z"/>
+		</g>
+		<g>
+			<path style="stroke:none; fill:#cc9" d="M 278.5 388.39L 278.5 386.39L 274.5 386.39L 274.5 388.39L 269.5 388.39L 269.5 409.39L 283.5 409.39L 283.5 388.39L 278.5 388.39z"/>
+			<path style="stroke:#666; stroke-width:2; fill:none" d="M 282 388.89L 282 408.89"/>
+			<path style="stroke:#999; stroke-width:2; fill:none" d="M 280 388.89L 280 408.89"/>
+			<path style="stroke:#000; stroke-width:1; stroke-linecap:square; fill:none" d="M 278.5 388.39L 278.5 386.39L 274.5 386.39L 274.5 388.39L 269.5 388.39L 269.5 409.39L 283.5 409.39L 283.5 388.39L 278.5 388.39z"/>
+			<path style="stroke:#666; stroke-width:2; fill:none" d="M 271 388.89L 271 408.89"/>
+			<path style="stroke:#999; stroke-width:2; fill:none" d="M 273 388.89L 273 408.89"/>
+			<path style="stroke:#999; stroke-width:2; fill:none" d="M 277 386.89L 277 388.89"/>
+			<path style="stroke:none; fill:#f36" d="M 279 405.89L 274 405.89L 274 390.97L 279 390.97L 279 405.89z"/>
+			<path style="stroke:#f66; stroke-width:1; fill:none" d="M 276.5 390.97L 276.5 405.89"/>
+			<path style="stroke:#fff; stroke-width:1; fill:none" d="M 279 403.362L 274 403.362"/>
+			<path style="stroke:#fff; stroke-width:1; fill:none" d="M 279 394.39L 274 394.39"/>
+			<path style="stroke:#fff; stroke-width:1; fill:none" d="M 276.5 391.89L 276.5 396.89"/>
+			<path style="stroke:#900; stroke-width:2; fill:none" d="M 282 390.97L 282 405.89"/>
+			<path style="stroke:#900; stroke-width:2; fill:none" d="M 271 390.97L 271 405.89"/>
+			<path style="stroke:#f00; stroke-width:2; fill:none" d="M 280 390.97L 280 405.89"/>
+			<path style="stroke:#f00; stroke-width:2; fill:none" d="M 273 390.97L 273 405.89"/>
+		</g>
+	</g>
+</svg>

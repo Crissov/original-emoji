@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24">
+	<g transform="translate(-264,-386)" id="KDDI_D_115">
+		<g>
+			<path style="stroke:none; fill:none" d="M 288 409.89L 264 409.89L 264 385.89L 288 385.89L 288 409.89z"/>
+		</g>
+		<g>
+			<path style="stroke:none; fill:#000" d="M 288 405.89L 264 405.89L 264 391.39L 288 391.39L 288 405.89z"/>
+			<path style="stroke:#666; stroke-width:1; stroke-linecap:square; fill:none" d="M 264.5 394.89L 264.5 391.39L 287.5 391.39L 287.5 394.39"/>
+			<path style="stroke:none; fill:#cc9" d="M 271 395.89L 266.5 395.89C 266.016 395.89 265 396.907 265 397.39L 265 400.89C 265 401.392 266 402.39 266.5 402.39L 271 402.39"/>
+			<path style="stroke:none; fill:#f90" d="M 271 395.89L 268.5 395.89C 268.016 395.89 267 396.907 267 397.39L 267 400.89C 267 401.376 268 402.39 268.5 402.39L 271 402.39"/>
+			<path style="stroke:#c60; stroke-width:1; fill:none" d="M 271 396.39L 269.5 396.39C 268.95 396.39 268.5 396.84 268.5 397.39L 268.5 400.89C 268.5 401.44 268.95 401.89 269.5 401.89L 271 401.89"/>
+			<path style="stroke:#fff; stroke-width:1; fill:none" d="M 270.5 397.89L 270.5 400.39"/>
+			<path style="stroke:none; fill:#cc9" d="M 281.078 395.89L 285.5 395.89C 286 395.89 287 396.907 287 397.39L 287 400.89C 287 401.392 286 402.39 285.5 402.39L 281.078 402.39"/>
+			<path style="stroke:none; fill:#f90" d="M 281.078 395.89L 283.5 395.89C 284 395.89 285 396.907 285 397.39L 285 400.89C 285 401.392 284 402.39 283.5 402.39L 281.078 402.39"/>
+			<path style="stroke:#c60; stroke-width:1; fill:none" d="M 281.078 396.39L 282.5 396.39C 283.05 396.39 283.5 396.84 283.5 397.39L 283.5 400.89C 283.5 401.44 283.05 401.89 282.5 401.89L 281.078 401.89"/>
+			<path style="stroke:#fff; stroke-width:1; fill:none" d="M 281.578 397.89L 281.578 400.39"/>
+			<path style="stroke:none; fill:#fff" d="M 280 402.39L 272.047 402.39L 272.047 395.89L 280 395.89L 280 402.39z"/>
+			<path style="stroke:#999; stroke-width:1; fill:none" d="M 273 397.39L 279 397.39"/>
+			<path style="stroke:#999; stroke-width:1; fill:none" d="M 273 400.89L 279 400.89"/>
+		</g>
+	</g>
+</svg>

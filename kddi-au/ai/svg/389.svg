@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24">
+	<g transform="translate(-288,-386)" id="KDDI_D_389">
+		<g>
+			<path style="stroke:none; fill:#663399" d="M 289.028 408.861C 289.662 409.496 290.537 409.89 291.5 409.89L 308.5 409.89C 310.425 409.89 312 408.315 312 406.39L 312 389.39C 312 388.427 311.606 387.552 310.972 386.918L 289.028 408.861z"/>
+			<path style="stroke:none; fill:#cc99ff" d="M 308.5 385.89L 291.5 385.89C 289.575 385.89 288 387.465 288 389.39L 288 406.39C 288 407.352 288.394 408.228 289.028 408.861L 310.972 386.918C 310.338 386.283 309.463 385.89 308.5 385.89z"/>
+		</g>
+		<path style="stroke:none; fill:#9966ff" d="M 291.5 387.39C 290.397 387.39 289.5 388.287 289.5 389.39L 289.5 406.39C 289.5 407.493 290.397 408.39 291.5 408.39L 308.5 408.39C 309.603 408.39 310.5 407.493 310.5 406.39L 310.5 389.39C 310.5 388.287 309.603 387.39 308.5 387.39L 291.5 387.39z"/>
+		<path style="stroke:#663399; stroke-width:1.2; stroke-linecap:square; fill:none" d="M 292.543 395.418L 292.543 392.362L 309.542 392.362L 309.542 395.418"/>
+		<path style="stroke:#663399; stroke-width:1.2; stroke-linecap:square; fill:none" d="M 307.708 390.237L 305.889 392.056"/>
+		<path style="stroke:#663399; stroke-width:1.2; stroke-linecap:square; fill:none" d="M 306.541 399.418L 295.501 399.418L 295.501 395.445L 306.541 395.445L 306.541 399.418z"/>
+		<path style="stroke:#663399; stroke-width:1.2; stroke-linecap:square; fill:none" d="M 307.5 407.446L 294.501 407.446L 294.501 402.404L 307.5 402.404L 307.5 407.446z"/>
+		<path style="stroke:#663399; stroke-width:1.2; fill:none" d="M 298.64 402.515L 301.765 399.39"/>
+		<path style="stroke:#663399; stroke-width:1.2; stroke-linecap:square; fill:none" d="M 298.952 389.953L 300.667 391.654"/>
+		<path style="stroke:#663399; stroke-width:1.2; stroke-linecap:square; fill:none" d="M 294.939 390.05L 296.667 391.738"/>
+		<path style="stroke:#ffffff; stroke-width:1.2; stroke-linecap:square; fill:none" d="M 291.542 394.39L 291.542 391.335L 308.541 391.335L 308.541 394.39"/>
+		<path style="stroke:#ffffff; stroke-width:1.2; stroke-linecap:square; fill:none" d="M 306.707 389.21L 304.888 391.028"/>
+		<path style="stroke:#ffffff; stroke-width:1.2; stroke-linecap:square; fill:none" d="M 305.54 398.39L 294.5 398.39L 294.5 394.418L 305.54 394.418L 305.54 398.39z"/>
+		<path style="stroke:#ffffff; stroke-width:1.2; stroke-linecap:square; fill:none" d="M 306.499 406.418L 293.5 406.418L 293.5 401.376L 306.499 401.376L 306.499 406.418z"/>
+		<path style="stroke:#ffffff; stroke-width:1.2; fill:none" d="M 297.639 401.487L 300.764 398.362"/>
+		<path style="stroke:#ffffff; stroke-width:1.2; stroke-linecap:square; fill:none" d="M 297.951 388.925L 299.666 390.626"/>
+		<path style="stroke:#ffffff; stroke-width:1.2; stroke-linecap:square; fill:none" d="M 293.938 389.023L 295.666 390.71"/>
+	</g>
+</svg>

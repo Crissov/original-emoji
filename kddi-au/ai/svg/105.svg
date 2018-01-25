@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24">
+	<g transform="translate(-264,-386)" id="KDDI_D_104">
+		<g>
+			<path style="stroke:none; fill:none" d="M 288 409.89L 264 409.89L 264 385.89L 288 385.89L 288 409.89z"/>
+		</g>
+		<g>
+			<path style="stroke:none; fill:#336" d="M 269.5 409.89L 288 409.89L 288 386.89L 286.938 385.876L 269.5 386.89L 269.5 409.89z"/>
+			<path style="stroke:none; fill:#ff9" d="M 269 390.39C 269 390.39 269 395.89 269 396.39C 269 398.39 267.25 404.14 264.5 406.89L 281.083 406.89C 281.083 406.89 286.5 401.89 286.5 394.89C 286.5 388.89 286.5 386.39 286.5 386.39L 269 386.39L 269 389.39"/>
+			<path style="stroke:none; fill:#6c9" d="M 285.5 389.39L 268 389.39L 268 386.39L 285.5 386.39L 285.5 389.39z"/>
+			<path style="stroke:#666; stroke-width:1; fill:none" d="M 269.5 409.39L 287.5 409.39L 287.5 389.89"/>
+			<path style="stroke:none; fill:#cc9" d="M 285.104 389.89L 285.104 400.689L 286.104 398.845L 286.104 389.89L 285.104 389.89z"/>
+			<path style="stroke:#f00; stroke-width:0.75; stroke-linejoin:bevel; stroke-linecap:square; fill:none" d="M 272.458 394.585C 272.458 394.585 273.375 393.543 274.438 392.345C 274.438 396.543 273.958 398.043 272.562 400.89"/>
+			<path style="stroke:#f00; stroke-width:0.75; stroke-linecap:square; fill:none" d="M 277.5 394.376L 277.5 393.407C 277.5 392.858 277.95 392.407 278.5 392.407L 280.479 392.407C 281.029 392.407 281.531 392.858 281.531 393.407C 281.531 393.407 281.531 393.845 281.531 394.345C 281.531 395.21 281.422 395.9 280.583 396.668C 279.707 397.468 277.083 399.918 277.083 399.918L 275.958 400.89L 280.562 400.89"/>
+			<path style="stroke:#3c9; stroke-width:1; stroke-linecap:square; fill:none" d="M 285.604 388.39L 285.604 387.39"/>
+			<path style="stroke:#336; stroke-width:1; fill:none" d="M 276.5 387.89L 276.5 386.89"/>
+			<path style="stroke:#999; stroke-dasharray:0.00375,1.875,0.0075,1.65; stroke-width:0.75; stroke-linecap:round; fill:none" d="M 269.5 404.376L 278.969 404.376"/>
+			<path style="stroke:#000; stroke-width:0.75; stroke-linecap:square; fill:none" d="M 269 390.282C 269 390.282 269 395.89 269 396.39C 269 398.39 267.25 404.14 264.5 406.89L 281.083 406.89C 281.083 406.89 286.5 401.89 286.5 394.89C 286.5 392.556 286.5 390.752 286.5 389.418"/>
+			<path style="stroke:#396; stroke-width:1; fill:none" d="M 268.5 389.39L 286 389.39"/>
+			<path style="stroke:#000; stroke-width:1; stroke-linecap:square; fill:none" d="M 286.5 389.418C 286.5 387.323 286.5 386.39 286.5 386.39L 268 386.39L 268 389.39"/>
+		</g>
+	</g>
+</svg>

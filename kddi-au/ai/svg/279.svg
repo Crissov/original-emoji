@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24">
+	<g transform="translate(-288,-386)" id="KDDI_D_279">
+		<g>
+			<path style="stroke:none; fill:none" d="M 312 409.89L 288 409.89L 288 385.89L 312 385.89L 312 409.89z"/>
+		</g>
+		<g>
+			<g>
+				<path style="stroke:#ff0033; stroke-width:1; fill:#ffcc00" d="M 311.5 397.89C 311.5 404.241 306.352 409.39 300 409.39C 293.649 409.39 288.5 404.241 288.5 397.89C 288.5 391.539 293.649 386.39 300 386.39C 306.352 386.39 311.5 391.539 311.5 397.89z"/>
+				<path style="stroke:#006600; stroke-width:1.3; stroke-linejoin:round; stroke-linecap:round; fill:none" d="M 297.062 390.376L 293.188 391.376"/>
+				<path style="stroke:#006600; stroke-width:1.3; stroke-linejoin:round; stroke-linecap:round; fill:none" d="M 292.812 395.376L 297.312 395.376"/>
+				<path style="stroke:#006600; stroke-width:1.3; stroke-linejoin:round; stroke-linecap:round; fill:none" d="M 295.312 391.064L 295.312 406.126"/>
+				<path style="stroke:#006600; stroke-width:1.3; stroke-linejoin:round; stroke-linecap:round; fill:none" d="M 295.188 396.626L 292.562 401.939"/>
+				<path style="stroke:#006600; stroke-width:1.3; stroke-linejoin:round; stroke-linecap:round; fill:none" d="M 295.688 397.814L 297.125 399.251"/>
+				<path style="stroke:#006600; stroke-width:1.3; stroke-linejoin:round; stroke-linecap:round; fill:none" d="M 301.812 390.626L 303.281 392.095"/>
+				<path style="stroke:#006600; stroke-width:1.3; stroke-linejoin:round; stroke-linecap:round; fill:none" d="M 299.375 397.314L 298.625 401.064"/>
+				<path style="stroke:#006600; stroke-width:1.3; stroke-linejoin:round; stroke-linecap:round; fill:none" d="M 301.875 394.251C 301.875 394.251 301.875 403.126 301.875 404.314C 301.875 405.501 302.25 405.876 304 405.876C 305.938 405.876 306.312 405.064 306.5 403.876"/>
+				<path style="stroke:#006600; stroke-width:1.3; stroke-linejoin:round; stroke-linecap:round; fill:none" d="M 306.375 392.189C 305.5 398.126 300.312 404.376 298.25 405.001"/>
+				<path style="stroke:#006600; stroke-width:1.3; stroke-linejoin:round; stroke-linecap:round; fill:none" d="M 306.875 397.689L 307.812 400.876"/>
+			</g>
+		</g>
+	</g>
+</svg>

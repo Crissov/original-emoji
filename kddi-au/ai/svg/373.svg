@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24">
+	<g transform="translate(-264,-386)" id="KDDI_D_373">
+		<g>
+			<path style="stroke:none; fill:none" d="M 288 409.89L 264 409.89L 264 385.89L 288 385.89L 288 409.89z"/>
+		</g>
+		<g>
+			<path style="stroke:none; fill:#ff9" d="M 287.5 409.39L 264.5 409.39L 264.5 386.39L 287.5 386.39L 287.5 409.39z"/>
+			<path style="stroke:#9c9; stroke-width:1; fill:none" d="M 264.585 403.89L 287.585 403.89"/>
+			<path style="stroke:#9c9; stroke-width:1; fill:none" d="M 264.174 408.39L 287.174 408.39"/>
+			<path style="stroke:#9c9; stroke-width:1; fill:none" d="M 264.5 399.39L 287.5 399.39"/>
+			<path style="stroke:#9c9; stroke-width:1; fill:none" d="M 283.5 409.39L 283.5 386.39"/>
+			<path style="stroke:#9c9; stroke-width:1; fill:none" d="M 265.5 409.39L 265.5 386.39"/>
+			<path style="stroke:#9c9; stroke-width:1; fill:none" d="M 279 409.39L 279 386.39"/>
+			<path style="stroke:#9c9; stroke-width:1; fill:none" d="M 274.5 409.39L 274.5 386.39"/>
+			<path style="stroke:#9c9; stroke-width:1; fill:none" d="M 270 408.89L 270 385.89"/>
+			<path style="stroke:#9c9; stroke-width:1; fill:none" d="M 264.319 394.89L 287.319 394.89"/>
+			<path style="stroke:#9c9; stroke-width:1; fill:none" d="M 264.556 390.39L 287.556 390.39"/>
+			<path style="stroke:#00c; stroke-width:1; fill:none" d="M 265.021 391.362L 275 391.362"/>
+			<path style="stroke:#00c; stroke-width:2; fill:none" d="M 270 398.89L 270 390.952"/>
+			<path style="stroke:#00c; stroke-width:1; fill:none" d="M 270 391.528L 264.931 386.459"/>
+			<path style="stroke:#00c; stroke-width:1; fill:none" d="M 270 391.39L 275.5 386.39"/>
+			<path style="stroke:#00c; stroke-width:1; fill:none" d="M 264.5 393.89L 275 393.89"/>
+			<path style="stroke:#c00; stroke-width:1; fill:none" d="M 264.531 402.032L 270.25 408.814L 276.062 398.376L 280.5 403.689L 287.531 391.407"/>
+			<path style="stroke:#666; stroke-width:1; fill:none" d="M 287.5 409.39L 264.5 409.39L 264.5 386.39L 287.5 386.39L 287.5 409.39z"/>
+			<path style="stroke:#333; stroke-width:1; fill:none" d="M 287 386.39L 287.5 386.39L 287.5 409.39L 264.5 409.39L 264.5 408.89"/>
+		</g>
+	</g>
+</svg>

@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24">
+	<g transform="translate(-264,-386)" id="KDDI_D_371">
+		<g>
+			<path style="stroke:none; fill:none" d="M 288 409.89L 264 409.89L 264 385.89L 288 385.89L 288 409.89z"/>
+		</g>
+		<g>
+			<path style="stroke:none; fill:#fc6" d="M 288 404.89L 264 404.89L 264 409.89L 288 409.89L 288 404.89z"/>
+			<path style="stroke:none; fill:#c00" d="M 288 385.89L 264 385.89L 264 389.39L 288 389.39L 288 385.89z"/>
+			<path style="stroke:none; fill:#f00" d="M 288 389.39L 264 389.39L 264 392.89L 288 392.89L 288 389.39z"/>
+			<path style="stroke:none; fill:#f30" d="M 288 392.89L 264 392.89L 264 396.89L 288 396.89L 288 392.89z"/>
+			<path style="stroke:none; fill:#f66" d="M 288 396.89L 264 396.89L 264 400.89L 288 400.89L 288 396.89z"/>
+			<path style="stroke:none; fill:#f96" d="M 288 400.89L 264 400.89L 264 404.89L 288 404.89L 288 400.89z"/>
+			<path style="stroke:none; fill:#000" d="M 267.5 409.89L 267.5 404.89L 275 404.89L 275 402.89L 279 402.89L 279 396.89L 282.5 396.89L 282.5 395.39L 288 395.39L 288 409.89L 267.5 409.89z"/>
+			<path style="stroke:none; fill:#ff0" d="M 286 404.39L 284.5 404.39L 284.5 402.89L 286 402.89L 286 404.39z"/>
+			<path style="stroke:none; fill:#ff0" d="M 282 404.39L 280.5 404.39L 280.5 402.89L 282 402.89L 282 404.39z"/>
+			<path style="stroke:none; fill:#ff0" d="M 271 408.39L 269 408.39L 269 405.89L 271 405.89L 271 408.39z"/>
+			<path style="stroke:none; fill:#ff0" d="M 274.5 408.39L 272.5 408.39L 272.5 405.89L 274.5 405.89L 274.5 408.39z"/>
+			<path style="stroke:none; fill:#ff0" d="M 278.5 406.39L 276.5 406.39L 276.5 403.89L 278.5 403.89L 278.5 406.39z"/>
+			<path style="stroke:none; fill:#ff0" d="M 282.5 400.39L 280 400.39L 280 397.89L 282.5 397.89L 282.5 400.39z"/>
+			<path style="stroke:none; fill:#ff0" d="M 287 400.39L 284.5 400.39L 284.5 397.89L 287 397.89L 287 400.39z"/>
+			<path style="stroke:none; fill:#ff0" d="M 282.5 404.39L 280 404.39L 280 401.89L 282.5 401.89L 282.5 404.39z"/>
+			<path style="stroke:none; fill:#ff0" d="M 287 404.39L 284.5 404.39L 284.5 401.89L 287 401.89L 287 404.39z"/>
+			<path style="stroke:none; fill:#ff0" d="M 282.5 408.39L 280 408.39L 280 405.89L 282.5 405.89L 282.5 408.39z"/>
+			<path style="stroke:none; fill:#ff0" d="M 287 408.39L 284.5 408.39L 284.5 405.89L 287 405.89L 287 408.39z"/>
+		</g>
+	</g>
+</svg>

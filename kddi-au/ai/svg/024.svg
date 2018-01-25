@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24">
+	<g transform="translate(-288,-386)" id="KDDI_D_024">
+		<g>
+			<path style="stroke:none; fill:none" d="M 312 409.89L 288 409.89L 288 385.89L 312 385.89L 312 409.89z"/>
+		</g>
+		<g>
+			<g>
+				<path style="stroke:#000099; stroke-width:1; stroke-linejoin:round; stroke-linecap:round; fill:#000099" d="M 307.5 397.89C 307.5 402.032 304.143 405.39 300 405.39C 295.858 405.39 292.5 402.032 292.5 397.89C 292.5 393.748 295.858 390.39 300 390.39C 304.143 390.39 307.5 393.748 307.5 397.89z"/>
+				<path style="stroke:#0033cc; stroke-width:1; stroke-linejoin:round; stroke-linecap:round; fill:#0033cc" d="M 300 390.39C 295.858 390.39 292.5 393.748 292.5 397.89C 292.5 399.706 293.146 401.371 294.221 402.669C 295.519 403.744 297.184 404.39 299 404.39C 303.143 404.39 306.5 401.032 306.5 396.89C 306.5 395.073 305.853 393.408 304.779 392.11C 303.481 391.036 301.816 390.39 300 390.39z"/>
+				<path style="stroke:#0066ff; stroke-width:1; stroke-linejoin:round; stroke-linecap:round; fill:#0066ff" d="M 305.159 395.549C 305.159 394.077 304.729 392.709 303.997 391.551C 302.839 390.819 301.471 390.39 300 390.39C 295.858 390.39 292.5 393.748 292.5 397.89C 292.5 399.361 292.929 400.729 293.661 401.887C 294.819 402.619 296.188 403.049 297.659 403.049C 301.802 403.049 305.159 399.691 305.159 395.549z"/>
+				<path style="stroke:#66ccff; stroke-width:0.75; stroke-linejoin:round; stroke-linecap:round; fill:#66ccff" d="M 294.22 398.569C 294.22 398.757 294.068 398.91 293.88 398.91C 293.692 398.91 293.54 398.757 293.54 398.569C 293.54 398.381 293.692 398.23 293.88 398.23C 294.068 398.23 294.22 398.381 294.22 398.569z"/>
+				<path style="stroke:#66ccff; stroke-width:0.51; stroke-linejoin:round; stroke-linecap:round; fill:#66ccff" d="M 299.809 391.293C 296.6 391.229 293.98 394.048 293.88 396.87C 294.949 394.154 296.685 392.27 299.809 391.293z"/>
+				<path style="stroke:#99ffff; stroke-width:0.51; stroke-linejoin:round; stroke-linecap:round; fill:#99ffff" d="M 298.257 391.973C 296.43 392.419 294.815 394.247 294.305 395.968C 295.424 394.022 296.6 392.844 298.257 391.973z"/>
+			</g>
+		</g>
+	</g>
+</svg>

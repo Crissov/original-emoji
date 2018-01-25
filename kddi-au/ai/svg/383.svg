@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24">
+	<g transform="translate(-288,-386)" id="KDDI_D_383">
+		<g>
+			<path style="stroke:none; fill:#993300" d="M 289.028 408.861C 289.662 409.496 290.537 409.89 291.5 409.89L 308.5 409.89C 310.425 409.89 312 408.315 312 406.39L 312 389.39C 312 388.427 311.606 387.552 310.972 386.918L 289.028 408.861z"/>
+			<path style="stroke:none; fill:#ff9933" d="M 308.5 385.89L 291.5 385.89C 289.575 385.89 288 387.465 288 389.39L 288 406.39C 288 407.352 288.394 408.227 289.028 408.861L 310.972 386.918C 310.338 386.283 309.463 385.89 308.5 385.89z"/>
+			<path style="stroke:none; fill:#ff6600" d="M 291.5 387.39C 290.397 387.39 289.5 388.287 289.5 389.39L 289.5 406.39C 289.5 407.493 290.397 408.39 291.5 408.39L 308.5 408.39C 309.603 408.39 310.5 407.493 310.5 406.39L 310.5 389.39C 310.5 388.287 309.603 387.39 308.5 387.39L 291.5 387.39z"/>
+			<g>
+				<path style="stroke:#993300; stroke-width:1.2; fill:none" d="M 292.06 392.89L 292.06 391.375L 302 391.375L 302 392.89"/>
+				<path style="stroke:#993300; stroke-width:1.2; stroke-linecap:square; fill:none" d="M 301 394.403L 293 394.403"/>
+				<path style="stroke:#993300; stroke-width:1.2; stroke-linecap:square; fill:none" d="M 301 397.411L 293 397.411"/>
+				<path style="stroke:#993300; stroke-width:1.2; stroke-linecap:square; fill:none" d="M 302 400.389L 292 400.389"/>
+				<path style="stroke:#993300; stroke-width:1.2; fill:none" d="M 305 391.89L 305 403.39"/>
+				<path style="stroke:#993300; stroke-width:1.2; fill:none" d="M 309 389.39L 309 407.403L 305.5 407.403"/>
+				<path style="stroke:#993300; stroke-width:1.2; fill:none" d="M 300.975 407.417L 293.059 407.417L 293.059 403.375L 300.975 403.375L 300.975 407.417z"/>
+				<path style="stroke:#993300; stroke-width:1.2; fill:none" d="M 297.104 391.14L 297.104 389.39"/>
+				<path style="stroke:#993300; stroke-width:1.2; fill:none" d="M 297.104 400.39L 297.104 392.987"/>
+				<path style="stroke:#ffffff; stroke-width:1.2; fill:none" d="M 291.06 391.89L 291.06 390.375L 301 390.375L 301 391.89"/>
+				<path style="stroke:#ffffff; stroke-width:1.2; stroke-linecap:square; fill:none" d="M 300 393.403L 292 393.403"/>
+				<path style="stroke:#ffffff; stroke-width:1.2; stroke-linecap:square; fill:none" d="M 300 396.411L 292 396.411"/>
+				<path style="stroke:#ffffff; stroke-width:1.2; stroke-linecap:square; fill:none" d="M 301 399.389L 291 399.389"/>
+				<path style="stroke:#ffffff; stroke-width:1.2; fill:none" d="M 304 390.89L 304 402.39"/>
+				<path style="stroke:#ffffff; stroke-width:1.2; fill:none" d="M 308 388.39L 308 406.403L 304.5 406.403"/>
+				<path style="stroke:#ffffff; stroke-width:1.2; fill:none" d="M 299.975 406.417L 292.059 406.417L 292.059 402.375L 299.975 402.375L 299.975 406.417z"/>
+				<path style="stroke:#ffffff; stroke-width:1.2; fill:none" d="M 296.104 390.14L 296.104 388.39"/>
+				<path style="stroke:#ffffff; stroke-width:1.2; fill:none" d="M 296.104 399.39L 296.104 391.987"/>
+			</g>
+		</g>
+	</g>
+</svg>

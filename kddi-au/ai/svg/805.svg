@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24">
+	<g transform="translate(-264,-386)" id="KDDI_D_805">
+		<g>
+			<path style="stroke:none; fill:none" d="M 288 409.89L 264 409.89L 264 385.89L 288 385.89L 288 409.89z"/>
+		</g>
+		<g>
+			<path style="stroke:none; fill:#009" d="M 268 385.89L 268 409.89L 275 409.89L 275 393.89L 277 393.89L 277 409.89L 284 409.89L 284 385.89L 268 385.89z"/>
+			<path style="stroke:#006; stroke-width:1; fill:none" d="M 268 387.39L 282 387.39"/>
+			<path style="stroke:#66c; stroke-width:1; fill:none" d="M 269 386.39L 270 386.39"/>
+			<path style="stroke:#339; stroke-width:1; fill:none" d="M 270 386.39L 271 386.39"/>
+			<path style="stroke:#66c; stroke-width:1; fill:none" d="M 273 386.39L 274 386.39"/>
+			<path style="stroke:#339; stroke-width:1; fill:none" d="M 274 386.39L 275 386.39"/>
+			<path style="stroke:#66c; stroke-width:1; fill:none" d="M 283 386.39L 282 386.39"/>
+			<path style="stroke:#339; stroke-width:1; fill:none" d="M 282 386.39L 281 386.39"/>
+			<path style="stroke:#66c; stroke-width:1; fill:none" d="M 279 386.39L 278 386.39"/>
+			<path style="stroke:#339; stroke-width:1; fill:none" d="M 278 386.39L 277 386.39"/>
+			<path style="stroke:none; fill:#960" d="M 276.976 386.39C 276.976 386.652 276.763 386.865 276.5 386.865C 276.237 386.865 276.024 386.652 276.024 386.39C 276.024 386.127 276.237 385.915 276.5 385.915C 276.763 385.915 276.976 386.127 276.976 386.39z"/>
+			<path style="stroke:none; fill:#339" d="M 274 407.89L 273.5 408.39L 273 407.89L 272.5 408.39L 272 407.89L 271.5 408.39L 271 407.89L 270.5 408.39L 270 407.89L 269.5 408.39L 269.5 395.89L 270 396.39L 270.5 395.89L 271 396.39L 271.5 395.89L 272 396.39L 272.5 395.89L 273 396.39L 273.5 395.89L 274 396.39L 274 407.89z"/>
+			<path style="stroke:none; fill:#66c" d="M 273 403.89L 272.5 404.39L 272 403.89L 271.5 404.39L 271 403.89L 270.5 404.39L 270 403.89L 269.5 404.39L 269.5 398.89L 270 399.39L 270.5 398.89L 271 399.39L 271.5 398.89L 272 399.39L 272.5 398.89L 273 399.39L 273 403.89z"/>
+			<path style="stroke:none; fill:#339" d="M 283 407.89L 282.5 408.39L 282 407.89L 281.5 408.39L 281 407.89L 280.5 408.39L 280 407.89L 279.5 408.39L 279 407.89L 278.5 408.39L 278.5 395.89L 279 396.39L 279.5 395.89L 280 396.39L 280.5 395.89L 281 396.39L 281.5 395.89L 282 396.39L 282.5 395.89L 283 396.39L 283 407.89z"/>
+			<path style="stroke:none; fill:#66c" d="M 282 403.89L 281.5 404.39L 281 403.89L 280.5 404.39L 280 403.89L 279.5 404.39L 279 403.89L 278.5 404.39L 278.5 398.89L 279 399.39L 279.5 398.89L 280 399.39L 280.5 398.89L 281 399.39L 281.5 398.89L 282 399.39L 282 403.89z"/>
+			<path style="stroke:#339; stroke-width:1; fill:none" d="M 277.5 387.89L 277.5 390.89"/>
+			<path style="stroke:#006; stroke-width:1; fill:none" d="M 272 409.39L 274.5 409.39L 274.5 393.89"/>
+			<path style="stroke:#006; stroke-width:1; fill:none" d="M 281 409.39L 283.5 409.39L 283.5 386.89"/>
+			<path style="stroke:#003; stroke-width:1; fill:none" d="M 269 387.39L 283 387.39"/>
+			<path style="stroke:none; fill:#339" d="M 270.438 391.099C 272.212 392.958 275 393.89 275 393.89L 275 392.89C 275 392.89 273 392.89 270.438 391.099z"/>
+			<g>
+				<path style="stroke:none; fill:#339" d="M 280.562 391.099C 278.788 392.958 276 393.89 276 393.89L 276 392.89C 276 392.89 278 392.89 280.562 391.099z"/>
+				<path style="stroke:none; fill:#339" d="M 282 388.39C 281.176 390.161 278.966 391.466 276 391.89L 276 390.89C 279.857 390.89 281.538 388.912 282 388.39z"/>
+			</g>
+			<path style="stroke:#003; stroke-width:1; fill:none" d="M 275.5 387.89L 275.5 393.89"/>
+		</g>
+	</g>
+</svg>

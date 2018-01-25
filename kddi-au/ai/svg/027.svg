@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24">
+	<g transform="translate(-288,-386)" id="KDDI_D_027">
+		<g>
+			<g>
+				<path style="stroke:none; fill:none" d="M 311 395.876L 289 395.876L 289 399.876L 311 399.876L 311 395.876z"/>
+				<path style="stroke:none; fill:#0099ff" d="M 288 394.876L 288 400.886L 289 399.876L 289 395.876L 311 395.876L 312.01 394.876L 288 394.876z"/>
+				<path style="stroke:none; fill:#0000cc" d="M 311 395.876L 311 399.876L 289 399.876L 288 400.886L 312.01 400.886L 312.01 394.876L 311 395.876z"/>
+			</g>
+			<path style="stroke:none; fill:#0066ff" d="M 311 399.876L 289 399.876L 289 395.876L 311 395.876L 311 399.876z"/>
+		</g>
+	</g>
+</svg>

@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24">
+	<g transform="translate(-264,-386)" id="KDDI_D_359">
+		<g>
+			<path style="stroke:none; fill:none" d="M 288 409.89L 264 409.89L 264 385.89L 288 385.89L 288 409.89z"/>
+		</g>
+		<g>
+			<path style="stroke:none; fill:#ccf" d="M 287.5 407.39C 287.5 408.49 286.6 409.39 285.5 409.39L 266.5 409.39C 265.4 409.39 264.5 408.49 264.5 407.39L 264.5 394.39C 264.5 393.29 265.4 392.39 266.5 392.39L 285.5 392.39C 286.6 392.39 287.5 393.29 287.5 394.39L 287.5 407.39z"/>
+			<path style="stroke:none; fill:#666" d="M 270 390.89L 272 390.89L 272 392.89L 270 392.89L 270 390.89z"/>
+			<path style="stroke:none; fill:#666" d="M 280 390.89L 282 390.89L 282 392.89L 280 392.89L 280 390.89z"/>
+			<path style="stroke:#333; stroke-width:1; fill:none" d="M 272 392.89L 272 390.39C 272 389.84 272.45 389.39 273 389.39L 279 389.39C 279.55 389.39 280 389.84 280 390.39L 280 392.89"/>
+			<path style="stroke:#99c; stroke-width:1; fill:none" d="M 285.5 394.89L 285.5 407.89"/>
+			<path style="stroke:#fff; stroke-width:1; fill:none" d="M 266 395.445L 285 395.445"/>
+			<path style="stroke:#fff; stroke-width:1; fill:none" d="M 266 398.39L 285 398.39"/>
+			<path style="stroke:#fff; stroke-width:1; fill:none" d="M 266 401.39L 285 401.39"/>
+			<path style="stroke:#99c; stroke-width:1; fill:none" d="M 266 396.417L 286 396.417"/>
+			<path style="stroke:#99c; stroke-width:1; fill:none" d="M 266 399.39L 286 399.39"/>
+			<path style="stroke:#99c; stroke-width:1; fill:none" d="M 266 402.39L 286 402.39"/>
+			<path style="stroke:#669; stroke-width:1; fill:none" d="M 266 408.39L 286 408.39"/>
+			<path style="stroke:#fff; stroke-width:1; fill:none" d="M 266 393.39L 286 393.39"/>
+			<path style="stroke:#333; stroke-width:1; fill:none" d="M 287.5 407.39C 287.5 408.49 286.6 409.39 285.5 409.39L 266.5 409.39C 265.4 409.39 264.5 408.49 264.5 407.39L 264.5 394.39C 264.5 393.29 265.4 392.39 266.5 392.39L 285.5 392.39C 286.6 392.39 287.5 393.29 287.5 394.39L 287.5 407.39z"/>
+			<path style="stroke:#669; stroke-width:1; fill:none" d="M 285 396.39L 286 396.39"/>
+			<path style="stroke:#669; stroke-width:1; fill:none" d="M 285 399.39L 286 399.39"/>
+			<path style="stroke:#669; stroke-width:1; fill:none" d="M 285 402.39L 286 402.39"/>
+			<path style="stroke:#fff; stroke-width:1; fill:none" d="M 266 404.39L 285 404.39"/>
+			<path style="stroke:#fff; stroke-width:1; fill:none" d="M 266 407.39L 285 407.39"/>
+			<path style="stroke:#99c; stroke-width:1; fill:none" d="M 266 405.39L 286 405.39"/>
+			<path style="stroke:#669; stroke-width:1; fill:none" d="M 285 405.39L 286 405.39"/>
+		</g>
+	</g>
+</svg>

@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24">
+	<g transform="translate(-264,-386)" id="KDDI_D_067">
+		<g>
+			<path style="stroke:none; fill:#90f" d="M 288 409.89L 264 409.89L 264 385.89L 288 385.89L 288 409.89z"/>
+		</g>
+		<g>
+			<path style="stroke:none; fill:#616161" d="M 288 409.89L 264 409.89L 264 385.89L 288 385.89L 288 409.89z"/>
+			<path style="stroke:none; fill:#000" d="M 287 386.89L 265 408.89L 265 409.89L 288 409.89L 288 385.89L 287 385.89L 287 386.89z"/>
+			<path style="stroke:none; fill:#cece9c" d="M 265 386.89C 265 388.647 265 407.133 265 408.89C 266.757 408.89 285.243 408.89 287 408.89C 287 407.133 287 388.647 287 386.89C 285.243 386.89 266.757 386.89 265 386.89z"/>
+			<path style="stroke:none; fill:#ff9" d="M 265 386.89C 265 388.625 265 406.154 265 407.89C 266.735 407.89 284.265 407.89 286 407.89C 286 406.154 286 388.625 286 386.89C 284.265 386.89 266.735 386.89 265 386.89z"/>
+			<path style="stroke:none; fill:#6c9" d="M 265 386.89L 265 388.89L 286 388.89L 286 386.89L 265 386.89z"/>
+			<path style="stroke:none; fill:#3c9" d="M 286 386.89L 286 388.89L 287 388.89L 287 386.89L 286 386.89z"/>
+			<path style="stroke:#f69; stroke-width:1; fill:none" d="M 267.344 395.871L 284.688 395.871"/>
+			<path style="stroke:#009; stroke-width:1; stroke-linejoin:bevel; fill:none" d="M 278.375 389.235L 278.375 393.845"/>
+			<path style="stroke:#009; stroke-width:1; stroke-linejoin:bevel; fill:none" d="M 277.333 390.556L 278.293 390.556"/>
+			<path style="stroke:#009; stroke-width:1; stroke-linejoin:bevel; fill:none" d="M 274.357 389.235L 274.357 393.876"/>
+			<path style="stroke:#009; stroke-width:1; stroke-linejoin:bevel; fill:none" d="M 273.333 390.556L 274.418 390.556"/>
+			<path style="stroke:#009; stroke-width:0.5; stroke-linejoin:bevel; fill:none" d="M 267.79 390.338L 269.585 392.133"/>
+			<path style="stroke:#009; stroke-width:0.5; stroke-linejoin:bevel; fill:none" d="M 269.585 390.338L 267.79 392.133"/>
+			<path style="stroke:none; fill:#cc9" d="M 268.854 391.402L 268.521 391.402L 268.521 391.069L 268.854 391.069L 268.854 391.402z"/>
+			<path style="stroke:#009; stroke-width:0.5; stroke-linejoin:bevel; fill:none" d="M 282.884 390.338L 284.679 392.133"/>
+			<path style="stroke:#009; stroke-width:0.5; stroke-linejoin:bevel; fill:none" d="M 284.679 390.338L 282.884 392.133"/>
+			<path style="stroke:none; fill:#cc9" d="M 283.948 391.402L 283.615 391.402L 283.615 391.069L 283.948 391.069L 283.948 391.402z"/>
+			<g>
+				<path style="stroke:#009; stroke-dasharray:0.375,1.4625; stroke-width:0.75; fill:none" d="M 271.312 397.885L 284.125 397.885"/>
+				<path style="stroke:#f00; stroke-width:0.75; fill:none" d="M 268.812 397.885L 269.484 397.885"/>
+				<path style="stroke:#f69; stroke-width:0.75; fill:none" d="M 268.156 397.885L 268.828 397.885"/>
+			</g>
+			<g>
+				<path style="stroke:#009; stroke-dasharray:0.375,1.4625; stroke-width:0.75; fill:none" d="M 271.312 405.26L 284.125 405.26"/>
+				<path style="stroke:#f00; stroke-width:0.75; fill:none" d="M 268.812 405.26L 269.484 405.26"/>
+				<path style="stroke:#f69; stroke-width:0.75; fill:none" d="M 268.156 405.26L 268.828 405.26"/>
+			</g>
+			<g>
+				<path style="stroke:#009; stroke-dasharray:0.375,1.4625; stroke-width:0.75; fill:none" d="M 271.312 400.343L 284.125 400.343"/>
+				<path style="stroke:#f00; stroke-width:0.75; fill:none" d="M 268.812 400.343L 269.484 400.343"/>
+				<path style="stroke:#f69; stroke-width:0.75; fill:none" d="M 268.156 400.343L 268.828 400.343"/>
+			</g>
+			<g>
+				<path style="stroke:#009; stroke-dasharray:0.375,1.4625; stroke-width:0.75; fill:none" d="M 271.312 402.801L 284.125 402.801"/>
+				<path style="stroke:#f00; stroke-width:0.75; fill:none" d="M 268.812 402.801L 269.484 402.801"/>
+				<path style="stroke:#f69; stroke-width:0.75; fill:none" d="M 268.156 402.801L 268.828 402.801"/>
+			</g>
+		</g>
+	</g>
+</svg>

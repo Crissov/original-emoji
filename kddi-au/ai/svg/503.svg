@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24">
+	<g transform="translate(-288,-386)" id="KDDI_D_503">
+		<path style="stroke:none; fill:#ffcc00" d="M 312 409.89L 288 409.89L 288 385.89L 312 385.89L 312 409.89z"/>
+		<path style="stroke:#3300ff; stroke-width:1.8; stroke-linejoin:round; stroke-linecap:round; fill:none" d="M 302 393.921C 302 395.555 303.35 396.905 305 396.905L 307 396.905C 308.65 396.905 310.001 395.555 310.001 393.905L 310.001 392.905C 310.001 391.255 308.65 389.905 307 389.905L 305 389.905C 303.35 389.905 302 391.255 302 392.905L 302 393.921z"/>
+		<path style="stroke:#cc00ff; stroke-width:1.8; stroke-linejoin:round; stroke-linecap:round; fill:none" d="M 310.001 403.905C 310.001 402.255 308.65 400.905 307 400.905L 305 400.905C 303.35 400.905 302 402.255 302 403.905L 302 404.905C 302 406.555 303.35 407.905 305 407.905L 307 407.905C 308.65 407.905 310.001 406.555 310.001 404.921L 310.001 403.907"/>
+		<path style="stroke:#ff0000; stroke-width:1.8; stroke-linejoin:round; stroke-linecap:round; fill:none" d="M 298.001 392.905C 298.001 391.255 296.65 389.905 295 389.905L 293 389.905C 291.35 389.905 290 391.255 290 392.905L 290 393.905C 290 395.555 291.35 396.905 293 396.905L 295 396.905C 296.65 396.905 298.001 395.555 298.001 393.905L 298.001 392.905z"/>
+		<path style="stroke:#006600; stroke-width:1.8; stroke-linejoin:round; stroke-linecap:round; fill:none" d="M 298.328 401.904C 297.913 400.743 296.8 399.905 295.5 399.905L 293 399.905C 291.35 399.905 290 401.255 290 402.905L 290 404.905C 290 406.555 291.35 407.905 293 407.905L 295.5 407.905C 296.8 407.905 297.913 407.067 298.327 405.905"/>
+		<path style="stroke:#cc00ff; stroke-width:1.8; stroke-linejoin:round; stroke-linecap:round; fill:none" d="M 310.001 398.376L 310.001 407.907"/>
+		<path style="stroke:#3300ff; stroke-width:1.8; stroke-linejoin:round; stroke-linecap:round; fill:none" d="M 302.02 387.397L 302.02 396.928"/>
+		<path style="stroke:#ff0000; stroke-width:1.8; stroke-linejoin:round; stroke-linecap:round; fill:none" d="M 298.001 389.39L 298.001 396.883"/>
+	</g>
+</svg>

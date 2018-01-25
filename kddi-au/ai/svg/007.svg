@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24">
+	<g transform="translate(-288,-386)" id="KDDI_D_007">
+		<g>
+			<path style="stroke:none; fill:none" d="M 312 409.89L 288 409.89L 288 385.89L 312 385.89L 312 409.89z"/>
+		</g>
+		<g>
+			<path style="stroke:none; fill:#66ccff" d="M 312 388.089L 310.504 391.95L 304.565 397.89L 302.199 397.89L 312 388.089z"/>
+			<path style="stroke:none; fill:#3399ff" d="M 312 407.691L 310.504 403.83L 304.565 397.89L 302.199 397.89L 312 407.691z"/>
+			<path style="stroke:none; fill:#3399ff" d="M 310.504 403.83L 304.565 397.89L 310.504 391.95L 310.504 403.83z"/>
+			<path style="stroke:none; fill:#0066cc" d="M 312 407.691L 310.504 403.83L 310.504 391.95L 312 388.089L 312 407.691z"/>
+		</g>
+		<g>
+			<path style="stroke:none; fill:#66ccff" d="M 297.967 388.089L 296.471 391.95L 290.532 397.89L 288.167 397.89L 297.967 388.089z"/>
+			<path style="stroke:none; fill:#3399ff" d="M 297.967 407.691L 296.471 403.83L 290.532 397.89L 288.167 397.89L 297.967 407.691z"/>
+			<path style="stroke:none; fill:#3399ff" d="M 296.471 403.83L 290.532 397.89L 296.471 391.95L 296.471 403.83z"/>
+			<path style="stroke:none; fill:#0066cc" d="M 297.967 407.691L 296.471 403.83L 296.471 391.95L 297.967 388.089L 297.967 407.691z"/>
+		</g>
+	</g>
+</svg>

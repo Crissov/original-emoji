@@ -44,7 +44,7 @@ Sources:
 
 ## Documentation ##
 
-- <https://www.au.com/mobile/service/featurephone/communication/emoji/>
+- <https://www.au.com/mobile/service/featurephone/communication/emoji/> offers several conversion PDFs:
    + au (new) / docomo → iPhone, au (old), etc.
       * [Facial Expressions](https://www.au.com/content/dam/au-com/static/designs/extlib/pdf/mobile/service/featurephone/communication/emoji/taiohyo_common_01.pdf)
       * [Emotions, Gestures](https://www.au.com/content/dam/au-com/static/designs/extlib/pdf/mobile/service/featurephone/communication/emoji/taiohyo_common_02.pdf)

@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24">
+	<g transform="translate(-264,-386)" id="KDDI_D_025">
+		<g>
+			<path style="stroke:none; fill:none" d="M 288 409.89L 264 409.89L 264 385.89L 288 385.89L 288 409.89z"/>
+		</g>
+		<g>
+			<path style="stroke:none; fill:#960" d="M 283 399.39L 280.5 399.39L 280.5 397.39L 283 397.39L 283 399.39z"/>
+			<path style="stroke:#000; stroke-width:1; fill:none" d="M 283 397.39L 280.5 397.39L 280.5 399.39L 283 399.39"/>
+			<path style="stroke:none; fill:#c90" d="M 278.5 409.39L 270.5 409.39L 270.5 387.39L 278.5 387.39L 278.5 409.39z"/>
+			<path style="stroke:#960; stroke-width:3; fill:none" d="M 274.5 387.89L 274.5 408.89"/>
+			<path style="stroke:#000; stroke-width:1; fill:none" d="M 278.5 409.39L 270.5 409.39L 270.5 387.39L 278.5 387.39L 278.5 409.39z"/>
+			<path style="stroke:none; fill:#c90" d="M 281.494 398.39C 281.494 402.253 278.363 405.383 274.5 405.383C 270.637 405.383 267.505 402.253 267.505 398.39C 267.505 394.527 270.637 391.395 274.5 391.395C 278.363 391.395 281.494 394.527 281.494 398.39z"/>
+			<path style="stroke:#960; stroke-width:0.933; stroke-linecap:square; fill:none" d="M 267.969 398.39L 281.031 398.39"/>
+			<path style="stroke:#960; stroke-width:0.933; stroke-linecap:square; fill:none" d="M 274.5 404.921L 274.5 391.858"/>
+			<path style="stroke:#960; stroke-width:0.933; stroke-linecap:square; fill:none" d="M 271.234 404.046L 277.765 392.734"/>
+			<path style="stroke:#960; stroke-width:0.933; stroke-linecap:square; fill:none" d="M 280.156 401.655L 268.844 395.124"/>
+			<path style="stroke:#960; stroke-width:0.933; stroke-linecap:square; fill:none" d="M 280.156 395.124L 268.843 401.655"/>
+			<path style="stroke:#960; stroke-width:0.933; stroke-linecap:square; fill:none" d="M 271.234 392.733L 277.765 404.046"/>
+			<path style="stroke:#000; stroke-width:0.8229; fill:none" d="M 281.494 398.39C 281.494 402.253 278.363 405.383 274.5 405.383C 270.637 405.383 267.505 402.253 267.505 398.39C 267.505 394.527 270.637 391.395 274.5 391.395C 278.363 391.395 281.494 394.527 281.494 398.39z"/>
+			<path style="stroke:none; fill:#ff0" d="M 279.433 398.39C 279.433 401.114 277.224 403.323 274.5 403.323C 271.775 403.323 269.566 401.114 269.566 398.39C 269.566 395.665 271.775 393.456 274.5 393.456C 277.224 393.456 279.433 395.665 279.433 398.39z"/>
+			<path style="stroke:#630; stroke-width:0.933; stroke-linecap:square; fill:none" d="M 274.5 393.89L 274.5 398.389L 277.299 398.389"/>
+		</g>
+	</g>
+</svg>

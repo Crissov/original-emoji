@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24">
+	<g transform="translate(-288,-386)" id="KDDI_D_011">
+		<path style="stroke:#000099; stroke-width:1; stroke-linecap:square; fill:#000099" d="M 306.5 396.39L 293.5 396.39L 293.5 394.39L 306.5 394.39L 306.5 396.39z"/>
+		<path style="stroke:#000099; stroke-width:1; stroke-linecap:square; fill:#000099" d="M 306.5 409.39L 293.5 409.39L 293.5 407.39L 306.5 407.39L 306.5 409.39z"/>
+		<path style="stroke:#000099; stroke-width:1; stroke-linecap:square; fill:#000099" d="M 301.5 407.39L 300.5 407.39L 300.5 395.39L 301.5 395.39L 301.5 407.39z"/>
+		<path style="stroke:#3366ff; stroke-width:1; stroke-linecap:square; fill:#3366ff" d="M 299.5 407.39L 298.5 407.39L 298.5 395.39L 299.5 395.39L 299.5 407.39z"/>
+		<path style="stroke:#0033ff; stroke-width:1; stroke-linecap:square; fill:#0033ff" d="M 305.5 395.39L 295.5 395.39L 295.5 394.39L 305.5 394.39L 305.5 395.39z"/>
+		<path style="stroke:#0033ff; stroke-width:1; stroke-linecap:square; fill:#0033ff" d="M 305.5 408.39L 295.5 408.39L 295.5 407.39L 305.5 407.39L 305.5 408.39z"/>
+		<path style="stroke:#0033ff; stroke-width:1; stroke-linecap:square; fill:#0033ff" d="M 300.5 407.89L 299.5 407.89L 299.5 394.89L 300.5 394.89L 300.5 407.89z"/>
+		<path style="stroke:#3366ff; stroke-width:1; stroke-linecap:square; fill:#3366ff" d="M 294.5 395.39L 293.5 395.39L 293.5 394.39L 294.5 394.39L 294.5 395.39z"/>
+		<path style="stroke:#3366ff; stroke-width:1; stroke-linecap:square; fill:#3366ff" d="M 294.5 408.39L 293.5 408.39L 293.5 407.39L 294.5 407.39L 294.5 408.39z"/>
+		<path style="stroke:#3399ff; stroke-width:1; stroke-linecap:square; fill:#3399ff" d="M 295.5 395.39L 294.5 395.39L 294.5 394.39L 295.5 394.39L 295.5 395.39z"/>
+		<path style="stroke:#3399ff; stroke-width:1; stroke-linecap:square; fill:#3399ff" d="M 295.5 408.39L 294.5 408.39L 294.5 407.39L 295.5 407.39L 295.5 408.39z"/>
+		<path style="stroke:#3366ff; stroke-width:1; stroke-linejoin:round; stroke-linecap:round; fill:#3366ff" d="M 303.312 388.89C 303.312 390.271 301.829 391.39 300 391.39C 298.171 391.39 296.688 390.271 296.688 388.89C 296.688 387.509 298.171 386.39 300 386.39C 301.829 386.39 303.312 387.509 303.312 388.89z"/>
+		<g>
+			<path style="stroke:#000099; stroke-width:1; stroke-linejoin:round; stroke-linecap:round; fill:#000099" d="M 302.804 387.57C 302.713 387.509 302.61 387.458 302.512 387.404C 302.616 387.647 302.688 387.901 302.688 388.171C 302.688 389.552 301.204 390.671 299.375 390.671C 298.659 390.671 298.001 390.496 297.459 390.204C 297.544 390.393 297.653 390.574 297.79 390.74C 298.377 391.14 299.147 391.39 300 391.39C 301.829 391.39 303.312 390.271 303.312 388.89C 303.312 388.404 303.121 387.954 302.804 387.57z"/>
+			<path style="stroke:#0000ff; stroke-width:1; stroke-linejoin:round; stroke-linecap:round; fill:#0000ff" d="M 302.688 388.171C 302.688 387.901 302.616 387.647 302.512 387.404C 301.969 387.107 301.315 386.921 300.594 386.921C 298.765 386.921 297.281 388.04 297.281 389.421C 297.281 389.696 297.348 389.958 297.459 390.204C 298.001 390.496 298.659 390.671 299.375 390.671C 301.204 390.671 302.688 389.552 302.688 388.171z"/>
+		</g>
+		<path style="stroke:#3399ff; stroke-width:1; fill:#3399ff" d="M 300.5 387.89C 300.5 388.166 300.053 388.39 299.5 388.39C 298.948 388.39 298.5 388.166 298.5 387.89C 298.5 387.613 298.948 387.39 299.5 387.39C 300.053 387.39 300.5 387.613 300.5 387.89z"/>
+	</g>
+</svg>

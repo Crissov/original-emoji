@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24">
+	<g transform="translate(-288,-386)" id="KDDI_D_066">
+		<g>
+			<g>
+				<g>
+					<path style="stroke:none; fill:none" d="M 311 395.876L 289 395.876L 289 399.876L 311 399.876L 311 395.876z"/>
+					<path style="stroke:none; fill:#cc33ff" d="M 288 394.876L 288 400.886L 289 399.876L 311 395.876L 312.01 394.876L 288 394.876z"/>
+					<path style="stroke:none; fill:#330099" d="M 311 395.876L 289 399.876L 288 400.886L 312.01 400.886L 312.01 394.876L 311 395.876z"/>
+				</g>
+				<g>
+					<path style="stroke:none; fill:none" d="M 301.99 386.876L 298.042 386.876L 298.042 390.876L 301.99 390.876L 301.99 386.876z"/>
+					<path style="stroke:none; fill:#330099" d="M 297.042 391.886L 303 391.886L 303 385.876L 297.042 391.886z"/>
+					<path style="stroke:none; fill:#cc33ff" d="M 297.042 385.876L 297.042 391.886L 303 385.876L 297.042 385.876z"/>
+				</g>
+				<g>
+					<path style="stroke:none; fill:none" d="M 301.99 404.876L 298.042 404.876L 298.042 408.876L 301.99 408.876L 301.99 404.876z"/>
+					<path style="stroke:none; fill:#330099" d="M 297.042 409.886L 303 409.886L 303 403.876L 297.042 409.886z"/>
+					<path style="stroke:none; fill:#cc33ff" d="M 297.042 403.876L 297.042 409.886L 303 403.876L 297.042 403.876z"/>
+				</g>
+				<path style="stroke:none; fill:#9900ff" d="M 311 399.876L 289 399.876L 289 395.876L 311 395.876L 311 399.876z"/>
+				<path style="stroke:none; fill:#9900ff" d="M 301.99 390.876L 298.042 390.876L 298.042 386.876L 301.99 386.876L 301.99 390.876z"/>
+				<path style="stroke:none; fill:#9900ff" d="M 301.99 408.876L 298.042 408.876L 298.042 404.876L 301.99 404.876L 301.99 408.876z"/>
+			</g>
+		</g>
+	</g>
+</svg>

@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24">
+	<g transform="translate(-288,-386)" id="KDDI_D_035">
+		<g>
+			<path style="stroke:none; fill:none" d="M 312 409.89L 288 409.89L 288 385.89L 312 385.89L 312 409.89z"/>
+		</g>
+		<g>
+			<g>
+				<path style="stroke:none; fill:#ff99ff" d="M 290.199 395.89L 294.06 394.393L 300 388.454L 300 386.089L 290.199 395.89z"/>
+				<path style="stroke:none; fill:#ff33ff" d="M 309.801 395.89L 305.94 394.394L 300 388.454L 300 386.089L 309.801 395.89z"/>
+				<path style="stroke:none; fill:#ff33ff" d="M 305.94 394.394L 300 388.454L 294.06 394.393L 305.94 394.394z"/>
+				<path style="stroke:none; fill:#cc00cc" d="M 309.801 395.89L 305.94 394.394L 294.06 394.393L 290.199 395.89L 309.801 395.89z"/>
+			</g>
+			<g>
+				<path style="stroke:none; fill:#ff99ff" d="M 290.199 409.89L 294.06 408.393L 300 402.454L 300 400.089L 290.199 409.89z"/>
+				<path style="stroke:none; fill:#ff33ff" d="M 309.801 409.89L 305.94 408.394L 300 402.454L 300 400.089L 309.801 409.89z"/>
+				<path style="stroke:none; fill:#ff33ff" d="M 305.94 408.394L 300 402.454L 294.06 408.393L 305.94 408.394z"/>
+				<path style="stroke:none; fill:#cc00cc" d="M 309.801 409.89L 305.94 408.394L 294.06 408.393L 290.199 409.89L 309.801 409.89z"/>
+			</g>
+		</g>
+	</g>
+</svg>

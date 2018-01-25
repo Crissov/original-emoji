@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24">
+	<g transform="translate(-288,-386)" id="KDDI_D_326">
+		<g>
+			<path style="stroke:none; fill:none" d="M 312 409.89L 288 409.89L 288 385.89L 312 385.89L 312 409.89z"/>
+		</g>
+		<g>
+			<g>
+				<g>
+					<g>
+						<path style="stroke:#990000; stroke-width:1; stroke-linejoin:round; stroke-linecap:round; fill:#cc0000" d="M 307.607 389.282C 309.402 391.31 310.5 393.969 310.5 396.89C 310.5 403.241 305.352 408.39 299 408.39C 296.079 408.39 293.421 407.292 291.392 405.498C 293.499 407.879 296.57 409.39 300 409.39C 306.352 409.39 311.5 404.241 311.5 397.89C 311.5 394.46 309.99 391.389 307.607 389.282z"/>
+						<path style="stroke:#cc0000; stroke-width:1; stroke-linejoin:round; stroke-linecap:round; fill:#cc0000" d="M 310.5 396.89C 310.5 393.969 309.402 391.31 307.607 389.282C 305.579 387.488 302.921 386.39 300 386.39C 293.649 386.39 288.5 391.539 288.5 397.89C 288.5 400.811 289.598 403.469 291.392 405.498C 293.421 407.292 296.079 408.39 299 408.39C 305.352 408.39 310.5 403.241 310.5 396.89z"/>
+					</g>
+					<path style="stroke:#ff0000; stroke-width:1; stroke-linejoin:round; stroke-linecap:round; fill:#ff0000" d="M 310 396.39C 310 393.596 309.002 391.036 307.346 389.044C 305.353 387.387 302.794 386.39 300 386.39C 293.649 386.39 288.5 391.539 288.5 397.89C 288.5 400.683 289.498 403.243 291.154 405.235C 293.147 406.892 295.707 407.89 298.5 407.89C 304.852 407.89 310 402.741 310 396.39z"/>
+					<path style="stroke:#ff6666; stroke-width:2; stroke-linejoin:round; stroke-linecap:round; fill:none" d="M 291 397.89C 291 392.919 295.029 388.89 300 388.89"/>
+				</g>
+				<path style="stroke:#ffffff; stroke-width:1.5; stroke-linejoin:round; stroke-linecap:round; fill:none" d="M 301.958 391.89L 301.958 403.89"/>
+				<path style="stroke:#ffffff; stroke-width:1.5; stroke-linejoin:round; stroke-linecap:round; fill:none" d="M 307.715 392.175L 302 397.918L 307.688 403.606"/>
+				<path style="stroke:#ffffff; stroke-width:1.5; stroke-linejoin:round; stroke-linecap:round; fill:none" d="M 292 400.89C 292 402.54 293.35 403.89 295 403.89L 295 403.89C 296.65 403.89 298 402.54 298 400.89L 298 394.89C 298 393.24 296.65 391.89 295 391.89L 295 391.89C 293.35 391.89 292 393.24 292 394.89L 292 400.89z"/>
+			</g>
+		</g>
+	</g>
+</svg>

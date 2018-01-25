@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24">
+	<g transform="translate(-264,-386)" id="KDDI_D_771">
+		<g>
+			<path style="stroke:none; fill:none" d="M 288 409.89L 264 409.89L 264 385.89L 288 385.89L 288 409.89z"/>
+		</g>
+		<g>
+			<path style="stroke:none; fill:#fc0" d="M 288 409.89L 264 409.89L 264 385.89L 288 385.89L 288 409.89z"/>
+			<path style="stroke:none; fill:#f30" d="M 288 409.89L 279 409.89L 279 396.89L 288 396.89L 288 409.89z"/>
+			<path style="stroke:none; fill:#00f" d="M 280.5 404.39L 271.5 404.39L 271.5 391.39L 280.5 391.39L 280.5 404.39z"/>
+			<path style="stroke:none; fill:#f09" d="M 273 398.89L 264 398.89L 264 385.89L 273 385.89L 273 398.89z"/>
+			<path style="stroke:#fff; stroke-width:2; fill:none" d="M 266.5 396.89L 266.5 389.89L 268.5 388.39L 270.5 389.89L 270.5 396.89"/>
+			<path style="stroke:#fff; stroke-width:2; fill:none" d="M 277 401.89L 278 400.89L 278 394.89L 277 393.89L 274 393.89L 274 401.89L 277 401.89z"/>
+			<path style="stroke:#fff; stroke-width:2; fill:none" d="M 285.5 402.39L 285.5 399.39L 281.5 399.39L 281.5 407.39L 285.5 407.39L 285.5 404.39"/>
+			<path style="stroke:#fff; stroke-width:2; fill:none" d="M 266 392.39L 271 392.39"/>
+			<path style="stroke:#fff; stroke-width:2; fill:none" d="M 277.5 397.89L 274.5 397.89"/>
+		</g>
+	</g>
+</svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24">
+	<g transform="translate(-264,-386)" id="KDDI_D_512">
+		<g>
+			<path style="stroke:none; fill:none" d="M 288 409.89L 264 409.89L 264 385.89L 288 385.89L 288 409.89z"/>
+		</g>
+		<g>
+			<path style="stroke:none; fill:#333" d="M 271.5 409.89L 269.998 408.387L 270 403.89L 268.75 402.64L 268.25 402.14L 279.25 391.14L 284.75 396.64L 271.5 409.89z"/>
+			<path style="stroke:none; fill:#fc0" d="M 270.5 408.89L 269.998 408.387L 270 403.89L 265.5 403.89L 265 403.39L 278.25 390.14L 283.75 395.64L 270.5 408.89z"/>
+			<path style="stroke:#f30; stroke-width:1; fill:none" d="M 270.5 408.89L 269.998 408.387L 270 403.89L 265.5 403.89L 265 403.39L 278.25 390.14L 283.75 395.64L 270.5 408.89z"/>
+			<path style="stroke:#03f; stroke-width:1; stroke-linecap:square; fill:none" d="M 281.5 392.39L 281.5 386.39"/>
+			<path style="stroke:#39f; stroke-width:1; stroke-linecap:square; fill:none" d="M 281.5 392.39L 287.5 392.39"/>
+			<path style="stroke:#03f; stroke-width:1; stroke-linecap:round; fill:none" d="M 281.5 390.39L 281.5 392.39L 280 393.89"/>
+		</g>
+	</g>
+</svg>

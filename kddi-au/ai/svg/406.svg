@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24">
+	<g transform="translate(-288,-386)" id="KDDI_D_406">
+		<g>
+			<path style="stroke:none; fill:none" d="M 312 409.89L 288 409.89L 288 385.89L 312 385.89L 312 409.89z"/>
+		</g>
+		<g>
+			<path style="stroke:#ff6600; stroke-width:0.8; fill:#ffffff" d="M 311.5 407.39C 311.5 408.49 310.6 409.39 309.5 409.39L 290.5 409.39C 289.4 409.39 288.5 408.49 288.5 407.39L 288.5 388.39C 288.5 387.29 289.4 386.39 290.5 386.39L 309.5 386.39C 310.6 386.39 311.5 387.29 311.5 388.39L 311.5 407.39z"/>
+			<g>
+				<path style="stroke:#ff6600; stroke-width:0.5; stroke-linejoin:round; stroke-linecap:round; fill:none" d="M 298.946 400.37C 297.69 402.798 293.532 403.817 289.145 402.642C 288.963 402.593 288.783 402.542 288.606 402.487"/>
+				<path style="stroke:#ff6600; stroke-width:0.5; stroke-linejoin:round; stroke-linecap:round; fill:none" d="M 300.153 396.49C 299.403 399.291 294.885 400.513 290.061 399.221C 289.5 399.071 288.96 398.894 288.445 398.693"/>
+				<path style="stroke:#ff6600; stroke-width:0.5; stroke-linejoin:round; stroke-linecap:round; fill:none" d="M 299.292 391.668C 299.417 392.21 299.299 392.826 299.196 393.21C 298.571 395.545 294.919 396.597 291.043 395.558C 290.088 395.302 289.209 394.944 288.435 394.514"/>
+				<path style="stroke:#ff6600; stroke-width:0.5; stroke-linejoin:round; stroke-linecap:round; fill:none" d="M 296.667 388.335C 297.25 389.029 297.554 389.931 297.361 390.651C 296.938 392.229 294.505 392.949 291.927 392.258C 290.406 391.851 289.174 391.044 288.507 390.126"/>
+				<path style="stroke:#ff6600; stroke-width:0.5; stroke-linejoin:round; stroke-linecap:round; fill:none" d="M 288.554 390.266C 289.978 388.906 291.582 388.068 293.102 387.872C 297 390.308 297.939 397.506 294.005 404.212"/>
+				<path style="stroke:#ff6600; stroke-width:0.5; stroke-linejoin:round; stroke-linecap:round; fill:none" d="M 288.728 404.479C 293.623 405.79 298.654 402.885 299.966 397.991C 301.276 393.096 298.372 388.064 293.477 386.753L 288.728 404.479z"/>
+				<path style="stroke:#ff6600; stroke-width:0.5; stroke-linejoin:round; stroke-linecap:round; fill:#ffffff" d="M 295.316 388.583C 295.131 389.271 294.008 389.569 292.809 389.247C 291.608 388.925 290.786 388.107 290.969 387.418C 291.154 386.729 292.276 386.431 293.477 386.753C 294.676 387.075 295.5 387.894 295.316 388.583z"/>
+			</g>
+			<g>
+				<path style="stroke:#ff6600; stroke-width:0.5; stroke-linejoin:round; stroke-linecap:round; fill:none" d="M 300.986 395.511C 302.241 393.082 306.399 392.063 310.787 393.238C 310.969 393.287 311.148 393.339 311.326 393.394"/>
+				<path style="stroke:#ff6600; stroke-width:0.5; stroke-linejoin:round; stroke-linecap:round; fill:none" d="M 299.778 399.391C 300.528 396.59 305.047 395.367 309.871 396.659C 310.432 396.809 310.972 396.987 311.486 397.188"/>
+				<path style="stroke:#ff6600; stroke-width:0.5; stroke-linejoin:round; stroke-linecap:round; fill:none" d="M 300.64 404.213C 300.515 403.671 300.633 403.055 300.735 402.671C 301.361 400.336 305.012 399.283 308.889 400.322C 309.844 400.578 310.723 400.937 311.496 401.367"/>
+				<path style="stroke:#ff6600; stroke-width:0.5; stroke-linejoin:round; stroke-linecap:round; fill:none" d="M 303.266 407.546C 302.682 406.851 302.378 405.95 302.57 405.23C 302.994 403.651 305.426 402.932 308.004 403.622C 309.525 404.03 310.758 404.837 311.425 405.754"/>
+				<path style="stroke:#ff6600; stroke-width:0.5; stroke-linejoin:round; stroke-linecap:round; fill:none" d="M 311.378 405.615C 309.954 406.975 308.35 407.813 306.83 408.009C 302.931 405.571 301.992 398.368 305.931 391.659"/>
+				<path style="stroke:#ff6600; stroke-width:0.5; stroke-linejoin:round; stroke-linecap:round; fill:none" d="M 311.203 391.401C 306.309 390.091 301.277 392.995 299.966 397.89C 298.655 402.784 301.56 407.817 306.455 409.128L 311.203 391.401z"/>
+				<path style="stroke:#ff6600; stroke-width:0.5; stroke-linejoin:round; stroke-linecap:round; fill:#ffffff" d="M 304.615 407.298C 304.801 406.609 305.924 406.312 307.123 406.634C 308.324 406.955 309.147 407.774 308.963 408.463C 308.777 409.151 307.656 409.449 306.455 409.128C 305.256 408.806 304.432 407.986 304.615 407.298z"/>
+			</g>
+		</g>
+	</g>
+</svg>

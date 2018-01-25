@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24">
+	<g transform="translate(-264,-386)" id="KDDI_D_796">
+		<g>
+			<path style="stroke:none; fill:none" d="M 288 409.89L 264 409.89L 264 385.89L 288 385.89L 288 409.89z"/>
+		</g>
+		<g>
+			<path style="stroke:none; fill:#f00" d="M 284.5 409.39L 267.5 409.39L 267.5 386.39L 284.5 386.39L 284.5 409.39z"/>
+			<path style="stroke:none; fill:#fff" d="M 278 392.89C 278 395.099 276.209 396.89 274 396.89C 271.791 396.89 270 395.099 270 392.89C 270 390.681 271.791 388.89 274 388.89C 276.209 388.89 278 390.681 278 392.89z"/>
+			<path style="stroke:none; fill:#333" d="M 267.5 403.39L 267.5 409.39L 284.5 409.39L 284.5 404.89C 283 403.39 278.5 399.39 274 399.39C 270.5 399.39 267.5 403.39 267.5 403.39z"/>
+			<path style="stroke:#000; stroke-width:1; fill:none" d="M 267.5 403.39L 267.5 409.39L 284.5 409.39L 284.5 404.89C 283 403.39 278.5 399.39 274 399.39C 270.5 399.39 267.5 403.39 267.5 403.39z"/>
+			<path style="stroke:#000; stroke-width:1; fill:none" d="M 267.5 409.39C 267.5 409.39 272.21 402.325 278.5 400.714"/>
+			<path style="stroke:#000; stroke-width:1; fill:none" d="M 272.5 409.39C 272.5 409.39 277.096 404.465 281.5 402.597"/>
+			<path style="stroke:#000; stroke-width:1; fill:none" d="M 278.5 409.39C 278.5 409.39 281.14 406.222 284.5 405.202"/>
+			<path style="stroke:#600; stroke-width:1; fill:none" d="M 284.5 409.39L 267.5 409.39L 267.5 386.39L 284.5 386.39L 284.5 409.39z"/>
+		</g>
+	</g>
+</svg>
