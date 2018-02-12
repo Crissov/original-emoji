@@ -17,3 +17,6 @@ also see [Y! Mobile](../y-mobile/) and also [SoftBank](../softbank/)
 - Source: extracted from Softbank 2009 conversion PDF
 - 200 graphics
 - incomplete!
+
+- emobile EMnet v1.7.1 apk
+
