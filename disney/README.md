@@ -6,6 +6,7 @@ also see [SoftBank](../softbank/)
 
 SoftBank discontinued its _Disney Mobile_ brand in November 2017. 
 Some emojis use the default SoftBank style, but many have been altered to fit the Disney themed.
+DisneyColorEmoji-SBMColorEmoji 2014-2015 TTF CBDT
 
 - <http://www.disney.co.jp/mobile/s/service/3g/3g_pre/disney_pict.html>
 - [http://disneymobile.jp/mail/disney_pict](http://web.archive.org/web/20101121221403/http://disneymobile.jp:80/mail/disney_pict)
