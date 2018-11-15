@@ -8,7 +8,7 @@
 ![Sharp WD-A551 JIS X 0208-1990 93+94.48-71](sharp3.png)
 ![Sharp WD-A551 JIS X 0208-1990 93+94.72-95](sharp4.png)
 
-![Sharp WD-A750+760 user manual](Sharp WD-A750+760 Manual Charset 2.png)
+![Sharp WD-A750+760 user manual](sharpA750A760.png)
 
 The Sharp WD-A551 and similar devices assigned pictographs to several empty slots of JIS X0208:1990. This was the base for [J-Phone](../j-phone/) and hence [SoftBank](../softbank/) emojis.
 
