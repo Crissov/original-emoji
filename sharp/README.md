@@ -1,6 +1,8 @@
 [Sharp](https://github.com/Crissov/unicode-proposals/issues/323)
 =====
 
+- Source: [Yasuoka](https://srad.jp/~yasuoka/journal/495877): [photo of Sharp WD A521 user manual (PDF)](http://kanji.zinbun.kyoto-u.ac.jp/~yasuoka/Emoji/SHARP-WD-A521p457-458.pdf)
+
 ![Sharp WD-A551 JIS X 0208-1990 93.15-23 + 94.00-23](sharp1.png)
 ![Sharp WD-A551 JIS X 0208-1990 93+94.24-47](sharp2.png)
 ![Sharp WD-A551 JIS X 0208-1990 93+94.48-71](sharp3.png)
