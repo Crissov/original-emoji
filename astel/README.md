@@ -1,7 +1,7 @@
 ASTEL
 =====
 
-I stumbled over an older site that lists the Shift-JIS codes and images for ![i](http://e-life.kir.jp/cgi/emoji/CAV2VFUV.gif)-mode and ![J-Phone](http://e-life.kir.jp/cgi/emoji/CAS983Q3.gif)![](http://e-life.kir.jp/cgi/emoji/CAATGTO1.gif)![](http://e-life.kir.jp/cgi/emoji/CAQQBZX5.gif) (then Vodafone, now Softbank) emojis around the year 2000. It also has a list of **[ASTEL emojis]** that I haven't ever heard of before. Their brand seems to have been _ASTEL dot i_. They are black and white, but include some entries that are still not available in Unicode. 
+I stumbled over an older site that lists the Shift-JIS codes and images for ![i](http://e-life.kir.jp/cgi/emoji/CAV2VFUV.gif)-mode and ![J-Phone](http://e-life.kir.jp/cgi/emoji/CAS983Q3.gif)![](http://e-life.kir.jp/cgi/emoji/CAATGTO1.gif)![](http://e-life.kir.jp/cgi/emoji/CAQQBZX5.gif) (then Vodafone, now Softbank) emojis around the year 2000. It also has a list of **[ASTEL emojis]** that I haven't ever heard of before. Their brand seems to have been _ASTEL dot i_. They are black and white, but include some entries that are still not available in Unicode. ASTEL, like DDI, was a local PHS provider, i.e. mobile but not cellular.
 
 Emojis seem to have been animated by switching character codes:
 
