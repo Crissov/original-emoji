@@ -16,13 +16,13 @@ Until circa mid-2015, Japanese carriers added emojis in their traditional design
 
 Also see [this Google Spreadsheet](https://docs.google.com/spreadsheets/d/1X-jx6rYCqEjkp3Z4_qhBW0etIVbk4gqslaWWbYvNROY/edit) for codes etc.
 
-The original Unicode mapping tables etc. were hosted at <http://code.google.com/p/emoji4unicode> 
-but were moved to <https://github.com/googlei18n/emoji4unicode> (E4U) when Google Code was closed down. 
-The documentation is still found at <http://sites.google.com/site/unicodesymbols/Home/emoji-symbols>. 
-Official Unicode documentation is now at <http://unicode.org/emoji/> 
-with <http://unicode.org/emoji/charts/full-emoji-list.html> (huge document) and <http://unicode.org/emoji/charts/emoji-versions-sources.html> of particular interest for this project. 
-Raw data is found in <http://www.unicode.org/Public/emoji/latest/> and <http://www.unicode.org/Public/UCD/latest/ucd/EmojiSources.txt>.
-This last file is basically the condensed result of the E4U work.
+The original Unicode mapping tables etc. were hosted at [Google Code](http://code.google.com/p/emoji4unicode), 
+but were moved to [Github](https://github.com/googlei18n/emoji4unicode) (E4U) when Google Code was closed down. 
+The documentation is still found at a [Google Site](http://sites.google.com/site/unicodesymbols/Home/emoji-symbols). 
+Official [Unicode documentation](http://unicode.org/emoji/) now has 
+[full chart](http://unicode.org/emoji/charts/full-emoji-list.html) (huge document) and a [table of emoji origins](http://unicode.org/emoji/charts/emoji-versions-sources.html) of particular interest for this project. 
+The [latest raw data](http://www.unicode.org/Public/emoji/latest/) also includes a [machine-readable file](http://www.unicode.org/Public/UCD/latest/ucd/EmojiSources.txt) 
+that is basically the condensed result of the E4U work.
 
-- https://github.com/suzukitakafumi/emojicodecs Codecs for mobile japanese mobile phones (DoCoMo, KDDI, SoftBank extended Shift-JIS and UTF-8 PUA)
-- https://github.com/wakaba/hatena-emoji-data [Hatena](http://www.hatena.ne.jp) emoji convertion table and scripts
+- [suzukitakafumi/emojicodecs](https://github.com/suzukitakafumi/emojicodecs): Codecs for mobile japanese mobile phones (DoCoMo, KDDI, SoftBank extended Shift-JIS and UTF-8 PUA)
+- [wakaba/hatena-emoji-data](https://github.com/wakaba/hatena-emoji-data): [Hatena](http://www.hatena.ne.jp) emoji convertion table and scripts
