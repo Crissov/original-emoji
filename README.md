@@ -1,18 +1,34 @@
 # Original Japanese emoji resources #
 
-Note that starting in April 2012, [E-Mobile](emobile/) and [KDDI au](kddi-au/)basically adopted [NTT Docomo's i-mode](ntt-docomo/) emoji design while [SoftBank](softbank/) kept their own design which was already relatively close to [NTT Docomo](ntt-docomo/).
+[KDDI au]: kddi-au/
+[NTT Docomo]: ntt-docomo/
+[Sharp]: sharp/
+[J-Phone's]: j-phone/
+[SoftBank]: softbank/
+[Disney Mobile]: disney-mobile/
+[Y! Mobile]: y-mobile/
+[Willcom]: willcom/
+[E-Mobile]: emobile/
+[eAccess](e-access/)
 
-[Sharp](sharp/) electronic typewriters had monochrome emojis in private-use (Shift) JIS positions. These got reused for [J-Phone's](j-phone/) and thus [Softbank's](softbank/) original emojis that competed with [NTT Docomo's](ntt-docomo/).
+Note that starting in April 2012, [E-Mobile] and [KDDI au] basically adopted [NTT Docomo's i-mode][NTT Docomo] emoji design,
+while [SoftBank] kept their own design which was already relatively close to [NTT Docomo].
 
-Until circa mid-2015, Japanese carriers added emojis in their traditional design to Android phones, just like Samsung still does and LG and HTC used to do.
+[Sharp] (and Canon) electronic typewriters had monochrome emojis in private-use (Shift) JIS positions. 
+These got reused for [J-Phone]'s and thus later Vodafone's and [Softbank]'s original emojis that competed with [NTT Docomo]'s.
 
-[Disney Mobile](disney-mobile/) is a brand of [Softbank](softbank/). Its emoji set only changes some glyphs.
+Until circa mid-2015, Japanese carriers added emojis in their traditional design to Android phones, just like [Samsung](http://emojipedia.org/samsung/) still does and [LG](http://emojipedia.org/lg/) and [HTC](http://emojipedia.org/htc/) used to do.
 
-[Y! Mobile](y-mobile/), the Yahoo-based brand under the [SoftBank](softbank/) umbrella, fuses the prior [Willcom](willcom/) and [E-Mobile](emobile/) services. Willcom was a PTT provider, a non-cellular mobile phone technology almost only used in Japan.
+[Disney Mobile] was a brand of [Softbank]. 
+Its emoji set only changes some glyphs.
 
-[KDDI](kddi-au/) uses _au_ as a brand name. It previously used labels like [_EZweb_](ez-web/).
+[Y! Mobile], the Yahoo-based brand under the [SoftBank] umbrella, fuses the prior [Willcom] and [E-Mobile] services. 
+Willcom was a PTT (or PHS) provider, a non-cellular mobile phone technology almost only used in Japan.
 
-[E-Mobile](emobile/) had a service known as [eAccess](e-access/).
+[KDDI][KDDI au] uses _au_ as a brand name. 
+It previously used labels like [_EZweb_](ez-web/) and TUKA.
+
+[E-Mobile] had a service known as [eAccess].
 
 Also see [this Google Spreadsheet](https://docs.google.com/spreadsheets/d/1X-jx6rYCqEjkp3Z4_qhBW0etIVbk4gqslaWWbYvNROY/edit) for codes etc.
 
