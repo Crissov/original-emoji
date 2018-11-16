@@ -19,6 +19,11 @@ but maps them internally to modern glyphs,
 i.e. there is no way to access previously deviating designs like the _gavel_-like Hammer or the _scallop_-like Spiral Shell. 
 The following table is based upon the glyph aliases taken from the iOS 11 AppleColorEmoji.ttf font file. 
 
+The exclusive distribution partner for the first few iPhone models in the Japanese market was [SoftBank](../softbank/), 
+so Apple designersclosely followed their precedents and these PUA codes should be compatible as well.
+The only legacy emoji supported by Apple that has no modern counterpart is U+E50A, 
+showing the iconic [_Shibuya 109_](https://emojipedia.org/emoji/%EE%94%8A/) mall in Tokyo.
+
 | PUA    | Char  | Glyph name | Standard | Emoji    | Glyph name | Variant or note |
 | ------ | -------- | ------- | ------- | --------- | ---------- | --------------- |
 | U+E001 | &#xE001; | `uE001`	| U+1F466 | &#x1F466; | `u1F466.0` | default skin tone	|
@@ -446,7 +451,7 @@ The following table is based upon the glyph aliases taken from the iOS 11 AppleC
 | U+E507 | &#xE507; | `uE507`	| U+1F3A6 | &#x1F3A6; | `u1F3A6` |	|
 | U+E508 | &#xE508; | `uE508`	| U+1F3ED | &#x1F3ED; | `u1F3ED` |	|
 | U+E509 | &#xE509; | `uE509`	| U+1F5FC | &#x1F5FC; | `u1F5FC` |	|
-| U+E50A | &#xE50A; | `uE50A`	| U+E50A | &#xE50A; | `uE50A` |	|
+| U+E50A | &#xE50A; | `uE50A`	|  |  |  |	|
 | U+E50B | &#xE50B; | `uE50B`	| U+1F1EF+1F1F5 | &#x1F1EF;&#x1F1F5; | `u1F1EF_u1F1F5` | RIS flag sequence	|
 | U+E50C | &#xE50C; | `uE50C`	| U+1F1FA+1F1F8 | &#x1F1FA;&#x1F1F8; | `u1F1FA_u1F1F8` | RIS flag sequence	|
 | U+E50D | &#xE50D; | `uE50D`	| U+1F1EB+1F1F7 | &#x1F1EB;&#x1F1F7; | `u1F1EB_u1F1F7` | RIS flag sequence	|
