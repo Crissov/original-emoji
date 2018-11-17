@@ -1,11 +1,9 @@
-# Apple
-
-![Apple logo](../img/apple_logo.svg)
+# ![Apple](../img/apple_logo.svg "Apple logo")
 
 Emojipedia now completely documents 
 [iPhone OS 2.2.1](https://emojipedia.org/apple/iphone-os-2.2/) and 
 [iOS 4.0](https://emojipedia.org/apple/ios-4.0/) emojis,
-as well as all newer ones.
+as well as [all newer ones](https://emojipedia.org/apple/).
 
 ![iPhone OS 2.2.1 emoji overview](ios-2-2-1.jpg)
 
@@ -16,12 +14,15 @@ as well as all newer ones.
 For backwards compatibility with legacy content, 
 Apple continues to support the original custom codes in the Private Use Area (PUA) of Unicode,
 but maps them internally to modern glyphs, 
-i.e. there is no way to access previously deviating designs like the _gavel_-like Hammer or the _scallop_-like Spiral Shell. 
-The following table is based upon the glyph aliases taken from the iOS 11 AppleColorEmoji.ttf font file. 
+i.e. there is no way to access previously deviating designs like the _gavel_-like Hammer or the _scallop_-like Spiral Shell,
+unless one altered the font file. 
+The following table is [based upon](https://twitter.com/vXBaKeRXv/status/919945676024201218) 
+the [glyph aliases taken from the iOS 11.1](https://github.com/vXBaKeRXv/EmojiFontData/tree/master/AppleColorEmoji) 
+AppleColorEmoji.ttf font file. 
 
 The exclusive distribution partner for the first few iPhone models in the Japanese market was [SoftBank](../softbank/), 
-so Apple designersclosely followed their precedents and these PUA codes should be compatible as well.
-The only legacy emoji supported by Apple that has no modern counterpart is U+E50A, 
+so Apple designers closely followed their precedent and these PUA codes should be compatible as well.
+The only legacy emoji supported by Apple, at least until iOS 11, that has no modern counterpart is U+E50A, 
 showing the iconic [_Shibuya 109_](https://emojipedia.org/emoji/%EE%94%8A/) mall in Tokyo.
 
 | PUA    | Char  | Glyph name | Standard | Emoji    | Glyph name | Variant or note |
