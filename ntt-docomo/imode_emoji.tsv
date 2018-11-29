@@ -1,283 +1,283 @@
-ordinal	Shift-JIS	PUA	UTF-8	Color	Japanese
-#0001	\x{F89F}	U+E63E	\x{EE98BE}	Red	晴れ
-#0002	\x{F8A0}	U+E63F	\x{EE98BF}	Blue	曇り
-#0003	\x{F8A1}	U+E640	\x{EE9980}	Blue	雨
-#0004	\x{F8A2}	U+E641	\x{EE9981}	Blue	雪
-#0005	\x{F8A3}	U+E642	\x{EE9982}	Orange	雷
-#0006	\x{F8A4}	U+E643	\x{EE9983}	Red	台風
-#0007	\x{F8A5}	U+E644	\x{EE9984}	Blue	霧
-#0008	\x{F8A6}	U+E645	\x{EE9985}	Blue	小雨
-#0009	\x{F8A7}	U+E646	\x{EE9986}	Red	牡羊座
-#0010	\x{F8A8}	U+E647	\x{EE9987}	Orange	牡牛座
-#0011	\x{F8A9}	U+E648	\x{EE9988}	Lime	双子座
-#0012	\x{F8AA}	U+E649	\x{EE9989}	Blue	蟹座
-#0013	\x{F8AB}	U+E64A	\x{EE998A}	Red	獅子座
-#0014	\x{F8AC}	U+E64B	\x{EE998B}	Orange	乙女座
-#0015	\x{F8AD}	U+E64C	\x{EE998C}	Lime	天秤座
-#0016	\x{F8AE}	U+E64D	\x{EE998D}	Blue	蠍座
-#0017	\x{F8AF}	U+E64E	\x{EE998E}	Red	射手座
-#0018	\x{F8B0}	U+E64F	\x{EE998F}	Orange	山羊座
-#0019	\x{F8B1}	U+E650	\x{EE9990}	Lime	水瓶座
-#0020	\x{F8B2}	U+E651	\x{EE9991}	Blue	魚座
-#0021	\x{F8B3}	U+E652	\x{EE9992}	Fuchsia	スポーツ
-#0022	\x{F8B4}	U+E653	\x{EE9993}	Black	野球
-#0023	\x{F8B5}	U+E654	\x{EE9994}	Blue	ゴルフ
-#0024	\x{F8B6}	U+E655	\x{EE9995}	Lime	テニス
-#0025	\x{F8B7}	U+E656	\x{EE9996}	Black	サッカー
-#0026	\x{F8B8}	U+E657	\x{EE9997}	Blue	スキー
-#0027	\x{F8B9}	U+E658	\x{EE9998}	Orange	バスケットボール
-#0028	\x{F8BA}	U+E659	\x{EE9999}	Black	モータースポーツ
-#0029	\x{F8BB}	U+E65A	\x{EE999A}	Fuchsia	ポケットベル
-#0030	\x{F8BC}	U+E65B	\x{EE999B}	Lime	電車
-#0031	\x{F8BD}	U+E65C	\x{EE999C}	Orange	地下鉄
-#0032	\x{F8BE}	U+E65D	\x{EE999D}	Blue	新幹線
-#0033	\x{F8BF}	U+E65E	\x{EE999E}	Black	車(セダン)
-#0034	\x{F8C0}	U+E65F	\x{EE999F}	Lime	車(RV)
-#0035	\x{F8C1}	U+E660	\x{EE99A0}	Red	バス
-#0036	\x{F8C2}	U+E661	\x{EE99A1}	Blue	船
-#0037	\x{F8C3}	U+E662	\x{EE99A2}	Blue	飛行機
-#0038	\x{F8C4}	U+E663	\x{EE99A3}	Red	家
-#0039	\x{F8C5}	U+E664	\x{EE99A4}	Blue	ビル
-#0040	\x{F8C6}	U+E665	\x{EE99A5}	Red	郵便局
-#0041	\x{F8C7}	U+E666	\x{EE99A6}	Red	病院
-#0042	\x{F8C8}	U+E667	\x{EE99A7}	Fuchsia	銀行
-#0043	\x{F8C9}	U+E668	\x{EE99A8}	Red	ATM
-#0044	\x{F8CA}	U+E669	\x{EE99A9}	Lime	ホテル
-#0045	\x{F8CB}	U+E66A	\x{EE99AA}	Blue	コンビニ
-#0046	\x{F8CC}	U+E66B	\x{EE99AB}	Fuchsia	ガソリンスタンド
-#0047	\x{F8CD}	U+E66C	\x{EE99AC}	Blue	駐車場
-#0048	\x{F8CE}	U+E66D	\x{EE99AD}	Black	信号
-#0049	\x{F8CF}	U+E66E	\x{EE99AE}	Black	トイレ
-#0050	\x{F8D0}	U+E66F	\x{EE99AF}	Black	レストラン
-#0051	\x{F8D1}	U+E670	\x{EE99B0}	Lime	喫茶店
-#0052	\x{F8D2}	U+E671	\x{EE99B1}	Fuchsia	バー
-#0053	\x{F8D3}	U+E672	\x{EE99B2}	Orange	ビール
-#0054	\x{F8D4}	U+E673	\x{EE99B3}	Orange	ファーストフード
-#0055	\x{F8D5}	U+E674	\x{EE99B4}	Red	ブティック
-#0056	\x{F8D6}	U+E675	\x{EE99B5}	Blue	美容院
-#0057	\x{F8D7}	U+E676	\x{EE99B6}	Black	カラオケ
-#0058	\x{F8D8}	U+E677	\x{EE99B7}	Black	映画
-#0059	\x{F8D9}	U+E678	\x{EE99B8}	Black	右斜め上
-#0060	\x{F8DA}	U+E679	\x{EE99B9}	Orange	遊園地
-#0061	\x{F8DB}	U+E67A	\x{EE99BA}	Blue	音楽
-#0062	\x{F8DC}	U+E67B	\x{EE99BB}	Fuchsia	アート
-#0063	\x{F8DD}	U+E67C	\x{EE99BC}	Black	演劇
-#0064	\x{F8DE}	U+E67D	\x{EE99BD}	Red	イベント
-#0065	\x{F8DF}	U+E67E	\x{EE99BE}	Orange	チケット
-#0066	\x{F8E0}	U+E67F	\x{EE99BF}	Black	喫煙
-#0067	\x{F8E1}	U+E680	\x{EE9A80}	Red	禁煙
-#0068	\x{F8E2}	U+E681	\x{EE9A81}	Black	カメラ
-#0069	\x{F8E3}	U+E682	\x{EE9A82}	Red	カバン
-#0070	\x{F8E4}	U+E683	\x{EE9A83}	Orange	本
-#0071	\x{F8E5}	U+E684	\x{EE9A84}	Red	リボン
-#0072	\x{F8E6}	U+E685	\x{EE9A85}	Red	プレゼント
-#0073	\x{F8E7}	U+E686	\x{EE9A86}	Red	バースデイ
-#0074	\x{F8E8}	U+E687	\x{EE9A87}	Black	電話
-#0075	\x{F8E9}	U+E688	\x{EE9A88}	Black	携帯電話
-#0076	\x{F8EA}	U+E689	\x{EE9A89}	Orange	メモ
-#0077	\x{F8EB}	U+E68A	\x{EE9A8A}	Blue	TV
-#0078	\x{F8EC}	U+E68B	\x{EE9A8B}	Black	ゲーム
-#0079	\x{F8ED}	U+E68C	\x{EE9A8C}	Blue	CD
-#0080	\x{F8EE}	U+E68D	\x{EE9A8D}	Red	ハート
-#0081	\x{F8EF}	U+E68E	\x{EE9A8E}	Black	スペード
-#0082	\x{F8F0}	U+E68F	\x{EE9A8F}	Red	ダイヤ
-#0083	\x{F8F1}	U+E690	\x{EE9A90}	Black	クラブ
-#0084	\x{F8F2}	U+E691	\x{EE9A91}	Black	目
-#0085	\x{F8F3}	U+E692	\x{EE9A92}	Orange	耳
-#0086	\x{F8F4}	U+E693	\x{EE9A93}	Orange	手(グー)
-#0087	\x{F8F5}	U+E694	\x{EE9A94}	Orange	手(チョキ)
-#0088	\x{F8F6}	U+E695	\x{EE9A95}	Orange	手(パー)
-#0089	\x{F8F7}	U+E696	\x{EE9A96}	Black	右斜め下
-#0090	\x{F8F8}	U+E697	\x{EE9A97}	Black	左斜め上
-#0091	\x{F8F9}	U+E698	\x{EE9A98}	Orange	足
-#0092	\x{F8FA}	U+E699	\x{EE9A99}	Black	くつ
-#0093	\x{F8FB}	U+E69A	\x{EE9A9A}	Black	眼鏡
-#0094	\x{F8FC}	U+E69B	\x{EE9A9B}	Blue	車椅子
-#0095	\x{F940}	U+E69C	\x{EE9A9C}	Black	新月
-#0096	\x{F941}	U+E69D	\x{EE9A9D}	Black	やや欠け月
-#0097	\x{F942}	U+E69E	\x{EE9A9E}	Black	半月
-#0098	\x{F943}	U+E69F	\x{EE9A9F}	Black	三日月
-#0099	\x{F944}	U+E6A0	\x{EE9AA0}	Black	満月
-#0100	\x{F945}	U+E6A1	\x{EE9AA1}	Orange	犬
-#0101	\x{F946}	U+E6A2	\x{EE9AA2}	Orange	猫
-#0102	\x{F947}	U+E6A3	\x{EE9AA3}	Blue	リゾート
-#0103	\x{F948}	U+E6A4	\x{EE9AA4}	Lime	クリスマス
-#0104	\x{F949}	U+E6A5	\x{EE9AA5}	Black	左斜め下
-#0105	\x{F972}	U+E6CE	\x{EE9B8E}	Black	phone to
-#0106	\x{F973}	U+E6CF	\x{EE9B8F}	Black	mail to
-#0107	\x{F974}	U+E6D0	\x{EE9B90}	Black	fax to
-#0108	\x{F975}	U+E6D1	\x{EE9B91}	Orange	iモード
-#0109	\x{F976}	U+E6D2	\x{EE9B92}	Orange	iモード(枠付き)
-#0110	\x{F977}	U+E6D3	\x{EE9B93}	Black	メール
-#0111	\x{F978}	U+E6D4	\x{EE9B94}	Black	ドコモ提供
-#0112	\x{F979}	U+E6D5	\x{EE9B95}	Black	ドコモポイント
-#0113	\x{F97A}	U+E6D6	\x{EE9B96}	Red	有料
-#0114	\x{F97B}	U+E6D7	\x{EE9B97}	Red	無料
-#0115	\x{F97C}	U+E6D8	\x{EE9B98}	Red	ID
-#0116	\x{F97D}	U+E6D9	\x{EE9B99}	Red	パスワード
-#0117	\x{F97E}	U+E6DA	\x{EE9B9A}	Red	次項有
-#0118	\x{F980}	U+E6DB	\x{EE9B9B}	Red	クリア
-#0119	\x{F981}	U+E6DC	\x{EE9B9C}	Blue	サーチ(調べる)
-#0120	\x{F982}	U+E6DD	\x{EE9B9D}	Red	NEW
-#0121	\x{F983}	U+E6DE	\x{EE9B9E}	Red	位置情報
-#0122	\x{F984}	U+E6DF	\x{EE9B9F}	Black	フリーダイヤル
-#0123	\x{F985}	U+E6E0	\x{EE9BA0}	Black	シャープダイヤル
-#0124	\x{F986}	U+E6E1	\x{EE9BA1}	Black	モバQ
-#0125	\x{F987}	U+E6E2	\x{EE9BA2}	Black	1
-#0126	\x{F988}	U+E6E3	\x{EE9BA3}	Black	2
-#0127	\x{F989}	U+E6E4	\x{EE9BA4}	Black	3
-#0128	\x{F98A}	U+E6E5	\x{EE9BA5}	Black	4
-#0129	\x{F98B}	U+E6E6	\x{EE9BA6}	Black	5
-#0130	\x{F98C}	U+E6E7	\x{EE9BA7}	Black	6
-#0131	\x{F98D}	U+E6E8	\x{EE9BA8}	Black	7
-#0132	\x{F98E}	U+E6E9	\x{EE9BA9}	Black	8
-#0133	\x{F98F}	U+E6EA	\x{EE9BAA}	Black	9
-#0134	\x{F990}	U+E6EB	\x{EE9BAB}	Black	0
-#0135	\x{F9B0}	U+E70B	\x{EE9C8B}	Red	決定
-#0136	\x{F991}	U+E6EC	\x{EE9BAC}	Red	黒ハート
-#0137	\x{F992}	U+E6ED	\x{EE9BAD}	Red	揺れるハート
-#0138	\x{F993}	U+E6EE	\x{EE9BAE}	Red	失恋
-#0139	\x{F994}	U+E6EF	\x{EE9BAF}	Red	ハートたち(複数ハート)
-#0140	\x{F995}	U+E6F0	\x{EE9BB0}	Fuchsia	わーい(嬉しい顔)
-#0141	\x{F996}	U+E6F1	\x{EE9BB1}	Red	ちっ(怒った顔)
-#0142	\x{F997}	U+E6F2	\x{EE9BB2}	Blue	がく〜(落胆した顔)
-#0143	\x{F998}	U+E6F3	\x{EE9BB3}	Lime	もうやだ〜(悲しい顔)
-#0144	\x{F999}	U+E6F4	\x{EE9BB4}	Blue	ふらふら
-#0145	\x{F99A}	U+E6F5	\x{EE9BB5}	Red	グッド(上向き矢印)
-#0146	\x{F99B}	U+E6F6	\x{EE9BB6}	Red	るんるん
-#0147	\x{F99C}	U+E6F7	\x{EE9BB7}	Red	いい気分(温泉)
-#0148	\x{F99D}	U+E6F8	\x{EE9BB8}	Fuchsia	かわいい
-#0149	\x{F99E}	U+E6F9	\x{EE9BB9}	Red	キスマーク
-#0150	\x{F99F}	U+E6FA	\x{EE9BBA}	Orange	ぴかぴか(新しい)
-#0151	\x{F9A0}	U+E6FB	\x{EE9BBB}	Orange	ひらめき
-#0152	\x{F9A1}	U+E6FC	\x{EE9BBC}	Black	むかっ(怒り)
-#0153	\x{F9A2}	U+E6FD	\x{EE9BBD}	Red	パンチ
-#0154	\x{F9A3}	U+E6FE	\x{EE9BBE}	Black	爆弾
-#0155	\x{F9A4}	U+E6FF	\x{EE9BBF}	Red	ムード
-#0156	\x{F9A5}	U+E700	\x{EE9C80}	Blue	バッド(下向き矢印)
-#0157	\x{F9A6}	U+E701	\x{EE9C81}	Blue	眠い(睡眠)
-#0158	\x{F9A7}	U+E702	\x{EE9C82}	Red	exclamation
-#0159	\x{F9A8}	U+E703	\x{EE9C83}	Fuchsia	exclamation&question
-#0160	\x{F9A9}	U+E704	\x{EE9C84}	Red	exclamation×2
-#0161	\x{F9AA}	U+E705	\x{EE9C85}	Red	どんっ(衝撃)
-#0162	\x{F9AB}	U+E706	\x{EE9C86}	Black	あせあせ(飛び散る汗)
-#0163	\x{F9AC}	U+E707	\x{EE9C87}	Black	たらーっ(汗)
-#0164	\x{F9AD}	U+E708	\x{EE9C88}	Black	ダッシュ(走り出すさま)
-#0165	\x{F9AE}	U+E709	\x{EE9C89}	Black	ー(長音記号１)
-#0166	\x{F9AF}	U+E70A	\x{EE9C8A}	Black	ー(長音記号２)
-#0167	\x{F950}	U+E6AC	\x{EE9AAC}	Black	カチンコ
-#0168	\x{F951}	U+E6AD	\x{EE9AAD}	Black	ふくろ
-#0169	\x{F952}	U+E6AE	\x{EE9AAE}	Black	ペン
-#0170	\x{F955}	U+E6B1	\x{EE9AB1}	Black	人影
-#0171	\x{F956}	U+E6B2	\x{EE9AB2}	Black	いす
-#0172	\x{F957}	U+E6B3	\x{EE9AB3}	Black	夜
-#0173	\x{F95B}	U+E6B7	\x{EE9AB7}	Black	soon
-#0174	\x{F95C}	U+E6B8	\x{EE9AB8}	Black	on
-#0175	\x{F95D}	U+E6B9	\x{EE9AB9}	Black	end
-#0176	\x{F95E}	U+E6BA	\x{EE9ABA}	Black	時計
-#0177	\x{F94A}	U+E6A6	\x{EE9AA6}	Blue	ぴあのぴ
-#0178	\x{F94B}	U+E6A7	\x{EE9AA7}	Blue	ぴあのあ
-#0179	\x{F94C}	U+E6A8	\x{EE9AA8}	Black	チケぴ
-#0180	\x{F94D}	U+E6A9	\x{EE9AA9}	Black	チケぴ
-#0181	\x{F94E}	U+E6AA	\x{EE9AAA}	Black	先行TEL
-#0182	\x{F94F}	U+E6AB	\x{EE9AAB}	Black	Ｐコード
-#0183	\x{F953}	U+E6AF	\x{EE9AAF}	Black	映画
-#0184	\x{F954}	U+E6B0	\x{EE9AB0}	Black	ぴあのぴ
-#0185	\x{F958}	U+E6B4	\x{EE9AB4}	Black	マルぴ
-#0186	\x{F959}	U+E6B5	\x{EE9AB5}	Black	四角ぴ
-#0187	\x{F95A}	U+E6B6	\x{EE9AB6}	Black	チェック
-#0188	\x{F95F}	U+E6BB	\x{EE9ABB}	Red	Ｆ
-#0189	\x{F960}	U+E6BC	\x{EE9ABC}	Red	Ｄ
-#0190	\x{F961}	U+E6BD	\x{EE9ABD}	Red	Ｓ
-#0191	\x{F962}	U+E6BE	\x{EE9ABE}	Red	Ｃ
-#0192	\x{F963}	U+E6BF	\x{EE9ABF}	Red	Ｒ
-#0193	\x{F964}	U+E6C0	\x{EE9B80}	Black	白黒四角
-#0194	\x{F965}	U+E6C1	\x{EE9B81}	Black	黒四角
-#0195	\x{F966}	U+E6C2	\x{EE9B82}	Black	逆三角
-#0196	\x{F967}	U+E6C3	\x{EE9B83}	Black	４十字
-#0197	\x{F968}	U+E6C4	\x{EE9B84}	Black	３十字
-#0198	\x{F969}	U+E6C5	\x{EE9B85}	Black	２十字
-#0199	\x{F96A}	U+E6C6	\x{EE9B86}	Black	十字
-#0200	\x{F96B}	U+E6C7	\x{EE9B87}	Red	Ｉ
-#0201	\x{F96C}	U+E6C8	\x{EE9B88}	Red	Ｍ
-#0202	\x{F96D}	U+E6C9	\x{EE9B89}	Red	Ｅ
-#0203	\x{F96E}	U+E6CA	\x{EE9B8A}	Red	VE
-#0204	\x{F96F}	U+E6CB	\x{EE9B8B}	Black	球
-#0205	\x{F970}	U+E6CC	\x{EE9B8C}	Black	カード使用不可
-#0206	\x{F971}	U+E6CD	\x{EE9B8D}	Black	チェックボックス
-#1001	\x{F9B1}	U+E70C	\x{EE9C8C}	Orange	ｉアプリ
-#1002	\x{F9B2}	U+E70D	\x{EE9C8D}	Orange	ｉアプリ(枠付き)
-#1003	\x{F9B3}	U+E70E	\x{EE9C8E}	Blue	Tシャツ(ボーダー)
-#1004	\x{F9B4}	U+E70F	\x{EE9C8F}	Black	がま口財布
-#1005	\x{F9B5}	U+E710	\x{EE9C90}	Red	化粧
-#1006	\x{F9B6}	U+E711	\x{EE9C91}	Navy	ジーンズ
-#1007	\x{F9B7}	U+E712	\x{EE9C92}	Blue	スノボ
-#1008	\x{F9B8}	U+E713	\x{EE9C93}	Orange	チャペル
-#1009	\x{F9B9}	U+E714	\x{EE9C94}	Maroon	ドア
-#1010	\x{F9BA}	U+E715	\x{EE9C95}	Maroon	ドル袋
-#1011	\x{F9BB}	U+E716	\x{EE9C96}	Black	パソコン
-#1012	\x{F9BC}	U+E717	\x{EE9C97}	Red	ラブレター
-#1013	\x{F9BD}	U+E718	\x{EE9C98}	Black	レンチ
-#1014	\x{F9BE}	U+E719	\x{EE9C99}	Lime	鉛筆
-#1015	\x{F9BF}	U+E71A	\x{EE9C9A}	Orange	王冠
-#1016	\x{F9C0}	U+E71B	\x{EE9C9B}	Fuchsia	指輪
-#1017	\x{F9C1}	U+E71C	\x{EE9C9C}	Black	砂時計
-#1018	\x{F9C2}	U+E71D	\x{EE9C9D}	Black	自転車
-#1019	\x{F9C3}	U+E71E	\x{EE9C9E}	Lime	湯のみ
-#1020	\x{F9C4}	U+E71F	\x{EE9C9F}	Black	腕時計
-#1021	\x{F9C5}	U+E720	\x{EE9CA0}	Lime	考えてる顔
-#1022	\x{F9C6}	U+E721	\x{EE9CA1}	Fuchsia	ほっとした顔
-#1023	\x{F9C7}	U+E722	\x{EE9CA2}	Blue	冷や汗
-#1024	\x{F9C8}	U+E723	\x{EE9CA3}	Blue	冷や汗2
-#1025	\x{F9C9}	U+E724	\x{EE9CA4}	Red	ぷっくっくな顔
-#1026	\x{F9CA}	U+E725	\x{EE9CA5}	Purple	ボケーっとした顔
-#1027	\x{F9CB}	U+E726	\x{EE9CA6}	Fuchsia	目がハート
-#1028	\x{F9CC}	U+E727	\x{EE9CA7}	Orange	指でOK
-#1029	\x{F9CD}	U+E728	\x{EE9CA8}	Red	あっかんべー
-#1030	\x{F9CE}	U+E729	\x{EE9CA9}	Fuchsia	ウィンク
-#1031	\x{F9CF}	U+E72A	\x{EE9CAA}	Fuchsia	うれしい顔
-#1032	\x{F9D0}	U+E72B	\x{EE9CAB}	Navy	がまん顔
-#1033	\x{F9D1}	U+E72C	\x{EE9CAC}	Orange	猫2
-#1034	\x{F9D2}	U+E72D	\x{EE9CAD}	Blue	泣き顔
-#1035	\x{F9D3}	U+E72E	\x{EE9CAE}	Blue	涙
-#1036	\x{F9D4}	U+E72F	\x{EE9CAF}	Red	NG
-#1037	\x{F9D5}	U+E730	\x{EE9CB0}	Blue	クリップ
-#1038	\x{F9D6}	U+E731	\x{EE9CB1}	Black	コピーライト
-#1039	\x{F9D7}	U+E732	\x{EE9CB2}	Black	トレードマーク
-#1040	\x{F9D8}	U+E733	\x{EE9CB3}	Black	走る人
-#1041	\x{F9D9}	U+E734	\x{EE9CB4}	Red	マル秘
-#1042	\x{F9DA}	U+E735	\x{EE9CB5}	Lime	リサイクル
-#1043	\x{F9DB}	U+E736	\x{EE9CB6}	Black	レジスタードトレードマーク
-#1044	\x{F9DC}	U+E737	\x{EE9CB7}	Orange	危険・警告
-#1045	\x{F9DD}	U+E738	\x{EE9CB8}	Red	禁止
-#1046	\x{F9DE}	U+E739	\x{EE9CB9}	Blue	空室・空席・空車
-#1047	\x{F9DF}	U+E73A	\x{EE9CBA}	Red	合格マーク
-#1048	\x{F9E0}	U+E73B	\x{EE9CBB}	Red	満室・満席・満車
-#1049	\x{F9E1}	U+E73C	\x{EE9CBC}	Black	矢印左右
-#1050	\x{F9E2}	U+E73D	\x{EE9CBD}	Black	矢印上下
-#1051	\x{F9E3}	U+E73E	\x{EE9CBE}	Lime	学校
-#1052	\x{F9E4}	U+E73F	\x{EE9CBF}	Blue	波
-#1053	\x{F9E5}	U+E740	\x{EE9D80}	Blue	富士山
-#1054	\x{F9E6}	U+E741	\x{EE9D81}	Lime	クローバー
-#1055	\x{F9E7}	U+E742	\x{EE9D82}	Red	さくらんぼ
-#1056	\x{F9E8}	U+E743	\x{EE9D83}	Red	チューリップ
-#1057	\x{F9E9}	U+E744	\x{EE9D84}	Orange	バナナ
-#1058	\x{F9EA}	U+E745	\x{EE9D85}	Red	りんご
-#1059	\x{F9EB}	U+E746	\x{EE9D86}	Lime	芽
-#1060	\x{F9EC}	U+E747	\x{EE9D87}	Red	もみじ
-#1061	\x{F9ED}	U+E748	\x{EE9D88}	Fuchsia	桜
-#1062	\x{F9EE}	U+E749	\x{EE9D89}	Black	おにぎり
-#1063	\x{F9EF}	U+E74A	\x{EE9D8A}	Red	ショートケーキ
-#1064	\x{F9F0}	U+E74B	\x{EE9D8B}	Maroon	とっくり(おちょこ付き)
-#1065	\x{F9F1}	U+E74C	\x{EE9D8C}	Orange	どんぶり
-#1066	\x{F9F2}	U+E74D	\x{EE9D8D}	Maroon	パン
-#1067	\x{F9F3}	U+E74E	\x{EE9D8E}	Maroon	かたつむり
-#1068	\x{F9F4}	U+E74F	\x{EE9D8F}	Orange	ひよこ
-#1069	\x{F9F5}	U+E750	\x{EE9D90}	Navy	ペンギン
-#1070	\x{F9F6}	U+E751	\x{EE9D91}	Blue	魚
-#1071	\x{F9F7}	U+E752	\x{EE9D92}	Orange	うまい！
-#1072	\x{F9F8}	U+E753	\x{EE9D93}	Orange	ウッシッシ
-#1073	\x{F9F9}	U+E754	\x{EE9D94}	Maroon	ウマ
-#1074	\x{F9FA}	U+E755	\x{EE9D95}	Orange	ブタ
-#1075	\x{F9FB}	U+E756	\x{EE9D96}	Purple	ワイングラス
-#1076	\x{F9FC}	U+E757	\x{EE9D97}	Purple	げっそり
+ordinal	Shift-JIS	JIS	PUA	UTF-8	Color	Japanese	English
+#0001	\x{F89F}	J+7541	U+E63E	\x{EE98BE}	Red	晴れ	Fine
+#0002	\x{F8A0}	J+7546	U+E63F	\x{EE98BF}	Blue	曇り	Cloudy
+#0003	\x{F8A1}	J+7545	U+E640	\x{EE9980}	Blue	雨	Rain
+#0004	\x{F8A2}	J+753E	U+E641	\x{EE9981}	Blue	雪	Snow
+#0005	\x{F8A3}	J+7540	U+E642	\x{EE9982}	Orange	雷	Thunder
+#0006	\x{F8A4}	J+7522	U+E643	\x{EE9983}	Red	台風	Typhoon
+#0007	\x{F8A5}	J+7837	U+E644	\x{EE9984}	Blue	霧	Fog
+#0008	\x{F8A6}	J+7A3E	U+E645	\x{EE9985}	Blue	小雨	Drizzle
+#0009	\x{F8A7}	J+7548	U+E646	\x{EE9986}	Red	牡羊座	Aries
+#0010	\x{F8A8}	J+7549	U+E647	\x{EE9987}	Orange	牡牛座	Taurus
+#0011	\x{F8A9}	J+754A	U+E648	\x{EE9988}	Lime	双子座	Gemini
+#0012	\x{F8AA}	J+754B	U+E649	\x{EE9989}	Blue	蟹座	Cancer
+#0013	\x{F8AB}	J+754C	U+E64A	\x{EE998A}	Red	獅子座	Leo
+#0014	\x{F8AC}	J+754D	U+E64B	\x{EE998B}	Orange	乙女座	Virgo
+#0015	\x{F8AD}	J+754E	U+E64C	\x{EE998C}	Lime	天秤座	Libra
+#0016	\x{F8AE}	J+754F	U+E64D	\x{EE998D}	Blue	蠍座	Scorpio
+#0017	\x{F8AF}	J+7550	U+E64E	\x{EE998E}	Red	射手座	Sagittarius
+#0018	\x{F8B0}	J+7551	U+E64F	\x{EE998F}	Orange	山羊座	Capricorn
+#0019	\x{F8B1}	J+7552	U+E650	\x{EE9990}	Lime	水瓶座	Aquarius
+#0020	\x{F8B2}	J+7553	U+E651	\x{EE9991}	Blue	魚座	Pisces
+#0021	\x{F8B3}	J+7E21	U+E652	\x{EE9992}	Fuchsia	スポーツ	Sports
+#0022	\x{F8B4}	J+7573	U+E653	\x{EE9993}	Black	野球	Baseball
+#0023	\x{F8B5}	J+7838	U+E654	\x{EE9994}	Blue	ゴルフ	Golf
+#0024	\x{F8B6}	J+7570	U+E655	\x{EE9995}	Lime	テニス	Tennis
+#0025	\x{F8B7}	J+756F	U+E656	\x{EE9996}	Black	サッカー	Soccer
+#0026	\x{F8B8}	J+7960	U+E657	\x{EE9997}	Blue	スキー	Ski
+#0027	\x{F8B9}	J+7839	U+E658	\x{EE9998}	Orange	バスケットボール	Basketball
+#0028	\x{F8BA}	J+7572	U+E659	\x{EE9999}	Black	モータースポーツ	Motor sports
+#0029	\x{F8BB}	J+783A	U+E65A	\x{EE999A}	Fuchsia	ポケットベル	Pager
+#0030	\x{F8BC}	J+756E	U+E65B	\x{EE999B}	Lime	電車	Train
+#0031	\x{F8BD}	J+786E	U+E65C	\x{EE999C}	Orange	地下鉄	Subway
+#0032	\x{F8BE}	J+7569	U+E65D	\x{EE999D}	Blue	新幹線	Bullet train
+#0033	\x{F8BF}	J+756A	U+E65E	\x{EE999E}	Black	車(セダン)	Car (sedan)
+#0034	\x{F8C0}	J+7E22	U+E65F	\x{EE999F}	Lime	車(RV)	Car (RV)
+#0035	\x{F8C1}	J+7568	U+E660	\x{EE99A0}	Red	バス	Bus
+#0036	\x{F8C2}	J+7936	U+E661	\x{EE99A1}	Blue	船	Ship
+#0037	\x{F8C3}	J+756C	U+E662	\x{EE99A2}	Blue	飛行機	Airplane
+#0038	\x{F8C4}	J+7564	U+E663	\x{EE99A3}	Red	家	House
+#0039	\x{F8C5}	J+7566	U+E664	\x{EE99A4}	Blue	ビル	Building
+#0040	\x{F8C6}	J+7932	U+E665	\x{EE99A5}	Red	郵便局	Post office
+#0041	\x{F8C7}	J+7933	U+E666	\x{EE99A6}	Red	病院	Hospital
+#0042	\x{F8C8}	J+7563	U+E667	\x{EE99A7}	Fuchsia	銀行	Bank
+#0043	\x{F8C9}	J+755C	U+E668	\x{EE99A8}	Red	ATM	ATM
+#0044	\x{F8CA}	J+7935	U+E669	\x{EE99A9}	Lime	ホテル	Hotel
+#0045	\x{F8CB}	J+755D	U+E66A	\x{EE99AA}	Blue	コンビニ	Convenience store
+#0046	\x{F8CC}	J+776E	U+E66B	\x{EE99AB}	Fuchsia	ガソリンスタンド	Gas station
+#0047	\x{F8CD}	J+755F	U+E66C	\x{EE99AC}	Blue	駐車場	Parking
+#0048	\x{F8CE}	J+7523	U+E66D	\x{EE99AD}	Black	信号	Traffic signal
+#0049	\x{F8CF}	J+755E	U+E66E	\x{EE99AE}	Black	トイレ	Toilet
+#0050	\x{F8D0}	J+7565	U+E66F	\x{EE99AF}	Black	レストラン	Restaurant
+#0051	\x{F8D1}	J+7836	U+E670	\x{EE99B0}	Lime	喫茶店	Café
+#0052	\x{F8D2}	J+757B	U+E671	\x{EE99B1}	Fuchsia	バー	Bar
+#0053	\x{F8D3}	J+757C	U+E672	\x{EE99B2}	Orange	ビール	Beer
+#0054	\x{F8D4}	J+7631	U+E673	\x{EE99B3}	Orange	ファーストフード	Fast food
+#0055	\x{F8D5}	J+7675	U+E674	\x{EE99B4}	Red	ブティック	Boutique
+#0056	\x{F8D6}	J+7671	U+E675	\x{EE99B5}	Blue	美容院	Hairdresser
+#0057	\x{F8D7}	J+765E	U+E676	\x{EE99B6}	Black	カラオケ	Karaoke
+#0058	\x{F8D8}	J+7672	U+E677	\x{EE99B7}	Black	映画	Movie
+#0059	\x{F8D9}	J+7752	U+E678	\x{EE99B8}	Black	右斜め上	Diagonally upward toward right
+#0060	\x{F8DA}	J+7E23	U+E679	\x{EE99B9}	Orange	遊園地	Amusement park
+#0061	\x{F8DB}	J+7663	U+E67A	\x{EE99BA}	Blue	音楽	Music
+#0062	\x{F8DC}	J+783B	U+E67B	\x{EE99BB}	Fuchsia	アート	Art
+#0063	\x{F8DD}	J+7A4B	U+E67C	\x{EE99BC}	Black	演劇	Drama
+#0064	\x{F8DE}	J+783D	U+E67D	\x{EE99BD}	Red	イベント	Event
+#0065	\x{F8DF}	J+7557	U+E67E	\x{EE99BE}	Orange	チケット	Ticket
+#0066	\x{F8E0}	J+7536	U+E67F	\x{EE99BF}	Black	喫煙	Smoking
+#0067	\x{F8E1}	J+7537	U+E680	\x{EE9A80}	Red	禁煙	Non-smoking
+#0068	\x{F8E2}	J+7670	U+E681	\x{EE9A81}	Black	カメラ	Camera
+#0069	\x{F8E3}	J+7555	U+E682	\x{EE9A82}	Red	カバン	Bag
+#0070	\x{F8E4}	J+7558	U+E683	\x{EE9A83}	Orange	本	Book
+#0071	\x{F8E5}	J+783E	U+E684	\x{EE9A84}	Red	リボン	Ribbon
+#0072	\x{F8E6}	J+762A	U+E685	\x{EE9A85}	Red	プレゼント	Present
+#0073	\x{F8E7}	J+783F	U+E686	\x{EE9A86}	Red	バースデイ	Birthday
+#0074	\x{F8E8}	J+7835	U+E687	\x{EE9A87}	Black	電話	Phone
+#0075	\x{F8E9}	J+7827	U+E688	\x{EE9A88}	Black	携帯電話	Mobile phone
+#0076	\x{F8EA}	J+7946	U+E689	\x{EE9A89}	Orange	メモ	Memo
+#0077	\x{F8EB}	J+765D	U+E68A	\x{EE9A8A}	Blue	TV	TV
+#0078	\x{F8EC}	J+7621	U+E68B	\x{EE9A8B}	Black	ゲーム	Game
+#0079	\x{F8ED}	J+7667	U+E68C	\x{EE9A8C}	Blue	CD	CD
+#0080	\x{F8EE}	J+7959	U+E68D	\x{EE9A8D}	Red	ハート	Heart
+#0081	\x{F8EF}	J+7840	U+E68E	\x{EE9A8E}	Black	スペード	Spade
+#0082	\x{F8F0}	J+7841	U+E68F	\x{EE9A8F}	Red	ダイヤ	Diamond
+#0083	\x{F8F1}	J+7842	U+E690	\x{EE9A90}	Black	クラブ	Club
+#0084	\x{F8F2}	J+7843	U+E691	\x{EE9A91}	Black	目	Eyes
+#0085	\x{F8F3}	J+7844	U+E692	\x{EE9A92}	Orange	耳	Ear
+#0086	\x{F8F4}	J+7B68	U+E693	\x{EE9A93}	Orange	手(グー)	Hand (rock)
+#0087	\x{F8F5}	J+7845	U+E694	\x{EE9A94}	Orange	手(チョキ)	Hand (scissors)
+#0088	\x{F8F6}	J+7846	U+E695	\x{EE9A95}	Orange	手(パー)	Hand (paper)
+#0089	\x{F8F7}	J+774A	U+E696	\x{EE9A96}	Black	右斜め下	Diagonally downward toward right
+#0090	\x{F8F8}	J+7749	U+E697	\x{EE9A97}	Black	左斜め上	Diagonally upward toward left
+#0091	\x{F8F9}	J+7A6D	U+E698	\x{EE9A98}	Orange	足	Foot
+#0092	\x{F8FA}	J+7A6E	U+E699	\x{EE9A99}	Black	くつ	Shoe
+#0093	\x{F8FB}	J+7659	U+E69A	\x{EE9A9A}	Black	眼鏡	Eyeglasses
+#0094	\x{F8FC}	J+7538	U+E69B	\x{EE9A9B}	Blue	車椅子	Wheelchair
+#0095	\x{F940}	J+7847	U+E69C	\x{EE9A9C}	Black	新月	New moon
+#0096	\x{F941}	J+7848	U+E69D	\x{EE9A9D}	Black	やや欠け月	Waning moon
+#0097	\x{F942}	J+7849	U+E69E	\x{EE9A9E}	Black	半月	Half moon
+#0098	\x{F943}	J+753F	U+E69F	\x{EE9A9F}	Black	三日月	Crescent moon
+#0099	\x{F944}	J+7E24	U+E6A0	\x{EE9AA0}	Black	満月	Full moon
+#0100	\x{F945}	J+763C	U+E6A1	\x{EE9AA1}	Orange	犬	Dog
+#0101	\x{F946}	J+7636	U+E6A2	\x{EE9AA2}	Orange	猫	Cat
+#0102	\x{F947}	J+756D	U+E6A3	\x{EE9AA3}	Blue	リゾート	Resort
+#0103	\x{F948}	J+7624	U+E6A4	\x{EE9AA4}	Lime	クリスマス	Christmas
+#0104	\x{F949}	J+7753	U+E6A5	\x{EE9AA5}	Black	左斜め下	Diagonally downward toward left
+#0105	\x{F972}	J+7861	U+E6CE	\x{EE9B8E}	Black	phone to	Phone to
+#0106	\x{F973}	J+7B47	U+E6CF	\x{EE9B8F}	Black	mail to	mail to
+#0107	\x{F974}	J+767B	U+E6D0	\x{EE9B90}	Black	fax to	fax to
+#0108	\x{F975}	J+7E25	U+E6D1	\x{EE9B91}	Orange	iモード	i-mode
+#0109	\x{F976}	J+7E26	U+E6D2	\x{EE9B92}	Orange	iモード(枠付き)	i-mode with frame
+#0110	\x{F977}	J+767C	U+E6D3	\x{EE9B93}	Black	メール	Mail
+#0111	\x{F978}	J+7E27	U+E6D4	\x{EE9B94}	Black	ドコモ提供	Provided by DOCOMO
+#0112	\x{F979}	J+7E28	U+E6D5	\x{EE9B95}	Black	ドコモポイント	docomo Point
+#0113	\x{F97A}	J+777A	U+E6D6	\x{EE9B96}	Red	有料	Fee charging
+#0114	\x{F97B}	J+7775	U+E6D7	\x{EE9B97}	Red	無料	Free of charge
+#0115	\x{F97C}	J+793C	U+E6D8	\x{EE9B98}	Red	ID	ID
+#0116	\x{F97D}	J+7674	U+E6D9	\x{EE9B99}	Red	パスワード	Password
+#0117	\x{F97E}	J+775A	U+E6DA	\x{EE9B9A}	Red	次項有	Continuing
+#0118	\x{F980}	J+784A	U+E6DB	\x{EE9B9B}	Red	クリア	Clear
+#0119	\x{F981}	J+7673	U+E6DC	\x{EE9B9C}	Blue	サーチ(調べる)	Search
+#0120	\x{F982}	J+7867	U+E6DD	\x{EE9B9D}	Red	NEW	New
+#0121	\x{F983}	J+7A6F	U+E6DE	\x{EE9B9E}	Red	位置情報	Location information
+#0122	\x{F984}	J+7D5D	U+E6DF	\x{EE9B9F}	Black	フリーダイヤル	Free dial
+#0123	\x{F985}	J+7B69	U+E6E0	\x{EE9BA0}	Black	シャープダイヤル	Sharp dial
+#0124	\x{F986}	J+7729	U+E6E1	\x{EE9BA1}	Black	モバQ	MobileQ
+#0125	\x{F987}	J+767D	U+E6E2	\x{EE9BA2}	Black	1	1
+#0126	\x{F988}	J+767E	U+E6E3	\x{EE9BA3}	Black	2	2
+#0127	\x{F989}	J+7721	U+E6E4	\x{EE9BA4}	Black	3	3
+#0128	\x{F98A}	J+7722	U+E6E5	\x{EE9BA5}	Black	4	4
+#0129	\x{F98B}	J+7723	U+E6E6	\x{EE9BA6}	Black	5	5
+#0130	\x{F98C}	J+7724	U+E6E7	\x{EE9BA7}	Black	6	6
+#0131	\x{F98D}	J+7725	U+E6E8	\x{EE9BA8}	Black	7	7
+#0132	\x{F98E}	J+7726	U+E6E9	\x{EE9BA9}	Black	8	8
+#0133	\x{F98F}	J+7727	U+E6EA	\x{EE9BAA}	Black	9	9
+#0134	\x{F990}	J+784B	U+E6EB	\x{EE9BAB}	Black	0	
+#0135	\x{F9B0}	J+784C	U+E70B	\x{EE9C8B}	Red	決定	Accept
+#0136	\x{F991}	J+7834	U+E6EC	\x{EE9BAC}	Red	黒ハート	Black heart
+#0137	\x{F992}	J+7B5A	U+E6ED	\x{EE9BAD}	Red	揺れるハート	Fluttering heart
+#0138	\x{F993}	J+7530	U+E6EE	\x{EE9BAE}	Red	失恋	Heartbreak
+#0139	\x{F994}	J+7531	U+E6EF	\x{EE9BAF}	Red	ハートたち(複数ハート)	Hearts
+#0140	\x{F995}	J+752A	U+E6F0	\x{EE9BB0}	Fuchsia	わーい(嬉しい顔)	Happy face
+#0141	\x{F996}	J+752B	U+E6F1	\x{EE9BB1}	Red	ちっ(怒った顔)	Angry face
+#0142	\x{F997}	J+7974	U+E6F2	\x{EE9BB2}	Blue	がく〜(落胆した顔)	Disappointed face
+#0143	\x{F998}	J+7977	U+E6F3	\x{EE9BB3}	Lime	もうやだ〜(悲しい顔)	Sad face
+#0144	\x{F999}	J+784D	U+E6F4	\x{EE9BB4}	Blue	ふらふら	Dizzy
+#0145	\x{F99A}	J+7A70	U+E6F5	\x{EE9BB5}	Red	グッド(上向き矢印)	Good (upward arrow)
+#0146	\x{F99B}	J+7870	U+E6F6	\x{EE9BB6}	Red	るんるん	Cheerful
+#0147	\x{F99C}	J+7575	U+E6F7	\x{EE9BB7}	Red	いい気分(温泉)	Comfort (hot spring)
+#0148	\x{F99D}	J+7E29	U+E6F8	\x{EE9BB8}	Fuchsia	かわいい	Cute
+#0149	\x{F99E}	J+7646	U+E6F9	\x{EE9BB9}	Red	キスマーク	Kiss
+#0150	\x{F99F}	J+795F	U+E6FA	\x{EE9BBA}	Orange	ぴかぴか(新しい)	Shining new
+#0151	\x{F9A0}	J+752F	U+E6FB	\x{EE9BBB}	Orange	ひらめき	Good idea
+#0152	\x{F9A1}	J+7640	U+E6FC	\x{EE9BBC}	Black	むかっ(怒り)	Angry
+#0153	\x{F9A2}	J+764E	U+E6FD	\x{EE9BBD}	Red	パンチ	Punch
+#0154	\x{F9A3}	J+7533	U+E6FE	\x{EE9BBE}	Black	爆弾	Bomb
+#0155	\x{F9A4}	J+7660	U+E6FF	\x{EE9BBF}	Red	ムード	Mood
+#0156	\x{F9A5}	J+7A71	U+E700	\x{EE9C80}	Blue	バッド(下向き矢印)	Bad (downward arrow)
+#0157	\x{F9A6}	J+752E	U+E701	\x{EE9C81}	Blue	眠い(睡眠)	Sleepy (sleep)
+#0158	\x{F9A7}	J+753B	U+E702	\x{EE9C82}	Red	exclamation	Exclamation mark
+#0159	\x{F9A8}	J+7A72	U+E703	\x{EE9C83}	Fuchsia	exclamation&question	exclamation&amp;question marks
+#0160	\x{F9A9}	J+7A73	U+E704	\x{EE9C84}	Red	exclamation×2	Two exclamation marks
+#0161	\x{F9AA}	J+784F	U+E705	\x{EE9C85}	Red	どんっ(衝撃)	Bump (collision)
+#0162	\x{F9AB}	J+7850	U+E706	\x{EE9C86}	Black	あせあせ(飛び散る汗)	Sweat
+#0163	\x{F9AC}	J+7641	U+E707	\x{EE9C87}	Black	たらーっ(汗)	Cold sweat
+#0164	\x{F9AD}	J+764F	U+E708	\x{EE9C88}	Black	ダッシュ(走り出すさま)	Dash (running dash)
+#0165	\x{F9AE}	J+7E2A	U+E709	\x{EE9C89}	Black	ー(長音記号１)	Macron 1
+#0166	\x{F9AF}	J+7A74	U+E70A	\x{EE9C8A}	Black	ー(長音記号２)	Macron 2
+#0167	\x{F950}	J+7577	U+E6AC	\x{EE9AAC}	Black	カチンコ	Clapboard
+#0168	\x{F951}	J+7E2B	U+E6AD	\x{EE9AAD}	Black	ふくろ	Pouch
+#0169	\x{F952}	J+785C	U+E6AE	\x{EE9AAE}	Black	ペン	Pen
+#0170	\x{F955}	J+7E2C	U+E6B1	\x{EE9AB1}	Black	人影	Silhouette
+#0171	\x{F956}	J+7D57	U+E6B2	\x{EE9AB2}	Black	いす	Chair
+#0172	\x{F957}	J+7A47	U+E6B3	\x{EE9AB3}	Black	夜	Night
+#0173	\x{F95B}	J+7E2D	U+E6B7	\x{EE9AB7}	Black	soon	Soon
+#0174	\x{F95C}	J+7E2E	U+E6B8	\x{EE9AB8}	Black	on	on
+#0175	\x{F95D}	J+7E2F	U+E6B9	\x{EE9AB9}	Black	end	end
+#0176	\x{F95E}	J+7833	U+E6BA	\x{EE9ABA}	Black	時計	Clock
+#0177	\x{F94A}		U+E6A6	\x{EE9AA6}	Blue	ぴあのぴ	
+#0178	\x{F94B}		U+E6A7	\x{EE9AA7}	Blue	ぴあのあ	
+#0179	\x{F94C}		U+E6A8	\x{EE9AA8}	Black	チケぴ	
+#0180	\x{F94D}		U+E6A9	\x{EE9AA9}	Black	チケぴ	
+#0181	\x{F94E}		U+E6AA	\x{EE9AAA}	Black	先行TEL	
+#0182	\x{F94F}		U+E6AB	\x{EE9AAB}	Black	Ｐコード	
+#0183	\x{F953}		U+E6AF	\x{EE9AAF}	Black	映画	
+#0184	\x{F954}		U+E6B0	\x{EE9AB0}	Black	ぴあのぴ	
+#0185	\x{F958}		U+E6B4	\x{EE9AB4}	Black	マルぴ	
+#0186	\x{F959}		U+E6B5	\x{EE9AB5}	Black	四角ぴ	
+#0187	\x{F95A}		U+E6B6	\x{EE9AB6}	Black	チェック	
+#0188	\x{F95F}		U+E6BB	\x{EE9ABB}	Red	Ｆ	
+#0189	\x{F960}		U+E6BC	\x{EE9ABC}	Red	Ｄ	
+#0190	\x{F961}		U+E6BD	\x{EE9ABD}	Red	Ｓ	
+#0191	\x{F962}		U+E6BE	\x{EE9ABE}	Red	Ｃ	
+#0192	\x{F963}		U+E6BF	\x{EE9ABF}	Red	Ｒ	
+#0193	\x{F964}		U+E6C0	\x{EE9B80}	Black	白黒四角	
+#0194	\x{F965}		U+E6C1	\x{EE9B81}	Black	黒四角	
+#0195	\x{F966}		U+E6C2	\x{EE9B82}	Black	逆三角	
+#0196	\x{F967}		U+E6C3	\x{EE9B83}	Black	４十字	
+#0197	\x{F968}		U+E6C4	\x{EE9B84}	Black	３十字	
+#0198	\x{F969}		U+E6C5	\x{EE9B85}	Black	２十字	
+#0199	\x{F96A}		U+E6C6	\x{EE9B86}	Black	十字	
+#0200	\x{F96B}		U+E6C7	\x{EE9B87}	Red	Ｉ	
+#0201	\x{F96C}		U+E6C8	\x{EE9B88}	Red	Ｍ	
+#0202	\x{F96D}		U+E6C9	\x{EE9B89}	Red	Ｅ	
+#0203	\x{F96E}		U+E6CA	\x{EE9B8A}	Red	VE	
+#0204	\x{F96F}		U+E6CB	\x{EE9B8B}	Black	球	
+#0205	\x{F970}		U+E6CC	\x{EE9B8C}	Black	カード使用不可	
+#0206	\x{F971}		U+E6CD	\x{EE9B8D}	Black	チェックボックス	
+#1001	\x{F9B1}	J+7E30	U+E70C	\x{EE9C8C}	Orange	ｉアプリ	i-αppli
+#1002	\x{F9B2}	J+7E31	U+E70D	\x{EE9C8D}	Orange	ｉアプリ(枠付き)	i-αppli (with border)
+#1003	\x{F9B3}	J+7868	U+E70E	\x{EE9C8E}	Blue	Tシャツ(ボーダー)	T-shirt (border)
+#1004	\x{F9B4}	J+765F	U+E70F	\x{EE9C8F}	Black	がま口財布	Purse
+#1005	\x{F9B5}	J+7664	U+E710	\x{EE9C90}	Red	化粧	Make-up
+#1006	\x{F9B6}	J+7B5C	U+E711	\x{EE9C91}	Navy	ジーンズ	Jeans
+#1007	\x{F9B7}	J+7571	U+E712	\x{EE9C92}	Blue	スノボ	Snowboarding
+#1008	\x{F9B8}	J+766D	U+E713	\x{EE9C93}	Orange	チャペル	Chapel
+#1009	\x{F9B9}	J+7E32	U+E714	\x{EE9C94}	Maroon	ドア	Door
+#1010	\x{F9BA}	J+7622	U+E715	\x{EE9C95}	Maroon	ドル袋	Money bag
+#1011	\x{F9BB}	J+786A	U+E716	\x{EE9C96}	Black	パソコン	Computer
+#1012	\x{F9BC}	J+7B5D	U+E717	\x{EE9C97}	Red	ラブレター	Love letter
+#1013	\x{F9BD}	J+7826	U+E718	\x{EE9C98}	Black	レンチ	Wrench
+#1014	\x{F9BE}	J+755A	U+E719	\x{EE9C99}	Lime	鉛筆	Pencil
+#1015	\x{F9BF}	J+787B	U+E71A	\x{EE9C9A}	Orange	王冠	Crown
+#1016	\x{F9C0}	J+766F	U+E71B	\x{EE9C9B}	Fuchsia	指輪	Ring
+#1017	\x{F9C1}	J+7535	U+E71C	\x{EE9C9C}	Black	砂時計	Sandglass
+#1018	\x{F9C2}	J+7567	U+E71D	\x{EE9C9D}	Black	自転車	Bicycle
+#1019	\x{F9C3}	J+7962	U+E71E	\x{EE9C9E}	Lime	湯のみ	Tea cup
+#1020	\x{F9C4}	J+7777	U+E71F	\x{EE9C9F}	Black	腕時計	Wrist watch
+#1021	\x{F9C5}	J+7E33	U+E720	\x{EE9CA0}	Lime	考えてる顔	Thinking face
+#1022	\x{F9C6}	J+7979	U+E721	\x{EE9CA1}	Fuchsia	ほっとした顔	Relief face
+#1023	\x{F9C7}	J+7E34	U+E722	\x{EE9CA2}	Blue	冷や汗	Cold sweat
+#1024	\x{F9C8}	J+7878	U+E723	\x{EE9CA3}	Blue	冷や汗2	Cold sweat 2
+#1025	\x{F9C9}	J+7B42	U+E724	\x{EE9CA4}	Red	ぷっくっくな顔	Pouting face
+#1026	\x{F9CA}	J+797D	U+E725	\x{EE9CA5}	Purple	ボケーっとした顔	Expressionless face
+#1027	\x{F9CB}	J+7876	U+E726	\x{EE9CA6}	Fuchsia	目がハート	Heart shaped eyes
+#1028	\x{F9CC}	J+7654	U+E727	\x{EE9CA7}	Orange	指でOK	Thumbs up
+#1029	\x{F9CD}	J+7642	U+E728	\x{EE9CA8}	Red	あっかんべー	Sticking tongue out
+#1030	\x{F9CE}	J+7875	U+E729	\x{EE9CA9}	Fuchsia	ウィンク	Wink
+#1031	\x{F9CF}	J+7E35	U+E72A	\x{EE9CAA}	Fuchsia	うれしい顔	Happy face
+#1032	\x{F9D0}	J+7976	U+E72B	\x{EE9CAB}	Navy	がまん顔	Enduring face
+#1033	\x{F9D1}	J+7973	U+E72C	\x{EE9CAC}	Orange	猫2	Cat 2
+#1034	\x{F9D2}	J+752C	U+E72D	\x{EE9CAD}	Blue	泣き顔	Crying
+#1035	\x{F9D3}	J+7B4E	U+E72E	\x{EE9CAE}	Blue	涙	Tear
+#1036	\x{F9D4}	J+7E36	U+E72F	\x{EE9CAF}	Red	NG	NG (No good)
+#1037	\x{F9D5}	J+7559	U+E730	\x{EE9CB0}	Blue	クリップ	Paper clip
+#1038	\x{F9D6}	J+7755	U+E731	\x{EE9CB1}	Black	コピーライト	Copyright
+#1039	\x{F9D7}	J+774B	U+E732	\x{EE9CB2}	Black	トレードマーク	Trademark
+#1040	\x{F9D8}	J+7524	U+E733	\x{EE9CB3}	Black	走る人	Running man
+#1041	\x{F9D9}	J+764C	U+E734	\x{EE9CB4}	Red	マル秘	Top secret
+#1042	\x{F9DA}	J+7B5E	U+E735	\x{EE9CB5}	Lime	リサイクル	Recycle
+#1043	\x{F9DB}	J+7756	U+E736	\x{EE9CB6}	Black	レジスタードトレードマーク	Registered trademark
+#1044	\x{F9DC}	J+753A	U+E737	\x{EE9CB7}	Orange	危険・警告	Danger / Caution
+#1045	\x{F9DD}	J+7E37	U+E738	\x{EE9CB8}	Red	禁止	Prohibited
+#1046	\x{F9DE}	J+793E	U+E739	\x{EE9CB9}	Blue	空室・空席・空車	Vacant
+#1047	\x{F9DF}	J+7E38	U+E73A	\x{EE9CBA}	Red	合格マーク	Approved
+#1048	\x{F9E0}	J+793D	U+E73B	\x{EE9CBB}	Red	満室・満席・満車	Full
+#1049	\x{F9E1}	J+7B5F	U+E73C	\x{EE9CBC}	Black	矢印左右	Horizontal arrows
+#1050	\x{F9E2}	J+7B60	U+E73D	\x{EE9CBD}	Black	矢印上下	Vertical arrows
+#1051	\x{F9E3}	J+7934	U+E73E	\x{EE9CBE}	Lime	学校	School
+#1052	\x{F9E4}	J+7B61	U+E73F	\x{EE9CBF}	Blue	波	Wave
+#1053	\x{F9E5}	J+786F	U+E740	\x{EE9D80}	Blue	富士山	Mount Fuji
+#1054	\x{F9E6}	J+766E	U+E741	\x{EE9D81}	Lime	クローバー	4-leaf clover
+#1055	\x{F9E7}	J+762D	U+E742	\x{EE9D82}	Red	さくらんぼ	Cherries
+#1056	\x{F9E8}	J+763F	U+E743	\x{EE9D83}	Red	チューリップ	Tulip
+#1057	\x{F9E9}	J+7A78	U+E744	\x{EE9D84}	Orange	バナナ	Banana
+#1058	\x{F9EA}	J+796D	U+E745	\x{EE9D85}	Red	りんご	Apple
+#1059	\x{F9EB}	J+7B62	U+E746	\x{EE9D86}	Lime	芽	Seedling
+#1060	\x{F9EC}	J+7629	U+E747	\x{EE9D87}	Red	もみじ	Maple leaf
+#1061	\x{F9ED}	J+7625	U+E748	\x{EE9D88}	Fuchsia	桜	Cherry blossom
+#1062	\x{F9EE}	J+7630	U+E749	\x{EE9D89}	Black	おにぎり	Rice ball
+#1063	\x{F9EF}	J+762B	U+E74A	\x{EE9D8A}	Red	ショートケーキ	Short cake
+#1064	\x{F9F0}	J+794B	U+E74B	\x{EE9D8B}	Maroon	とっくり(おちょこ付き)	Sake bottle (sake cup)
+#1065	\x{F9F1}	J+7853	U+E74C	\x{EE9D8C}	Orange	どんぶり	Bowl
+#1066	\x{F9F2}	J+7963	U+E74D	\x{EE9D8D}	Maroon	パン	Bread
+#1067	\x{F9F3}	J+7B63	U+E74E	\x{EE9D8E}	Maroon	かたつむり	Snail
+#1068	\x{F9F4}	J+763B	U+E74F	\x{EE9D8F}	Orange	ひよこ	Baby chick
+#1069	\x{F9F5}	J+7637	U+E750	\x{EE9D90}	Navy	ペンギン	Penguin
+#1070	\x{F9F6}	J+7A60	U+E751	\x{EE9D91}	Blue	魚	Fish
+#1071	\x{F9F7}	J+7A23	U+E752	\x{EE9D92}	Orange	うまい！	Yumm!
+#1072	\x{F9F8}	J+7B65	U+E753	\x{EE9D93}	Orange	ウッシッシ	He he he
+#1073	\x{F9F9}	J+7633	U+E754	\x{EE9D94}	Maroon	ウマ	Horse
+#1074	\x{F9FA}	J+7639	U+E755	\x{EE9D95}	Orange	ブタ	Pig
+#1075	\x{F9FB}	J+757A	U+E756	\x{EE9D96}	Purple	ワイングラス	Wine glass
+#1076	\x{F9FC}	J+7877	U+E757	\x{EE9D97}	Purple	げっそり	Very thin
