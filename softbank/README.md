@@ -1091,6 +1091,15 @@ This has not yet been checked sufficently.
 - 267 graphics plus 1 empty template
 - File names: 3 decimal digits with leading zeros `001`..`267`
 
+## [RareSets](rare/) ##
+
+- Source: Extracted from Device User Guide PDFs
+- 902SH https://cdn.softbank.jp/en/mobile/set/data/support/users-guide/shared/vf902sh/902sh-e-manual.pdf
+- 702MO http://broadband.mb.softbank.jp/mb/japanese/mysoftbank/crm/online_manual/pdf/702mo/702mo.pdf
+- 931SC https://cdn.softbank.jp/mobile/set/data/support/product/931sc/download/pdf/931sc_en_userguide_r4.pdf
+- Not much known about these... They don't follow the normal generation of designs. 
+- Missing color including the animated frames. 
+
 ## [tech](tech/) ##
 
 - Source: `http://creation.mb.softbank.jp/mc/tech/tech_pic/img/`
